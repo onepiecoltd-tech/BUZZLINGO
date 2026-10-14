@@ -6,6 +6,7 @@ Prototype mobile-first cho người Việt bắt đầu học Mandarin (chữ gi
 
 - 5 khu vực: Hôm nay, Lộ trình HSK, Ôn SRS, Tiến bộ, Blueprint.
 - Một bài học end-to-end gồm 4 dạng bài: nhận diện thanh điệu, nối âm-nghĩa, hoàn thành câu và phản xạ hội thoại.
+- Bốn phòng luyện độc lập: Nghe có audio Mandarin, Nói ghi âm cục bộ, Đọc nối Hanzi–Pinyin–nghĩa, Viết có canvas tô chữ bằng chuột hoặc ngón tay.
 - Flashcard SRS có lật thẻ và chọn lịch ôn; XP được cập nhật sau bài học.
 - Responsive: mobile bottom navigation, desktop side navigation.
 

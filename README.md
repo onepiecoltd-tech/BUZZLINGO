@@ -33,6 +33,7 @@ Prototype mobile-first cho người Việt bắt đầu học Mandarin (chữ gi
 - Mandarin phổ thông, chữ giản thể, HSK 3.0 làm khung nhưng MVP chỉ tới nền HSK 1.
 - Freemium không quảng cáo; tải bài để học offline; cloud sync khi có mạng.
 - `dist/assets/buzzlingo-mascots-canonical.png` là asset ứng dụng hiện hành, dùng chung cho hero và avatar coach của cả Bắp lẫn Blu.
+- Avatar coach dùng hai ảnh riêng `bap-coach-avatar.png` và `blu-coach-avatar.png`; hiển thị bằng `object-fit: contain` để toàn bộ tai và mặt luôn nằm gọn trong khung nhỏ.
 
 ## Nguồn tham chiếu sản phẩm
 

@@ -13,7 +13,7 @@ Prototype mobile-first cho người Việt bắt đầu học Mandarin (chữ gi
 
 - Đối tượng: người Việt chưa biết tiếng Trung; mục tiêu đầu là nói được, không bị ngợp bởi chữ Hán.
 - Trục học: nghe âm → nhận diện thanh → hiểu nghĩa → thấy chữ → dùng trong hội thoại.
-- Bắp (chó cái) là coach khích lệ; Blu (mèo đực) là bạn luyện tò mò, gợi mẹo nhớ.
+- Bắp (chó cái trắng–nâu, tai dựng) là coach khích lệ; Blu (mèo đực trắng tuyết) là bạn luyện tò mò, gợi mẹo nhớ.
 - MVP 4 tuần: Pinyin/thanh điệu; chào hỏi; số/tuổi/quốc tịch; gia đình/sở thích; gọi món; 60–90 Hanzi và checkpoint nền HSK 1.
 
 ## Kiến trúc app đề xuất
@@ -32,7 +32,7 @@ Prototype mobile-first cho người Việt bắt đầu học Mandarin (chữ gi
 
 - Mandarin phổ thông, chữ giản thể, HSK 3.0 làm khung nhưng MVP chỉ tới nền HSK 1.
 - Freemium không quảng cáo; tải bài để học offline; cloud sync khi có mạng.
-- Chưa có asset dự án cũ trong workspace. `dist/assets/bap-blu.png` là asset mới, có thể thay mà không đổi cấu trúc màn hình.
+- Chưa có asset dự án cũ trong workspace. `dist/assets/bap-blu-v2.png` là asset hiện hành; bản đầu vẫn được giữ để đối chiếu.
 
 ## Nguồn tham chiếu sản phẩm
 

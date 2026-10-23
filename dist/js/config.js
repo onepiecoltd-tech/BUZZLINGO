@@ -6,6 +6,6 @@
  * Để trống = tắt đồng bộ, app chỉ lưu trên máy. Có thể điền bằng lệnh: node tools/set-supabase.mjs <url> <anon-key> */
 window.BuzzConfig = Object.assign({
   coachEndpoint: 'https://peppy-faun-a6f96c.netlify.app/api/coach',
-  supabaseUrl: 'https://supabase.com/dashboard/project/bjqombrikmoqmntulutrsb_publishable_lNDGzhhXurCXHoC2lBUsvw_pwsDIQWn',
-  supabaseAnonKey: '',
+  supabaseUrl: 'https://bjqombrikmoqmntulutr.supabase.co',
+  supabaseAnonKey: 'sb_publishable_lNDGzhhXurCXHoC2lBUsvw_pwsDIQWn',
 }, window.BuzzConfig || {});

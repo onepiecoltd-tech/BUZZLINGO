@@ -5,111 +5,201 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
   <meta name="theme-color" content="#fffaf1" />
   <title>BuzzLingo — Học tiếng Trung từ số 0</title>
-  <meta name="description" content="Prototype mobile-first học tiếng Trung cho người Việt: Pinyin, thanh điệu, nghe nói, chữ Hán, HSK và SRS." />
+  <meta name="description" content="Học tiếng Trung cho người Việt: Pinyin, thanh điệu, nghe nói đọc viết, chữ Hán và ôn tập SRS." />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@500;700;900&display=swap" rel="stylesheet">
-  <style>
-    :root{--ink:#18333c;--muted:#708088;--paper:#fffaf1;--card:#fff;--yellow:#ffca52;--yellow2:#fff0b8;--teal:#159a91;--blue:#4e86ad;--coral:#f97963;--line:#e8e4db;--shadow:0 16px 42px rgba(31,55,58,.10)}
-    *{box-sizing:border-box} body{margin:0;background:radial-gradient(circle at 15% 0,#fff3c9 0,transparent 34%),var(--paper);color:var(--ink);font-family:'Be Vietnam Pro',system-ui,sans-serif;-webkit-tap-highlight-color:transparent}
-    button{font:inherit;color:inherit}.shell{min-height:100dvh;max-width:1180px;margin:auto;display:grid;grid-template-columns:240px minmax(0,1fr)}
-    .rail{padding:28px 20px;border-right:1px solid var(--line);display:flex;flex-direction:column;gap:24px;position:sticky;top:0;height:100dvh}.brand{display:flex;align-items:center;gap:10px;font-weight:800;font-size:20px}.brand-dot{width:38px;height:38px;border-radius:13px;background:var(--yellow);display:grid;place-items:center;transform:rotate(-7deg)}
-    .nav{display:grid;gap:8px}.nav button,.bottom-nav button{border:0;background:transparent;cursor:pointer}.nav button{padding:13px 14px;border-radius:15px;text-align:left;font-weight:650;display:flex;gap:12px;align-items:center;color:var(--muted)}.nav button.active{background:#fff;color:var(--ink);box-shadow:0 6px 22px rgba(31,55,58,.07)}
-    .rail-card{margin-top:auto;background:var(--ink);color:white;padding:17px;border-radius:20px}.rail-card b{display:block}.rail-card small{opacity:.7}.content{padding:24px 30px 110px;max-width:760px;width:100%;margin:0 auto}.topbar{display:flex;justify-content:space-between;align-items:center;margin-bottom:22px}.hello small{color:var(--muted)}.hello h1{font-size:24px;margin:3px 0}.stats{display:flex;gap:8px}.pill{background:#fff;border:1px solid var(--line);border-radius:999px;padding:8px 11px;font-size:13px;font-weight:700}
-    .screen{display:none;animation:rise .3s ease}.screen.active{display:block}@keyframes rise{from{opacity:.3;transform:translateY(7px)}}
-    .hero{background:linear-gradient(135deg,#193940,#285a5c);color:#fff;border-radius:28px;min-height:235px;padding:26px;position:relative;overflow:hidden;display:flex;align-items:flex-start}.hero-copy{position:relative;z-index:2;width:58%}.eyebrow{font-size:11px;text-transform:uppercase;letter-spacing:.12em;color:#ffd86e;font-weight:800}.hero h2{font-size:27px;line-height:1.18;margin:9px 0}.hero p{font-size:13px;line-height:1.6;opacity:.75}.mascots{position:absolute;width:58%;right:-10%;bottom:-8%;filter:drop-shadow(0 12px 20px #0b242888)}
-    .primary,.secondary{border:0;border-radius:16px;padding:13px 18px;font-weight:800;cursor:pointer}.primary{background:var(--yellow);box-shadow:0 5px 0 #d99520}.primary:active{transform:translateY(3px);box-shadow:0 2px 0 #d99520}.secondary{background:white;border:1px solid var(--line)}
-    .section-head{display:flex;justify-content:space-between;align-items:center;margin:26px 2px 12px}.section-head h3{margin:0;font-size:18px}.section-head button{border:0;background:transparent;color:var(--teal);font-weight:700}
-    .quick-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:11px}.quick{background:#fff;border:1px solid var(--line);border-radius:19px;padding:14px;box-shadow:0 7px 25px rgba(31,55,58,.05);cursor:pointer}.quick .icon{font-size:24px}.quick b{display:block;margin-top:7px;font-size:14px}.quick small{color:var(--muted);font-size:11px}.review-card{background:#fff;border:1px solid var(--line);border-radius:22px;padding:18px;display:flex;align-items:center;gap:14px}.ring{width:52px;height:52px;border-radius:50%;display:grid;place-items:center;background:conic-gradient(var(--coral) 0 72%,#f1eee8 72%);position:relative;font-weight:800}.ring:after{content:'';position:absolute;inset:5px;background:white;border-radius:50%}.ring span{position:relative;z-index:1;font-size:12px}.grow{flex:1}.review-card b{display:block}.review-card small{color:var(--muted)}
-    .path-head{background:#e8f5f2;border-radius:24px;padding:19px;margin-bottom:20px}.path-head h2{margin:4px 0}.path-head p{margin:0;color:#4e6a6b;font-size:13px}.unit{display:flex;gap:15px;position:relative;padding-bottom:22px}.unit:before{content:'';position:absolute;left:24px;top:48px;bottom:-3px;border-left:3px dotted #d8d8d1}.unit:last-child:before{display:none}.node{width:50px;height:50px;flex:0 0 50px;border-radius:18px;display:grid;place-items:center;background:#fff;border:2px solid #d7ddd9;font-weight:900}.unit.done .node{background:var(--teal);border-color:var(--teal);color:#fff}.unit.now .node{background:var(--yellow);border-color:#e6ad32;box-shadow:0 7px 0 #d99520}.unit-copy{background:#fff;border:1px solid var(--line);border-radius:18px;padding:13px 15px;flex:1;cursor:pointer}.unit-copy h4{margin:0 0 3px}.unit-copy p{margin:0;color:var(--muted);font-size:12px}.tags{display:flex;gap:6px;margin-top:8px;flex-wrap:wrap}.tag{font-size:10px;background:#f4f3ef;padding:4px 7px;border-radius:999px}
-    .review-hero{background:linear-gradient(135deg,#fff0be,#ffe08a);padding:22px;border-radius:25px}.review-hero h2{margin:0 0 6px}.deck{margin-top:15px;perspective:800px}.flashcard{min-height:235px;background:#fff;border:1px solid var(--line);border-radius:25px;padding:24px;display:grid;place-items:center;text-align:center;box-shadow:var(--shadow);cursor:pointer}.hanzi{font-family:'Noto Sans SC';font-size:70px;font-weight:900}.pinyin{color:var(--teal);font-size:19px}.meaning{font-size:22px;font-weight:800}.hint{color:var(--muted);font-size:12px}.rating{display:grid;grid-template-columns:repeat(3,1fr);gap:9px;margin-top:14px}.rating button{border:0;padding:12px 4px;border-radius:14px;font-weight:750}.hard{background:#fee0da}.good{background:#fff0ba}.easy{background:#d9f2e8}
-    .profile-card{background:#fff;border:1px solid var(--line);border-radius:24px;padding:20px}.avatar{width:66px;height:66px;border-radius:22px;background:var(--yellow2);display:grid;place-items:center;font-size:32px}.profile-row{display:flex;gap:14px;align-items:center}.profile-row h2{margin:0}.progress-grid{display:grid;grid-template-columns:1fr 1fr;gap:11px;margin-top:18px}.metric{border-radius:18px;padding:16px;background:#f6f5f1}.metric strong{font-size:23px;display:block}.metric small{color:var(--muted)}
-    .blueprint h2{margin-bottom:5px}.lead{color:var(--muted);line-height:1.6}.principles{display:grid;grid-template-columns:1fr 1fr;gap:10px}.principle{background:#fff;border:1px solid var(--line);border-radius:18px;padding:15px}.principle b{display:block;margin-bottom:4px}.principle small{color:var(--muted);line-height:1.45}.flow{display:flex;gap:7px;align-items:center;overflow-x:auto;padding:4px 0 12px}.flow span{white-space:nowrap;background:#fff;border:1px solid var(--line);padding:9px 11px;border-radius:12px;font-size:12px;font-weight:700}.flow i{color:var(--teal)}.stack{background:#193940;color:#fff;border-radius:22px;padding:20px}.stack code{display:block;color:#9fe2d9;margin-top:7px;white-space:normal}.assumptions{font-size:12px;line-height:1.6;color:var(--muted)}
-    .bottom-nav{display:none}.lesson{position:fixed;inset:0;background:var(--paper);z-index:20;display:none;overflow:auto}.lesson.open{display:block}.lesson-inner{max-width:590px;margin:auto;padding:20px 22px 40px}.lesson-top{display:flex;align-items:center;gap:12px}.close{border:0;background:#fff;border-radius:12px;width:40px;height:40px;font-size:20px}.bar{height:10px;background:#e8e5dc;border-radius:99px;flex:1;overflow:hidden}.bar>div{height:100%;background:var(--teal);width:20%;transition:.3s}.hearts{font-weight:800;color:var(--coral)}.lesson-stage{padding-top:35px}.coach{display:flex;gap:10px;align-items:center;color:var(--muted);font-size:13px}.coach-face{width:42px;height:42px;border-radius:15px;background:var(--yellow2);display:grid;place-items:center;font-size:24px}.lesson h2{font-size:24px;margin:18px 0 8px}.tone-grid{display:grid;grid-template-columns:1fr 1fr;gap:11px;margin:22px 0}.answer{border:2px solid var(--line);background:#fff;border-radius:20px;padding:17px;text-align:left;cursor:pointer}.answer b{display:block;font-family:'Noto Sans SC';font-size:27px}.answer small{color:var(--muted)}.answer.selected{border-color:var(--teal);background:#ebf9f6}.feedback{display:none;border-radius:18px;padding:15px;margin-top:15px}.feedback.show{display:block}.feedback.ok{background:#daf2e6;color:#176850}.feedback.no{background:#fee0da;color:#9b3e30}.lesson-actions{margin-top:18px}.lesson-actions button{width:100%}.complete{text-align:center;padding:35px 10px}.complete .burst{font-size:70px}.complete h2{font-size:30px}.complete-card{background:#fff;border:1px solid var(--line);border-radius:22px;padding:18px;display:grid;grid-template-columns:repeat(3,1fr);gap:8px}.complete-card strong{display:block;font-size:21px}.complete-card small{color:var(--muted)}
-    .toast{position:fixed;left:50%;bottom:90px;transform:translate(-50%,20px);background:#18333c;color:white;padding:12px 18px;border-radius:999px;font-size:13px;opacity:0;pointer-events:none;transition:.25s;z-index:30}.toast.show{opacity:1;transform:translate(-50%,0)}
-    @media(max-width:760px){.shell{display:block}.rail{display:none}.content{padding:18px 16px 105px}.hello h1{font-size:20px}.stats .pill:first-child{display:none}.hero{min-height:250px;padding:22px}.hero-copy{width:67%}.hero h2{font-size:24px}.mascots{width:70%;right:-22%;bottom:-2%}.quick-grid{gap:8px}.quick{padding:12px 10px}.bottom-nav{position:fixed;display:grid;grid-template-columns:repeat(5,1fr);z-index:10;bottom:0;left:0;right:0;padding:7px 8px calc(7px + env(safe-area-inset-bottom));background:rgba(255,255,255,.92);backdrop-filter:blur(18px);border-top:1px solid var(--line)}.bottom-nav button{display:grid;place-items:center;gap:2px;color:var(--muted);font-size:10px}.bottom-nav button span{font-size:20px}.bottom-nav button.active{color:var(--teal);font-weight:800}.principles{grid-template-columns:1fr}.topbar{margin-bottom:18px}}
-    .coach-face{overflow:hidden;position:relative;flex:0 0 42px}.coach-face img{width:88%;height:88%;object-fit:contain;display:block}.quick-grid{grid-template-columns:repeat(4,1fr)}.skill-card{text-align:center;background:#fff;border:1px solid var(--line);border-radius:24px;padding:20px;margin-top:18px}.skill-hanzi{font-family:'Noto Sans SC';font-size:76px;font-weight:900}.audio-btn,.record-btn{width:92px;height:92px;border:0;border-radius:50%;font-size:34px;background:var(--yellow);box-shadow:0 7px 0 #d99520;cursor:pointer}.record-btn.recording{background:var(--coral);color:#fff;animation:pulse 1s infinite}.wave{height:38px;display:flex;justify-content:center;align-items:center;gap:4px;margin:16px}.wave i{width:4px;height:10px;background:var(--teal);border-radius:9px}.recording+.wave i{animation:wave .7s ease-in-out infinite alternate}.recording+.wave i:nth-child(2n){animation-delay:.2s}.write-wrap{width:min(280px,82vw);aspect-ratio:1;margin:18px auto;position:relative;background:#fff;border:2px solid var(--line);border-radius:20px;overflow:hidden}.write-wrap:before,.write-wrap:after{content:'';position:absolute;background:#e8e4db;z-index:0}.write-wrap:before{width:1px;height:100%;left:50%}.write-wrap:after{height:1px;width:100%;top:50%}.write-guide{position:absolute;inset:0;display:grid;place-items:center;font-family:'Noto Sans SC';font-size:190px;color:#e5e1d8;z-index:1;user-select:none}.write-wrap canvas{position:absolute;inset:0;width:100%;height:100%;z-index:2;touch-action:none}.skill-actions{display:flex;gap:10px;justify-content:center}.skill-actions button{min-width:120px}@keyframes pulse{50%{transform:scale(1.05)}}@keyframes wave{to{height:30px}}@media(max-width:760px){.quick-grid{grid-template-columns:repeat(2,1fr)}}
-  </style>
+  <link rel="stylesheet" href="css/app.css" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="apple-touch-icon" href="assets/icon-180.png" />
+  <meta name="apple-mobile-web-app-title" content="BuzzLingo" />
 </head>
 <body>
+  <a class="skip" href="#main">Bỏ qua điều hướng</a>
+  <div id="live" class="sr-only" role="status" aria-live="polite"></div>
   <div class="shell">
     <aside class="rail">
-      <div class="brand"><span class="brand-dot">蜂</span> BuzzLingo</div>
-      <nav class="nav">
-        <button class="active" data-screen="home">⌂ Hôm nay</button><button data-screen="path">⌁ Lộ trình</button><button data-screen="review">◫ Ôn tập</button><button data-screen="profile">◎ Tiến bộ</button><button data-screen="blueprint">◇ Blueprint</button>
+      <div class="brand"><span class="brand-dot" aria-hidden="true">蜂</span> BuzzLingo</div>
+      <nav class="nav" aria-label="Điều hướng chính">
+        <button class="active" data-screen="home" aria-current="page"><span aria-hidden="true">⌂</span> Hôm nay</button>
+        <button data-screen="path"><span aria-hidden="true">⌁</span> Lộ trình</button>
+        <button data-screen="review"><span aria-hidden="true">◫</span> Ôn tập</button>
+        <button data-screen="progress"><span aria-hidden="true">◎</span> Tiến bộ</button>
+        <button data-screen="me"><span aria-hidden="true">☺</span> Cá nhân</button>
       </nav>
-      <div class="rail-card"><small>Mục tiêu tuần</small><b>4 / 5 ngày</b><div style="margin-top:9px;height:6px;background:#ffffff22;border-radius:9px"><div style="width:80%;height:100%;background:#ffca52;border-radius:9px"></div></div></div>
+      <div class="rail-card"><small>Mục tiêu tuần</small><b id="weekText">0 / 5 ngày</b><div class="railbar"><div id="weekBar"></div></div></div>
     </aside>
-    <main class="content">
-      <header class="topbar"><div class="hello"><small>Thứ tư · 14 tháng 10</small><h1>Nǐ hǎo, Minh! 👋</h1></div><div class="stats"><span class="pill">🔥 4 ngày</span><span class="pill">💎 280</span></div></header>
 
-      <section id="home" class="screen active">
-        <article class="hero"><div class="hero-copy"><span class="eyebrow">Bài tiếp theo · 6 phút</span><h2>Chào hỏi tự nhiên</h2><p>Làm chủ <b>nǐ hǎo</b>, 4 thanh điệu và câu giới thiệu đầu tiên.</p><button class="primary" data-start>Học ngay →</button></div><img class="mascots" src="assets/buzzlingo-mascots-canonical.png" alt="Bắp và Blu cùng học chữ 你" /></article>
-        <div class="section-head"><h3>Luyện nhanh</h3><button data-go="path">Xem lộ trình</button></div>
-        <div class="quick-grid"><button class="quick" data-skill="listen"><span class="icon">🎧</span><b>Nghe</b><small>Nghe & chọn</small></button><button class="quick" data-skill="speak"><span class="icon">🎙️</span><b>Nói</b><small>Ghi âm</small></button><button class="quick" data-skill="read"><span class="icon">📖</span><b>Đọc</b><small>Hanzi & Pinyin</small></button><button class="quick" data-skill="write"><span class="icon">✍️</span><b>Viết</b><small>Tô chữ Hán</small></button></div>
-        <div class="section-head"><h3>Ôn đúng lúc</h3><button data-go="review">Mở bộ thẻ</button></div>
-        <div class="review-card"><div class="ring"><span>72%</span></div><div class="grow"><b>12 từ sắp quên</b><small>SRS ưu tiên 你 · 好 · 我 · 是</small></div><button class="secondary" data-go="review">Ôn</button></div>
+    <main class="content" id="main">
+      <div class="banner" id="banner" role="alert" hidden>⚠ Trình duyệt đang chặn lưu trữ, nên tiến độ chỉ tồn tại trong phiên này. Hãy thử mở ngoài chế độ riêng tư.</div>
+      <header class="topbar">
+        <div class="hello"><small id="today"></small><div class="greet" id="greet">Nǐ hǎo!</div></div>
+        <div class="stats"><span class="pill" id="pillStreak">🔥 0 ngày</span><span class="pill" id="pillXp">💎 0 XP</span></div>
+      </header>
+
+      <section id="home" class="screen active" aria-label="Hôm nay">
+        <article class="hero">
+          <div class="hero-copy"><span class="eyebrow" id="heroEyebrow"></span><h1 id="heroTitle"></h1><p id="heroText"></p><button class="primary" id="heroCta" type="button"></button></div>
+          <img class="mascots" src="assets/mascots-640.webp" srcset="assets/mascots-640.webp 640w, assets/mascots-1000.webp 1000w" sizes="(max-width:760px) 70vw, 420px" width="640" height="451" alt="Bắp và Blu cùng học chữ 你" />
+        </article>
+        <div class="goal" role="group" aria-label="Mục tiêu hôm nay"><div class="goalhead"><b>Mục tiêu hôm nay</b><span id="goalText"></span></div><div class="meterbar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-label="Tiến độ mục tiêu hôm nay"><i id="goalBar"></i></div></div>
+        <div class="section-head"><h2>Luyện nhanh</h2><button data-go="path">Xem lộ trình</button></div>
+        <div class="quick-grid">
+          <button class="quick" data-skill="listen"><span class="icon" aria-hidden="true">🎧</span><b>Nghe</b><small>Nghe & chọn</small></button>
+          <button class="quick" data-skill="speak"><span class="icon" aria-hidden="true">🎙️</span><b>Nói</b><small>Ghi âm, tự đánh giá</small></button>
+          <button class="quick" data-skill="read"><span class="icon" aria-hidden="true">📖</span><b>Đọc</b><small>Hanzi & Pinyin</small></button>
+          <button class="quick" data-skill="write"><span class="icon" aria-hidden="true">✍️</span><b>Viết</b><small>Kiểm tra nét chữ</small></button>
+          <button class="quick wide" data-skill="produce"><span class="icon" aria-hidden="true">🧠</span><span><b>Tự đặt câu · Phản biện</b><small>Tự viết, được hỏi ngược để tự sửa</small></span></button>
+          <button class="quick wide" id="chatBtn" data-skill="chat" hidden><span class="icon" aria-hidden="true">💬</span><span><b>Trò chuyện với Blu (AI)</b><small>Luyện hội thoại, không chấm điểm</small></span></button>
+        </div>
+        <div class="section-head"><h2>Ôn đúng lúc</h2><button data-go="review">Mở bộ thẻ</button></div>
+        <div class="review-card" id="reviewCard"></div>
       </section>
 
-      <section id="path" class="screen"><div class="path-head"><span class="eyebrow" style="color:#16877f">HSK 1 · Chặng 1/6</span><h2>Nền móng giao tiếp</h2><p>Đích đến: nghe, đọc và nói được 45 mẫu câu thiết yếu.</p></div><div id="units"></div></section>
+      <section id="path" class="screen" aria-label="Lộ trình">
+        <div class="path-head"><span class="eyebrow" style="color:#0d756d">Chuẩn HSK 3.0 · cấp 1–6</span><h1>Lộ trình giao tiếp</h1><p>Mỗi chương là một tình huống giao tiếp. Mỗi bài có từ mới, ngữ pháp và một đoạn hội thoại chỉ dùng những từ bạn đã học.</p></div>
+        <div class="level-tabs" id="levelTabs" role="tablist" aria-label="Cấp HSK"></div>
+        <div id="levelHead"></div>
+        <div id="units"></div>
+      </section>
 
-      <section id="review" class="screen"><div class="review-hero"><h2>Ôn tập thông minh</h2><p style="margin:0;color:#705f35;font-size:13px">Mỗi kỹ năng có lịch riêng: nghĩa, âm, thanh điệu và chữ.</p></div><div class="deck"><div class="flashcard" id="flashcard"><div><div class="hanzi">你</div><div class="hint">Chạm để lật thẻ</div></div></div><div class="rating"><button class="hard" data-rate="1">Khó · 1 ngày</button><button class="good" data-rate="3">Ổn · 3 ngày</button><button class="easy" data-rate="7">Dễ · 7 ngày</button></div></div><p class="hint" style="text-align:center;margin-top:18px">SRS minh hoạ · dữ liệu được giữ trong trình duyệt</p></section>
+      <section id="review" class="screen" aria-label="Ôn tập">
+        <div class="review-hero"><h1>Ôn tập thông minh</h1><p>Mỗi kỹ năng của mỗi mục có lịch ôn riêng, tính từ kết quả thật của bạn.</p></div>
+        <div id="reviewBody"></div>
+      </section>
 
-      <section id="profile" class="screen"><div class="profile-card"><div class="profile-row"><div class="avatar">🐝</div><div><h2>Minh</h2><small style="color:var(--muted)">Khởi động · HSK 1</small></div></div><div class="progress-grid"><div class="metric"><strong id="xp">280</strong><small>XP tích luỹ</small></div><div class="metric"><strong>4</strong><small>ngày liên tiếp</small></div><div class="metric"><strong>18</strong><small>từ đã gặp</small></div><div class="metric"><strong>71%</strong><small>độ nhớ SRS</small></div></div></div><div class="section-head"><h3>4 kỹ năng</h3></div><div class="profile-card"><p>Nghe <b style="float:right">74%</b></p><progress value="74" max="100" style="width:100%;accent-color:var(--teal)"></progress><p>Nói <b style="float:right">58%</b></p><progress value="58" max="100" style="width:100%;accent-color:var(--coral)"></progress><p>Đọc <b style="float:right">66%</b></p><progress value="66" max="100" style="width:100%;accent-color:var(--blue)"></progress><p>Viết <b style="float:right">42%</b></p><progress value="42" max="100" style="width:100%;accent-color:#9b6bc7"></progress></div></section>
+      <section id="progress" class="screen" aria-label="Tiến bộ">
+        <h1 class="plain">Tiến bộ của bạn</h1>
+        <div class="profile-card"><div class="progress-grid">
+          <div class="metric"><strong id="pXp">0</strong><small>XP từ bài làm thật</small></div>
+          <div class="metric"><strong id="pStreak">0</strong><small>ngày liên tiếp</small></div>
+          <div class="metric"><strong id="pItems">0</strong><small>từ HSK đã gặp</small></div>
+          <div class="metric"><strong id="pRet">—</strong><small>độ nhớ ước tính (SRS)</small></div></div></div>
+        <div class="section-head"><h2>Theo cấp HSK 3.0</h2></div>
+        <div class="profile-card" id="levelProgress"></div>
+        <div class="section-head"><h2>4 kỹ năng</h2></div>
+        <div class="profile-card" id="skillBars"></div>
+        <p class="hint" id="produceNote"></p>
+        <div class="section-head"><h2>Cần ôn</h2></div>
+        <ul class="plainlist profile-card" id="weakList"></ul>
+        <div class="section-head"><h2>Lỗi gần đây</h2></div>
+        <ul class="plainlist profile-card" id="wrongList"></ul>
+        <p class="hint">Tỉ lệ đúng chỉ tính các câu được hệ thống kiểm tra, trong 20 lượt gần nhất. Bước nói hiện là tự đánh giá nên không tính vào phần trăm.</p>
+      </section>
 
-      <section id="blueprint" class="screen blueprint"><span class="eyebrow" style="color:var(--teal)">Product blueprint · MVP</span><h2>Học đủ sâu, nhưng mỗi ngày thật nhẹ</h2><p class="lead">BuzzLingo dành cho người Việt từ số 0: giải thích ngắn bằng tiếng Việt, luôn nối <b>âm → nghĩa → chữ</b>, và đưa người học vào một tình huống dùng được ngay.</p><div class="section-head"><h3>4 nguyên tắc UX</h3></div><div class="principles"><div class="principle"><b>① Âm trước, chữ sau</b><small>Tuần đầu ưu tiên Pinyin và thanh điệu; Hanzi xuất hiện theo lớp, không gây ngợp.</small></div><div class="principle"><b>② Hiểu rồi mới chơi</b><small>Mỗi mini-game có “mẩu giải thích” tiếng Việt 20–40 giây trước khi luyện.</small></div><div class="principle"><b>③ Lỗi là dữ liệu</b><small>Không trừ tim vì phát âm sai; hệ thống đưa âm khó vào SRS riêng.</small></div><div class="principle"><b>④ Hai bạn đồng hành</b><small>Bắp dẫn đường và khích lệ; Blu đặt câu hỏi, gợi ý mẹo nhớ và tạo bất ngờ.</small></div></div><div class="section-head"><h3>Flow cốt lõi</h3></div><div class="flow"><span>Onboarding 3 câu</span><i>→</i><span>Chẩn đoán âm</span><i>→</i><span>Bài 6 phút</span><i>→</i><span>Phản hồi</span><i>→</i><span>SRS ngày mai</span></div><div class="section-head"><h3>Nội dung MVP · 4 tuần</h3></div><div class="profile-card"><b>Tuần 1</b> Pinyin, 4 thanh + thanh nhẹ, chào hỏi, tôi/bạn.<hr style="border:0;border-top:1px solid var(--line)"><b>Tuần 2</b> số đếm, tuổi, quốc tịch, 是/不/吗, 30 Hanzi.<hr style="border:0;border-top:1px solid var(--line)"><b>Tuần 3</b> gia đình, sở thích, 有/没有, lượng từ 个.<hr style="border:0;border-top:1px solid var(--line)"><b>Tuần 4</b> ăn uống, gọi món, hội thoại tổng hợp, checkpoint HSK 1.</div><div class="section-head"><h3>Kiến trúc vibe-code</h3></div><div class="stack"><b>React Native + Expo Router</b><code>UI: NativeWind/Tamagui · State: Zustand · Audio: expo-audio · Haptics · SQLite offline</code><code>Backend: Supabase Auth + Postgres + Storage + Edge Functions</code><code>Speech v1: Azure/Google pronunciation API qua Edge Function; chấm theo âm tiết + thanh, không chấm theo Hanzi đồng âm.</code><code>Content: JSON/MDX có version; thuật toán FSRS lưu theo user × item × skill.</code></div><p class="assumptions"><b>Giả định:</b> Mandarin phổ thông, chữ giản thể, Pinyin; HSK 3.0 làm khung nội dung nhưng MVP chỉ tới nền HSK 1; freemium không quảng cáo; app dùng được offline sau khi tải bài; voice scoring là dịch vụ ngoài và cần kiểm thử riêng với giọng người Việt.</p></section>
+      <section id="me" class="screen" aria-label="Cá nhân">
+        <h1 class="plain">Cá nhân</h1>
+        <form class="profile-card form" id="profileForm" autocomplete="off">
+          <label>Tên gọi<input name="name" maxlength="30" placeholder="Bạn muốn Bắp & Blu gọi là gì?"></label>
+          <label>Mục tiêu<select name="goal"><option value="talk">Giao tiếp hằng ngày</option><option value="travel">Du lịch</option><option value="study">Học tập / công việc</option><option value="hsk">Thi HSK</option></select></label>
+          <label>Thời gian mỗi ngày<select name="minutes"><option value="5">5 phút (8 câu)</option><option value="10">10 phút (16 câu)</option><option value="15">15 phút (24 câu)</option></select></label>
+          <label class="check"><input type="checkbox" name="coach"><span>Bật trợ lý AI Bắp/Blu</span></label>
+          <p class="hint" id="coachState"></p>
+          <button class="primary" type="submit">Lưu cài đặt</button>
+        </form>
+        <div class="section-head" id="cloudHead" hidden><h2>Tài khoản & đồng bộ</h2></div>
+        <div class="profile-card" id="cloudCard" hidden>
+          <div id="cloudOut">
+            <p class="hint">Đăng nhập để lưu tiến độ lên đám mây: Safari có xoá dữ liệu hay bạn đổi sang máy khác thì chỉ cần đăng nhập lại.</p>
+            <div class="cloud-slot" data-cloud-form></div>
+          </div>
+          <div id="cloudIn" hidden>
+            <p class="cloud-who">☁ <b id="cloudEmail"></b></p>
+            <p class="hint" id="cloudStatus" role="status"></p>
+            <div class="skill-actions"><button class="secondary" id="cloudSyncBtn" type="button">Đồng bộ ngay</button><button class="secondary" id="cloudOutBtn" type="button">Đăng xuất</button></div>
+            <div class="confirm" id="cloudOutBox" hidden role="alertdialog" aria-labelledby="cloudOutQ"><p id="cloudOutQ"><b>Đăng xuất khỏi máy này?</b> Tiến độ vẫn nằm trong tài khoản; dữ liệu trên máy sẽ được xoá để người khác dùng máy không thấy.</p><div class="skill-actions"><button class="secondary" id="cloudOutNo" type="button">Ở lại</button><button class="primary" id="cloudOutYes" type="button">Đăng xuất</button></div></div>
+          </div>
+        </div>
+        <div class="section-head"><h2>Dữ liệu & quyền riêng tư</h2></div>
+        <div class="profile-card">
+          <p id="storageState" class="hint"></p>
+          <ul class="plainlist small"><li>Micro chỉ dùng ở bước Nói và khi trò chuyện bằng giọng. Bản ghi nằm trong bộ nhớ trình duyệt và mất khi bạn đóng bài; chỉ được gửi đi khi bạn bấm “Gửi bản ghi cho AI”.</li><li>Nút 🎤 “Nói để máy nghe” dùng dịch vụ nhận dạng giọng nói của trình duyệt (Chrome: Google, Safari: Apple).</li><li>Bạn có thể học không cần micro: bỏ qua bước nói bất cứ lúc nào.</li><li>BuzzLingo không dùng giọng của bạn để huấn luyện mô hình.</li><li>Trợ lý AI (nếu bật) nhận chữ bạn gõ hoặc nói, và bản ghi giọng khi bạn chủ động gửi; không gửi tên hay dữ liệu học tập.</li><li>Phần “Tự đặt câu” được kiểm tra ngay trên máy, không gửi đi đâu (trừ khi bạn bấm nhờ AI phản biện).</li></ul>
+          <div class="skill-actions"><button class="secondary" id="exportBtn" type="button">Xuất dữ liệu (JSON)</button><button class="secondary danger" id="resetBtn" type="button">Xoá dữ liệu…</button></div>
+          <div class="confirm" id="resetBox" hidden role="alertdialog" aria-labelledby="resetQ"><p id="resetQ"><b>Xoá toàn bộ tiến độ, thẻ ôn và cài đặt?</b> Không thể hoàn tác.</p><div class="skill-actions"><button class="secondary" id="resetNo" type="button">Giữ lại</button><button class="primary danger" id="resetYes" type="button">Xoá hết</button></div></div>
+        </div>
+        <div class="section-head"><h2>Về dự án</h2></div>
+        <div class="profile-card"><p>BuzzLingo vẫn là bản thử nghiệm học tập: 3 bài đầu đã có đủ nghe, nói, đọc, viết và tự đặt câu; các bài còn lại đang được soạn.</p><button class="secondary" id="bpLink" type="button">Xem blueprint sản phẩm →</button>
+          <p class="hint">Ghi công: Hanzi Writer (MIT) · dữ liệu nét chữ Make Me a Hanzi (Arphic Public License) · phông Be Vietnam Pro, Noto Sans SC.</p></div>
+      </section>
+
+      <section id="blueprint" class="screen blueprint" aria-label="Blueprint">
+        <button class="linkbtn" data-go="me" type="button">← Quay lại Cá nhân</button>
+        <span class="eyebrow" style="color:#0d756d;display:block;margin-top:10px">Product blueprint · MVP</span><h1 class="plain">Học đủ sâu, nhưng mỗi ngày thật nhẹ</h1>
+        <p class="lead">BuzzLingo dành cho người Việt từ số 0: giải thích ngắn bằng tiếng Việt, luôn nối <b>âm → nghĩa → chữ</b>, và đưa người học vào một tình huống dùng được ngay.</p>
+        <div class="section-head"><h2>4 nguyên tắc UX</h2></div>
+        <div class="principles"><div class="principle"><b>① Âm trước, chữ sau</b><small>Tuần đầu ưu tiên Pinyin và thanh điệu; Hanzi xuất hiện theo lớp, không gây ngợp.</small></div><div class="principle"><b>② Hiểu rồi mới chơi</b><small>Mỗi bài có phần giải thích tiếng Việt ngắn trước khi luyện.</small></div><div class="principle"><b>③ Lỗi là dữ liệu</b><small>Không phạt vì phát âm sai; câu sai quay lại sau vài câu và được xếp ôn ngày mai.</small></div><div class="principle"><b>④ Hai bạn đồng hành</b><small>Bắp dẫn đường và khích lệ; Blu đặt câu hỏi, gợi ý mẹo nhớ.</small></div></div>
+        <div class="section-head"><h2>Flow cốt lõi</h2></div>
+        <div class="flow"><span>Onboarding</span><i>→</i><span>Bài 6–12 phút</span><i>→</i><span>Câu sai quay lại</span><i>→</i><span>Thẻ SRS theo kỹ năng</span><i>→</i><span>Ôn ngày mai</span></div>
+        <div class="section-head"><h2>Nội dung MVP · 4 tuần</h2></div>
+        <div class="profile-card"><b>Tuần 1</b> Pinyin, 4 thanh + thanh nhẹ, chào hỏi, tôi/bạn.<hr><b>Tuần 2</b> số đếm, tuổi, quốc tịch, 是/不/吗.<hr><b>Tuần 3</b> gia đình, sở thích, 有/没有, lượng từ 个.<hr><b>Tuần 4</b> ăn uống, gọi món, hội thoại tổng hợp, checkpoint HSK 1.</div>
+        <div class="section-head"><h2>Kiến trúc mục tiêu</h2></div>
+        <div class="stack"><b>React Native + Expo Router</b><code>UI: NativeWind/Tamagui · State: Zustand · Audio · Haptics · SQLite offline</code><code>Backend: Supabase Auth + Postgres + Storage + Edge Functions</code><code>Speech v1: dịch vụ pronunciation assessment qua Edge Function; chấm theo âm tiết + thanh, không chấm theo Hanzi đồng âm.</code><code>Content: JSON có version (đã có ở prototype) · FSRS theo user × item × skill (đã có ở prototype).</code></div>
+        <p class="assumptions"><b>Giả định:</b> Mandarin phổ thông, chữ giản thể, Pinyin; nội dung theo HSK 3.0 cấp 1–6 (HSK 2–6 là bản nháp AI, cần giáo viên duyệt); freemium không quảng cáo; dùng được offline sau khi tải bài; chấm phát âm là dịch vụ ngoài và cần kiểm thử riêng với giọng người Việt.</p>
+      </section>
     </main>
   </div>
-  <nav class="bottom-nav"><button class="active" data-screen="home"><span>⌂</span>Hôm nay</button><button data-screen="path"><span>⌁</span>Lộ trình</button><button data-screen="review"><span>◫</span>Ôn tập</button><button data-screen="profile"><span>◎</span>Tiến bộ</button><button data-screen="blueprint"><span>◇</span>Dự án</button></nav>
 
-  <div class="lesson" id="lesson"><div class="lesson-inner"><div class="lesson-top"><button class="close" id="closeLesson">×</button><div class="bar"><div id="lessonBar"></div></div><span class="hearts">♥ 5</span></div><div id="lessonStage" class="lesson-stage"></div></div></div><div class="toast" id="toast"></div>
-  <script>
-    const screens=[...document.querySelectorAll('.screen')], navs=[...document.querySelectorAll('[data-screen]')];
-    function show(id){screens.forEach(s=>s.classList.toggle('active',s.id===id));navs.forEach(n=>n.classList.toggle('active',n.dataset.screen===id));scrollTo({top:0,behavior:'smooth'})}
-    navs.forEach(n=>n.onclick=()=>show(n.dataset.screen));document.querySelectorAll('[data-go]').forEach(n=>n.onclick=()=>show(n.dataset.go));
-    const units=[['done','✓','Làm quen với tiếng Trung','Pinyin · Thanh 1–4','6/6'],['now','1','Chào hỏi tự nhiên','Nghe · Nói · 你 好','2/6'],['','2','Tôi là…','是 · 我 · tên riêng','0/6'],['','3','Bạn khoẻ không?','吗 · 很 · cũng','0/7'],['','★','Checkpoint đầu tiên','Hội thoại 45 giây','Khoá']];
-    document.querySelector('#units').innerHTML=units.map((u,i)=>`<div class="unit ${u[0]}"><div class="node">${u[1]}</div><button class="unit-copy" data-unit="${i}"><h4>${u[2]}</h4><p>${u[3]}</p><div class="tags"><span class="tag">${u[4]}</span>${i===1?'<span class="tag">Đang học</span>':''}</div></button></div>`).join('');
-    document.querySelectorAll('[data-unit]').forEach(b=>b.onclick=()=>+b.dataset.unit<2?openLesson():toast('Hoàn thành bài trước để mở khoá nhé!'));
-    const cards=[['你','nǐ','bạn'],['好','hǎo','tốt, khoẻ'],['我','wǒ','tôi'],['是','shì','là']];let ci=0,flipped=false;
-    function drawCard(){const c=cards[ci];flashcard.innerHTML=flipped?`<div><div class="pinyin">${c[1]}</div><div class="meaning">${c[2]}</div><div class="hint">${c[0]} · chạm để xem lại</div></div>`:`<div><div class="hanzi">${c[0]}</div><div class="hint">Chạm để lật thẻ</div></div>`}
-    flashcard.onclick=()=>{flipped=!flipped;drawCard()};document.querySelectorAll('[data-rate]').forEach(b=>b.onclick=()=>{ci=(ci+1)%cards.length;flipped=false;drawCard();toast(`Đã xếp lịch ôn sau ${b.dataset.rate} ngày`)});
-    let toastTimer;function toast(t){const el=document.querySelector('#toast');el.textContent=t;el.classList.add('show');clearTimeout(toastTimer);toastTimer=setTimeout(()=>el.classList.remove('show'),2500)}document.querySelectorAll('[data-toast]').forEach(b=>b.onclick=()=>toast(b.dataset.toast));
-    const lesson=document.querySelector('#lesson'),stage=document.querySelector('#lessonStage'),bar=document.querySelector('#lessonBar');let step=0,selected=null;
-    const coachFace=name=>`<div class="coach-face"><img src="assets/${name==='Bắp'?'bap':'blu'}-coach-avatar.png" alt="${name}"></div>`;
-    const coachLine=name=>`<div class="coach">${coachFace(name)}<span><b>${name}</b> đang luyện cùng bạn</span></div>`;
-    function openSkill(kind){lesson.classList.add('open');bar.style.width='100%';renderSkill(kind)}
-    function playChinese(text='你好'){if(!('speechSynthesis'in window)){toast('Trình duyệt này chưa hỗ trợ phát giọng.');return}speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(text);u.lang='zh-CN';u.rate=.72;speechSynthesis.speak(u)}
-    function choiceFeedback(buttons,right,message){buttons.forEach((b,i)=>b.onclick=()=>{buttons.forEach(x=>x.classList.remove('selected'));b.classList.add('selected');const fb=document.querySelector('#skillFeedback');fb.className=`feedback show ${i===right?'ok':'no'}`;fb.innerHTML=i===right?`<b>✓ ${message}</b>`:'<b>Thử lại nhé.</b> Nghe hoặc nhìn kỹ Pinyin một lần nữa.'})}
-    function renderSkill(kind){
-      if(kind==='listen'){
-        stage.innerHTML=`${coachLine('Bắp')}<h2>Nghe và chọn nghĩa</h2><p class="lead">Chạm loa, nghe “nǐ hǎo”, rồi chọn câu đúng.</p><div class="skill-card"><button class="audio-btn" id="playAudio" aria-label="Phát âm thanh">🔊</button><p class="hint">Có thể nghe lại nhiều lần</p></div><div class="tone-grid"><button class="answer"><b>你好</b><small>Xin chào</small></button><button class="answer"><b>谢谢</b><small>Cảm ơn</small></button><button class="answer"><b>再见</b><small>Tạm biệt</small></button><button class="answer"><b>不</b><small>Không</small></button></div><div class="feedback" id="skillFeedback"></div>`;
-        document.querySelector('#playAudio').onclick=()=>playChinese();choiceFeedback([...stage.querySelectorAll('.answer')],0,'Bạn đã nhận ra lời chào 你好 — nǐ hǎo.');
-      }else if(kind==='speak'){
-        stage.innerHTML=`${coachLine('Blu')}<h2>Nói theo Blu</h2><p class="lead">Nói rõ từng âm: <b>nǐ hǎo</b>. Bản ghi chỉ xử lý trên thiết bị.</p><div class="skill-card"><div class="skill-hanzi">你好</div><div class="pinyin">nǐ hǎo</div><p><button class="record-btn" id="recordBtn" aria-label="Bắt đầu ghi âm">🎙️</button></p><div class="wave">${'<i></i>'.repeat(9)}</div><p class="hint" id="recordStatus">Chạm micro và nói trong 3 giây</p></div><div class="feedback" id="skillFeedback"></div>`;
-        document.querySelector('#recordBtn').onclick=startSpeaking;
-      }else if(kind==='read'){
-        stage.innerHTML=`${coachLine('Blu')}<h2>Đọc chữ Hán</h2><p class="lead">Chọn Pinyin đúng cho chữ bên dưới.</p><div class="skill-card"><div class="skill-hanzi">你</div><div class="meaning">bạn</div></div><div class="tone-grid"><button class="answer"><b>nǐ</b><small>thanh 3</small></button><button class="answer"><b>hǎo</b><small>thanh 3</small></button><button class="answer"><b>wǒ</b><small>thanh 3</small></button><button class="answer"><b>shì</b><small>thanh 4</small></button></div><div class="feedback" id="skillFeedback"></div>`;
-        choiceFeedback([...stage.querySelectorAll('.answer')],0,'你 đọc là nǐ, nghĩa là “bạn”.');
-      }else{
-        stage.innerHTML=`${coachLine('Bắp')}<h2>Tập viết chữ 你</h2><p class="lead">Dùng ngón tay hoặc chuột tô theo chữ mờ. Viết từ trên xuống, trái sang phải.</p><div class="write-wrap"><div class="write-guide">你</div><canvas id="writeCanvas" width="560" height="560" aria-label="Bảng tập viết chữ 你"></canvas></div><div class="skill-actions"><button class="secondary" id="clearWriting">Xoá nét</button><button class="primary" id="finishWriting">Hoàn thành</button></div><div class="feedback" id="skillFeedback"></div>`;
-        initWritingCanvas();
-      }
-    }
-    async function startSpeaking(){const btn=document.querySelector('#recordBtn'),status=document.querySelector('#recordStatus'),fb=document.querySelector('#skillFeedback');try{if(!navigator.mediaDevices?.getUserMedia||!window.MediaRecorder)throw new Error('unsupported');const stream=await navigator.mediaDevices.getUserMedia({audio:true});const recorder=new MediaRecorder(stream);btn.classList.add('recording');btn.textContent='●';status.textContent='Đang nghe… nói “nǐ hǎo”';recorder.start();setTimeout(()=>recorder.state==='recording'&&recorder.stop(),3000);recorder.onstop=()=>{stream.getTracks().forEach(t=>t.stop());btn.classList.remove('recording');btn.textContent='✓';status.textContent='Đã ghi âm 3 giây';fb.className='feedback show ok';fb.innerHTML='<b>✓ Đã thu câu nói.</b> Bản app sẽ chấm riêng âm đầu, vận mẫu và thanh điệu.'}}catch(e){fb.className='feedback show no';fb.innerHTML='<b>Chưa dùng được micro.</b> Hãy cho phép micro hoặc thử trên thiết bị hỗ trợ ghi âm.'}}
-    function initWritingCanvas(){const canvas=document.querySelector('#writeCanvas'),ctx=canvas.getContext('2d'),clear=document.querySelector('#clearWriting'),finish=document.querySelector('#finishWriting'),fb=document.querySelector('#skillFeedback');let drawing=false,drawn=false;ctx.lineCap='round';ctx.lineJoin='round';ctx.strokeStyle='#18333c';ctx.lineWidth=24;const point=e=>{const r=canvas.getBoundingClientRect();return[(e.clientX-r.left)*canvas.width/r.width,(e.clientY-r.top)*canvas.height/r.height]};canvas.onpointerdown=e=>{drawing=true;drawn=true;canvas.setPointerCapture(e.pointerId);const[x,y]=point(e);ctx.beginPath();ctx.moveTo(x,y)};canvas.onpointermove=e=>{if(!drawing)return;const[x,y]=point(e);ctx.lineTo(x,y);ctx.stroke()};canvas.onpointerup=canvas.onpointercancel=()=>drawing=false;clear.onclick=()=>{ctx.clearRect(0,0,canvas.width,canvas.height);drawn=false;fb.className='feedback'};finish.onclick=()=>{fb.className=`feedback show ${drawn?'ok':'no'}`;fb.innerHTML=drawn?'<b>✓ Đã lưu bài viết 你.</b> +10 XP viết chữ':'<b>Hãy viết thử ít nhất một nét nhé.</b>';if(drawn){finish.textContent='Đã hoàn thành';toast('Kỹ năng Viết +10 XP')}}}
-    document.querySelectorAll('[data-skill]').forEach(b=>b.onclick=()=>openSkill(b.dataset.skill));
-    const steps=[
-      {coach:'Bắp',face:'bap',title:'Nghe và chọn thanh đúng',sub:'“nǐ” có thanh điệu nào?',answers:[['nī','Thanh 1 · cao ngang'],['ní','Thanh 2 · đi lên'],['nǐ','Thanh 3 · xuống rồi lên'],['nì','Thanh 4 · đi xuống']],right:2,tip:'Đúng rồi! Thanh 3 hạ xuống rồi nhấc nhẹ lên.'},
-      {coach:'Blu',face:'blu',title:'Ghép âm với nghĩa',sub:'你 (nǐ) nghĩa là gì?',answers:[['tôi','Người đang nói'],['bạn','Người đang nghe'],['anh ấy','Người được nhắc tới'],['chúng ta','Một nhóm người']],right:1,tip:'Chính xác! 你 là “bạn”, đại từ rất thường gặp.'},
-      {coach:'Bắp',face:'bap',title:'Hoàn thành lời chào',sub:'Chọn từ còn thiếu: 你 ___！',answers:[['好','hǎo · tốt/khoẻ'],['是','shì · là'],['我','wǒ · tôi'],['吗','ma · trợ từ hỏi']],right:0,tip:'你好 — nǐ hǎo — xin chào!'},
-      {coach:'Blu',face:'blu',title:'Nghe hội thoại mini',sub:'Bắp nói “Nǐ hǎo!”. Bạn đáp thế nào?',answers:[['Nǐ hǎo!','Chào bạn!'],['Wǒ shì Blu.','Tôi là Blu.'],['Bù hǎo.','Không ổn.'],['Xièxie.','Cảm ơn.']],right:0,tip:'Tuyệt! Bạn đã hoàn thành một lượt chào hỏi.'}
-    ];
-    function openLesson(){step=0;selected=null;lesson.classList.add('open');renderStep()}
-    function renderStep(){bar.style.width=`${Math.max(8,(step+1)/(steps.length+1)*100)}%`;const s=steps[step],isMascot=s.face==='bap'||s.face==='blu',face=isMascot?`<div class="coach-face"><img src="assets/${s.face}-coach-avatar.png" alt="${s.coach}"></div>`:`<div class="coach-face">${s.face}</div>`;stage.innerHTML=`<div class="coach">${face}<span><b>${s.coach}</b> đang đồng hành cùng bạn</span></div><h2>${s.title}</h2><p class="lead">${s.sub}</p><div class="tone-grid">${s.answers.map((a,i)=>`<button class="answer" data-answer="${i}"><b>${a[0]}</b><small>${a[1]}</small></button>`).join('')}</div><div class="feedback" id="feedback"></div><div class="lesson-actions"><button class="primary" id="check" disabled>Kiểm tra</button></div>`;document.querySelectorAll('[data-answer]').forEach(b=>b.onclick=()=>{selected=+b.dataset.answer;document.querySelectorAll('[data-answer]').forEach(x=>x.classList.toggle('selected',x===b));check.disabled=false});check.onclick=()=>checkAnswer(s)}
-    function checkAnswer(s){const ok=selected===s.right,fb=document.querySelector('#feedback');fb.className=`feedback show ${ok?'ok':'no'}`;fb.innerHTML=ok?`<b>✓ ${s.tip}</b>`:`<b>Gần đúng!</b> ${s.answers[s.right][0]} — ${s.tip}`;check.textContent=step===steps.length-1?'Xem kết quả':'Tiếp tục';check.disabled=false;check.onclick=()=>{step++;selected=null;step<steps.length?renderStep():complete()}}
-    function complete(){bar.style.width='100%';stage.innerHTML=`<div class="complete"><div class="burst">🎉</div><h2>Rất ổn, Minh!</h2><p class="lead">Bạn vừa nối được âm, nghĩa và chữ trong một tình huống thật.</p><div class="complete-card"><div><strong>+24</strong><small>XP</small></div><div><strong>4/4</strong><small>câu</small></div><div><strong>3</strong><small>từ mới</small></div></div><button class="primary" style="width:100%;margin-top:22px" id="finish">Về trang chính</button></div>`;finish.onclick=()=>{lesson.classList.remove('open');document.querySelector('#xp').textContent='304';toast('Đã lưu tiến độ · +24 XP')}}
-    document.querySelectorAll('[data-start]').forEach(b=>b.onclick=openLesson);closeLesson.onclick=()=>lesson.classList.remove('open');
-    if(localStorage.getItem('buzzSeen'))toast('Mừng bạn quay lại! Tiến độ đã được giữ.');localStorage.setItem('buzzSeen','1');
-  </script>
+  <nav class="bottom-nav" aria-label="Điều hướng chính">
+    <button class="active" data-screen="home" aria-current="page"><span aria-hidden="true">⌂</span>Hôm nay</button>
+    <button data-screen="path"><span aria-hidden="true">⌁</span>Lộ trình</button>
+    <button data-screen="review"><span aria-hidden="true">◫</span>Ôn tập</button>
+    <button data-screen="progress"><span aria-hidden="true">◎</span>Tiến bộ</button>
+    <button data-screen="me"><span aria-hidden="true">☺</span>Cá nhân</button>
+  </nav>
+
+  <div class="lesson" id="lesson" role="dialog" aria-modal="true" aria-labelledby="lessonTitle" hidden>
+    <div class="lesson-inner">
+      <div class="lesson-top">
+        <button class="close" id="closeLesson" type="button" aria-label="Thoát bài (vị trí được lưu)">×</button>
+        <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Tiến độ bài"><div id="lessonBar"></div></div>
+        <span class="counter" id="lessonCount"></span>
+      </div>
+      <span id="lessonTitle" class="sr-only"></span>
+      <div id="lessonStage" class="lesson-stage"></div>
+    </div>
+    <div class="lesson-footer"><div class="lesson-footer-in"><button class="primary wide" id="lessonBtn" type="button">Kiểm tra</button></div></div>
+  </div>
+
+  <div class="onboard" id="onboard" role="dialog" aria-modal="true" aria-labelledby="obTitle" hidden>
+    <form class="onboard-in" id="onboardForm" autocomplete="off">
+      <img src="assets/mascots-640.webp" width="320" height="225" alt="Bắp và Blu" class="ob-img">
+      <h2 id="obTitle">Chào bạn, mình là Bắp và Blu!</h2>
+      <p class="lead">Ba câu hỏi nhanh để cá nhân hoá lộ trình. Bạn có thể đổi lại trong mục Cá nhân.</p>
+      <label>Bạn muốn được gọi là gì?<input id="obName" name="name" maxlength="30" placeholder="Ví dụ: Minh"></label>
+      <fieldset><legend>Bạn học để…</legend>
+        <label class="chip"><input type="radio" name="goal" value="talk" checked><span>Giao tiếp</span></label><label class="chip"><input type="radio" name="goal" value="travel"><span>Du lịch</span></label><label class="chip"><input type="radio" name="goal" value="study"><span>Học tập / công việc</span></label><label class="chip"><input type="radio" name="goal" value="hsk"><span>Thi HSK</span></label></fieldset>
+      <fieldset><legend>Mỗi ngày bạn có…</legend>
+        <label class="chip"><input type="radio" name="minutes" value="5"><span>5 phút</span></label><label class="chip"><input type="radio" name="minutes" value="10" checked><span>10 phút</span></label><label class="chip"><input type="radio" name="minutes" value="15"><span>15 phút</span></label></fieldset>
+      <fieldset><legend>Tiếng Trung của bạn…</legend>
+        <label class="chip"><input type="radio" name="level" value="zero" checked><span>Từ số 0</span></label><label class="chip"><input type="radio" name="level" value="some"><span>Đã biết một ít</span></label></fieldset>
+      <button class="primary wide" type="submit">Bắt đầu</button>
+      <button class="ob-login" id="obLoginBtn" type="button" hidden>Đã có tài khoản? Đăng nhập để lấy lại tiến độ</button>
+    </form>
+    <div class="onboard-in ob-cloud" id="obCloud" hidden>
+      <h2>Đăng nhập</h2>
+      <p class="lead">Tiến độ đã lưu trong tài khoản sẽ được tải về máy này.</p>
+      <div class="cloud-slot" data-cloud-form data-only-login></div>
+      <button class="ob-login" id="obBackBtn" type="button">← Quay lại, mình là người mới</button>
+    </div>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="js/config.js"></script>
+  <script src="js/srs.js"></script>
+  <script src="js/store.js"></script>
+  <script src="js/cloud.js"></script>
+  <script src="js/content.js"></script>
+  <script src="js/audio.js"></script>
+  <script src="js/speech.js"></script>
+  <script src="js/qbank.js"></script>
+  <script src="js/critique.js"></script>
+  <script src="js/lessongen.js"></script>
+  <script src="content/hsk1.js"></script>
+  <script src="vendor/hanzi-writer.min.js"></script>
+  <script src="vendor/hanzi-data.js"></script>
+  <script src="js/renderers.js"></script>
+  <script src="js/coach.js"></script>
+  <script src="js/app.js"></script>
 </body>
 </html>

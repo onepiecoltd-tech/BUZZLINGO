@@ -1,0 +1,22 @@
+# Thư viện cài bằng npm (cài lại bằng npm install)
+node_modules/
+
+# File đóng gói lớn, sinh lại được
+desktop/release/
+archive/releases/
+
+# Tạm / báo cáo
+.shots/
+eval/reports/
+*.log
+
+# Netlify trên máy (chứa ID site đã liên kết)
+.netlify
+
+# Khoá, biến môi trường
+.env
+.env.*
+
+# Rác hệ điều hành
+.DS_Store
+Thumbs.db

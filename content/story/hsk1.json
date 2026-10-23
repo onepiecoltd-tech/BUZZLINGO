@@ -1,0 +1,194 @@
+{
+  "season": 1,
+  "title": "Mùa 1 · Blu đến Bắc Kinh",
+  "premise": "Em Blu (mèo trắng, hoodie xanh) sang Bắc Kinh học đại học. Chị Bắp (chó nâu trắng, nơ và hoodie vàng) đã sống ở đây ba năm, dạy tiếng Việt. Người học là bạn đồng hành của Blu.",
+  "units": {
+    "h1u1": { "ep": 1, "title": "Đặt chân đến Bắc Kinh", "bg": "airport" },
+    "h1u2": { "ep": 2, "title": "Ngày đầu đến trường", "bg": "campus" },
+    "h1u3": { "ep": 3, "title": "Một ngày ở nhà chị Bắp", "bg": "home" }
+  },
+  "lessons": {
+    "l1-nihao": {
+      "open": [
+        ["narr", "", "Sân bay Bắc Kinh, 7 giờ sáng. Blu kéo chiếc vali to gần bằng người, lần đầu tiên xa nhà."],
+        ["blu", "lo", "Chị Bắp ơi, ở đây ai cũng nói tiếng Trung… em chẳng biết nói gì cả!"],
+        ["bap", "cuoi", "Bình tĩnh nào. Câu đầu tiên dễ lắm: 你好 — nǐ hǎo."]
+      ],
+      "mission": "Giúp Blu chào người đầu tiên em gặp ở sân bay.",
+      "close": [
+        ["blu", "vui", "Chú hải quan cười với em kìa! Em nói được 你好 rồi!"],
+        ["bap", "cuoi", "Mới một câu đã vênh mặt. Ra bắt taxi thôi!"]
+      ],
+      "next": "Trên taxi, bác tài cứ gọi nhầm tên Blu. Em phải nói “tôi không phải…” thế nào đây?"
+    },
+    "l2-woshi": {
+      "open": [
+        ["narr", "", "Trên taxi về nhà chị Bắp. Bác tài vui tính, nói không ngừng."],
+        ["blu", "boi-roi", "Bác ấy cứ gọi em là “Xiǎo Wáng”! Em có phải Tiểu Vương đâu…"],
+        ["bap", "cuoi", "Thì nói: 我不是…，我是 Blu。 Rồi hỏi thăm bác một câu 你好吗 cho lịch sự."]
+      ],
+      "mission": "Giúp Blu nói mình là ai, nói “không phải”, và hỏi thăm bác tài.",
+      "close": [
+        ["blu", "tu-hao", "Bác tài gật gù “Ồ, Blu!”, còn khen em nói chuẩn nữa."],
+        ["bap", "vui", "Về đến nhà rồi. Chị nấu mì cho em nhé!"]
+      ],
+      "next": "Bữa tối đầu tiên ở nhà chị Bắp. Ăn xong, Blu quên mất một câu rất quan trọng…"
+    },
+    "l3-xiexie": {
+      "open": [
+        ["narr", "", "Tối đầu tiên ở Bắc Kinh. Bát mì nóng hổi bốc khói trên bàn."],
+        ["blu", "vui", "Ngon quá chị ơi! Em ăn hết luôn!"],
+        ["bap", "suy-nghi", "Ăn của người ta xong thì phải nói gì nhỉ?"]
+      ],
+      "mission": "Giúp Blu cảm ơn chị, đáp lại lời cảm ơn và chào tạm biệt.",
+      "close": [
+        ["blu", "vui", "谢谢！… 不客气！ Mai em đi nhập học, 再见 chị nhé!"],
+        ["bap", "cuoi", "再见 cái gì, chị ở ngay phòng bên cạnh đây này."]
+      ],
+      "next": "Ngày đầu đến trường, Blu phải làm quen với bạn mới. Bắt đầu từ… cái tên."
+    },
+    "h1-01": {
+      "open": [
+        ["narr", "", "Sáng hôm sau, chị Bắp đưa Blu tới trường đại học. Sân trường đông nghịt sinh viên."],
+        ["blu", "lo", "Đông người quá… em chưa quen ai hết."],
+        ["bap", "vui", "Làm quen thì bắt đầu bằng cái tên. Hỏi thế này: 你叫什么名字？"]
+      ],
+      "mission": "Giúp Blu hỏi tên bạn mới và giới thiệu tên mình.",
+      "close": [
+        ["blu", "vui", "Em quen được bạn Lý rồi! Bác bảo vệ cũng biết tên em luôn."],
+        ["bap", "cuoi", "Ngày đầu mà đã quen cả bác bảo vệ, giỏi đấy."]
+      ],
+      "next": "Lý tò mò nhìn cái đuôi trắng của Blu: “Bạn là người nước nào thế?”"
+    },
+    "h1-02": {
+      "open": [
+        ["narr", "", "Giờ ra chơi. Lý cứ nhìn Blu từ đầu đến đuôi."],
+        ["blu", "suy-nghi", "Lý đang đoán em từ đâu tới đấy…"],
+        ["bap", "cuoi", "Thì nói cho bạn ấy biết em là người Việt Nam!"]
+      ],
+      "mission": "Giúp Blu nói quốc tịch và hỏi quốc tịch của mọi người.",
+      "close": [
+        ["blu", "tu-hao", "Lý bảo lần đầu gặp một bạn mèo người Việt Nam đấy!"],
+        ["bap", "vui", "Chiều chị qua đón, em giới thiệu chị với Lý nhé."]
+      ],
+      "next": "Lý hỏi chị Bắp làm nghề gì. Câu trả lời làm Lý tròn mắt."
+    },
+    "h1-03": {
+      "open": [
+        ["narr", "", "Chiều tan học, chị Bắp đến cổng trường đón Blu. Lý chạy theo chào."],
+        ["blu", "ngac-nhien", "Lý hỏi chị làm nghề gì kìa!"],
+        ["bap", "tu-hao", "Hỏi đúng người rồi. Chị dạy tiếng Việt ở đây ba năm nay đấy."]
+      ],
+      "mission": "Giúp Blu hỏi và nói về nghề nghiệp của mọi người.",
+      "close": [
+        ["blu", "ngac-nhien", "Lý muốn học tiếng Việt với chị luôn!"],
+        ["bap", "cuoi", "Học phí là… dạy lại chị tiếng Trung. Công bằng chưa?"]
+      ],
+      "next": "Cuối tuần, chị Bắp hẹn bạn ở quán trà. Blu dẫn Lý theo để giới thiệu."
+    },
+    "h1-04": {
+      "open": [
+        ["narr", "", "Cuối tuần, quán trà nhỏ gần trường. Chị Bắp hẹn gặp một người bạn."],
+        ["bap", "vui", "Dẫn Lý theo nhé, chị cũng muốn làm quen."],
+        ["blu", "lo", "Giới thiệu thế nào cho lịch sự hả chị?"]
+      ],
+      "mission": "Giúp Blu giới thiệu bạn bè và nói “rất vui được quen bạn”.",
+      "close": [
+        ["blu", "vui", "Giờ em có thêm hai người bạn mới rồi!"],
+        ["bap", "cuoi", "Lý về nhà mình chơi đi. Chị cho xem ảnh nhà ở Hà Nội."]
+      ],
+      "next": "Lý ghé nhà, thấy tấm ảnh cả nhà Blu chụp ở Hà Nội. Ai là ai nhỉ?"
+    },
+    "h1-05": {
+      "open": [
+        ["narr", "", "Lý đến nhà chơi. Trên kệ có tấm ảnh cả nhà chụp ở Hà Nội."],
+        ["blu", "buon", "Nhìn ảnh lại thấy nhớ nhà quá…"],
+        ["bap", "vui", "Kể cho Lý nghe về nhà mình đi, kể rồi sẽ đỡ nhớ."]
+      ],
+      "mission": "Giúp Blu giới thiệu từng người trong gia đình.",
+      "close": [
+        ["blu", "cuoi", "Lý tưởng chị là em gái em đấy!"],
+        ["bap", "boi-roi", "Chị là CHỊ nhé! Nhìn chị trẻ thế cơ à?"]
+      ],
+      "next": "Chủ nhật, chị Bắp bày trò thi đếm số. Ai thua phải rửa bát!"
+    },
+    "h1-06": {
+      "open": [
+        ["narr", "", "Chủ nhật ở nhà chị Bắp. Đống bát đĩa sau bữa trưa đang chờ người rửa."],
+        ["bap", "cuoi", "Thi đếm số nhé. Ai sai trước thì rửa bát!"],
+        ["blu", "lo", "Chị nói nhanh quá… chờ em với!"]
+      ],
+      "mission": "Giúp Blu đếm từ 1 đến 10 không sai số nào.",
+      "close": [
+        ["blu", "tu-hao", "Em thắng! Chị rửa bát đi!"],
+        ["bap", "buon", "Hôm nay chị nhường em thôi đấy…"]
+      ],
+      "next": "Lý ở lại ăn tối và hỏi nhà Blu có mấy người."
+    },
+    "h1-07": {
+      "open": [
+        ["narr", "", "Lý ở lại ăn tối. Cả bàn rôm rả chuyện nhà."],
+        ["bap", "vui", "Lý hỏi nhà mình có mấy người kìa. Em đếm đi!"],
+        ["blu", "suy-nghi", "Bố, mẹ, chị, em út và em… là mấy người nhỉ?"]
+      ],
+      "mission": "Giúp Blu nói nhà có mấy người, có ai và không có ai.",
+      "close": [
+        ["bap", "cuoi", "Nhà Lý có hai em trai à? Thảo nào Lý nói nhiều thế!"],
+        ["blu", "cuoi", "Nhà mình cũng ồn y như vậy mà chị."]
+      ],
+      "next": "Lý vô tư hỏi tuổi chị Bắp… một câu hỏi nguy hiểm!"
+    },
+    "h1-08": {
+      "open": [
+        ["narr", "", "Ăn xong, Lý hỏi tuổi từng người trong nhà."],
+        ["bap", "lo", "Hỏi tuổi phụ nữ là… thôi được, chị dạy cách hỏi trước đã."],
+        ["blu", "cuoi", "Em biết tuổi chị đấy nhé!"]
+      ],
+      "mission": "Giúp Blu hỏi và nói tuổi: 几岁 cho trẻ nhỏ, 多大 cho bạn bè.",
+      "close": [
+        ["bap", "buon", "Blu khai tuổi chị rồi… Tối nay em tự nấu cơm nhé."],
+        ["blu", "boi-roi", "Ơ… em nói thật mà!"]
+      ],
+      "next": "Tối đó, ông bà gọi video từ Hà Nội. Lý được ra mắt cả nhà!"
+    },
+    "h1-09": {
+      "open": [
+        ["narr", "", "Tối muộn, ông bà gọi video từ Hà Nội. Lý ngồi cạnh, tò mò nhìn màn hình."],
+        ["bap", "vui", "Chào ông bà đi em, rồi giới thiệu Lý với cả nhà."],
+        ["blu", "vui", "Ông bà ơi, đây là bạn mới của cháu!"]
+      ],
+      "mission": "Giúp Blu nói về ông bà, con cái, người già và trẻ nhỏ trong nhà.",
+      "close": [
+        ["blu", "vui", "Ông khen Lý ngoan, còn hẹn Tết dẫn Lý về Hà Nội chơi!"],
+        ["bap", "cuoi", "Lý thành cháu nuôi của ông bà luôn rồi."]
+      ],
+      "next": "Blu mang về tấm ảnh lớp. Trong lớp có bao nhiêu bạn nam, bạn nữ?"
+    },
+    "h1-10": {
+      "open": [
+        ["narr", "", "Thứ Hai, Blu mang về tấm ảnh chụp cả lớp."],
+        ["bap", "suy-nghi", "Để chị đoán xem ai là ai nào."],
+        ["blu", "cuoi", "Chị đoán sai là phải mua trà sữa cho em!"]
+      ],
+      "mission": "Giúp Blu nói về bạn nam, bạn nữ và hỏi “người kia là ai”.",
+      "close": [
+        ["bap", "cuoi", "Lớp em vui thật. Đã xin số điện thoại các bạn chưa?"],
+        ["blu", "ngac-nhien", "Ơ… em chưa có số của Lý!"]
+      ],
+      "next": "Lý muốn rủ Blu đi chơi cuối tuần nhưng hai bạn chưa có số điện thoại của nhau."
+    },
+    "h1-11": {
+      "open": [
+        ["narr", "", "Lý muốn rủ Blu đi chơi cuối tuần, nhưng gọi cho ai bây giờ?"],
+        ["blu", "ngac-nhien", "Ơ, bọn mình chưa lưu số nhau à?"],
+        ["bap", "vui", "Đọc số cho Lý đi. Nhớ: số 1 trong số điện thoại đọc là yāo nhé."]
+      ],
+      "mission": "Giúp Blu đọc số điện thoại cho Lý.",
+      "close": [
+        ["blu", "vui", "Điện thoại reo ngay! Lý gọi rủ cuối tuần đi chơi."],
+        ["bap", "cuoi", "Đi đâu thì đi, nhớ về đúng giờ ăn cơm!"]
+      ],
+      "next": "Hết Tập 3. Tập 4: Blu đi chơi với Lý và… lạc giữa phố Bắc Kinh!"
+    }
+  }
+}

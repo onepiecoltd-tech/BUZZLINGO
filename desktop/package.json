@@ -1,0 +1,50 @@
+{
+  "name": "buzzlingo-desktop",
+  "productName": "BuzzLingo",
+  "version": "0.6.0",
+  "description": "BuzzLingo - học tiếng Trung HSK 3.0 cho người Việt (bản Windows)",
+  "author": "BuzzLingo",
+  "private": true,
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder --win portable --x64",
+    "build:setup": "electron-builder --win nsis --x64"
+  },
+  "devDependencies": {
+    "electron": "33.2.1",
+    "electron-builder": "25.1.8"
+  },
+  "build": {
+    "appId": "vn.buzzlingo.app",
+    "productName": "BuzzLingo",
+    "electronDist": "node_modules/electron/dist",
+    "directories": {
+      "output": "release",
+      "buildResources": "build"
+    },
+    "files": [
+      "main.js",
+      "build/icon.png"
+    ],
+    "extraResources": [
+      {
+        "from": "../dist",
+        "to": "app-dist"
+      }
+    ],
+    "asar": true,
+    "win": {
+      "icon": "build/icon.ico",
+      "artifactName": "BuzzLingo-${version}.exe",
+      "signAndEditExecutable": false
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "artifactName": "BuzzLingo-Setup-${version}.exe",
+      "shortcutName": "BuzzLingo"
+    },
+    "publish": null
+  }
+}

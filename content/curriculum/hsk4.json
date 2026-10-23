@@ -1,0 +1,5282 @@
+{
+ "level": 4,
+ "title": "HSK 4 · Trao đổi tự tin",
+ "complete": true,
+ "units": [
+  {
+   "id": "h4u1",
+   "title": "Khởi động HSK 4",
+   "goal": "Các từ nối của văn viết và văn nói trang trọng: trước/sau/giữa, tuy nhiên, thời gian, phỏng đoán và mức độ.",
+   "lessons": [
+    {
+     "id": "h4-01",
+     "title": "Trước, sau và giữa",
+     "words": "此 自 之后 之前 之间 之一 关于 对于 根据 作为 非 应",
+     "g": [
+      "之前 · 之后 · 之间 · ……之一",
+      "之前 / 之后 / 之间 = trước / sau / giữa (trang trọng hơn 以前, 以后, 中间): 上课之前, 毕业之后, 朋友之间. ……之一 = một trong những: 最好的朋友之一. 关于 + chủ đề = về; 对于 + đối tượng = đối với. 根据 = căn cứ vào. 作为 = với tư cách là. 自 = từ (văn viết); 此 = này; 非要 = nhất định đòi; 应 = nên.",
+      [
+       [
+        "自小他就喜欢唱歌。",
+        "Từ nhỏ anh ấy đã thích hát."
+       ],
+       [
+        "此时他已经到家了。",
+        "Lúc này anh ấy đã về đến nhà rồi."
+       ],
+       [
+        "这件事我们应早一点儿告诉他，他非要今天走。",
+        "Việc này lẽ ra mình nên báo anh ấy sớm hơn, anh ấy cứ nhất định đòi đi hôm nay."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "老师，下课之后您有时间吗？我想问您几个问题。",
+       "Thưa thầy, sau giờ học thầy có thời gian không? Em muốn hỏi thầy vài câu."
+      ],
+      [
+       "王老师",
+       "有。是关于什么的问题？",
+       "Có. Câu hỏi về chuyện gì vậy?"
+      ],
+      [
+       "Lan",
+       "关于中国文化的。根据我看的书，春节是中国最重要的节日之一，对吗？",
+       "Về văn hoá Trung Quốc ạ. Theo sách em đọc, Tết là một trong những ngày lễ quan trọng nhất của Trung Quốc, đúng không ạ?"
+      ],
+      [
+       "王老师",
+       "对。对于中国人来说，春节之前一定要回家。",
+       "Đúng. Đối với người Trung Quốc, trước Tết nhất định phải về nhà."
+      ],
+      [
+       "Lan",
+       "作为留学生，我应该怎么过春节呢？",
+       "Là du học sinh, em nên đón Tết thế nào ạ?"
+      ],
+      [
+       "王老师",
+       "你可以去朋友家过。朋友之间互相送礼物，非常有意思。",
+       "Em có thể đến nhà bạn đón Tết. Bạn bè tặng quà cho nhau, rất thú vị."
+      ]
+     ],
+     "w": "之"
+    },
+    {
+     "id": "h4-02",
+     "title": "Tuy nhiên, ngược lại",
+     "words": "然而 却 反而 而 而是 相反 此外 以及 反",
+     "g": [
+      "然而 · 却 · 反而 · 而 / 而是",
+      "然而 = tuy nhiên (đầu câu, trang trọng). 却 = lại (đứng sau chủ ngữ): 他很累，却不想休息. 反而 = trái lại (kết quả ngược mong đợi). 不是 A，而是 B = không phải A mà là B. 而 nối hai ý trái nhau: 便宜而好吃. 此外 = ngoài ra; 以及 = cùng với; 相反 = ngược lại; 反 = trái, ngược.",
+      [
+       [
+        "他很累，却不想休息。",
+        "Anh ấy rất mệt nhưng lại không muốn nghỉ."
+       ],
+       [
+        "我不是不想去，而是没有时间。",
+        "Mình không phải không muốn đi, mà là không có thời gian."
+       ],
+       [
+        "你把衣服穿反了。",
+        "Bạn mặc áo trái rồi."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "听说你吃了药，感冒好了吗？",
+       "Nghe nói bạn uống thuốc rồi, cảm đỡ chưa?"
+      ],
+      [
+       "Lan",
+       "没有，反而更难受了。",
+       "Chưa, trái lại còn nặng hơn."
+      ],
+      [
+       "Minh",
+       "那你应该去医院。不是吃药没用，而是你没休息好。",
+       "Vậy bạn nên đi viện. Không phải thuốc vô dụng, mà là bạn nghỉ ngơi không đủ."
+      ],
+      [
+       "Lan",
+       "我也知道。然而这个星期工作太多了，我却一天也不能休息。",
+       "Mình cũng biết. Tuy nhiên tuần này việc nhiều quá, mình lại không thể nghỉ ngày nào."
+      ],
+      [
+       "Minh",
+       "相反，你病了更不能工作。此外，多喝水，多睡觉。",
+       "Ngược lại, ốm rồi càng không làm việc được. Ngoài ra, uống nhiều nước, ngủ nhiều vào."
+      ],
+      [
+       "Lan",
+       "好吧。我会告诉经理以及同事们。",
+       "Thôi được. Mình sẽ báo quản lý cùng các đồng nghiệp."
+      ]
+     ],
+     "w": "却"
+    },
+    {
+     "id": "h4-03",
+     "title": "Từng, sắp, ngày nay",
+     "words": "曾 即将 如今 从此 事先 最初 立即 尽快 急忙 依然",
+     "g": [
+      "曾 · 即将 · 如今 · 从此",
+      "曾 (= 曾经, văn viết) + V + 过 = đã từng: 我曾去过上海. 即将 = sắp sửa (trang trọng). 如今 = ngày nay. 从此 = từ đó trở đi. 最初 = ban đầu. 事先 = trước (khi việc xảy ra). 立即 = lập tức; 尽快 = càng nhanh càng tốt; 急忙 = vội vàng; 依然 = vẫn như cũ.",
+      [
+       [
+        "我曾在北京住过两年。",
+        "Mình từng sống ở Bắc Kinh hai năm."
+       ],
+       [
+        "飞机即将起飞，请大家坐好。",
+        "Máy bay sắp cất cánh, mọi người xin ngồi yên."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "你最初为什么来中国？",
+       "Ban đầu sao bạn lại đến Trung Quốc?"
+      ],
+      [
+       "Minh",
+       "我曾在越南的一家中国公司工作过。从此我就喜欢上了汉语。",
+       "Mình từng làm ở một công ty Trung Quốc tại Việt Nam. Từ đó mình thích tiếng Trung luôn."
+      ],
+      [
+       "Lan",
+       "如今你的汉语说得这么好！",
+       "Giờ tiếng Trung của bạn nói giỏi thế này!"
+      ],
+      [
+       "Minh",
+       "哪里。我即将回国了，可是依然觉得自己学得不够。",
+       "Đâu có. Mình sắp về nước rồi, mà vẫn thấy mình học chưa đủ."
+      ],
+      [
+       "Lan",
+       "回国的事你事先告诉公司了吗？",
+       "Chuyện về nước bạn báo trước với công ty chưa?"
+      ],
+      [
+       "Minh",
+       "告诉了。经理一听就立即同意了，让我尽快回去，所以我急忙买了明天的机票。",
+       "Báo rồi. Quản lý nghe xong lập tức đồng ý, bảo mình về càng sớm càng tốt, nên mình vội mua vé máy bay ngày mai."
+      ]
+     ],
+     "w": "即依"
+    },
+    {
+     "id": "h4-04",
+     "title": "Có lẽ, dường như",
+     "words": "或许 说不定 似乎 看来 未必 难免 是否 的确 竟然",
+     "g": [
+      "或许 · 说不定 · 似乎 · 看来 · 未必",
+      "Các mức phỏng đoán: 或许 / 说不定 = có lẽ, không chừng; 似乎 = dường như; 看来 = xem ra (rút từ điều thấy được); 未必 = chưa chắc. 难免 = khó tránh. 是否 = có … hay không (văn viết). 的确 = quả thật. 竟然 = không ngờ (ngạc nhiên).",
+      [
+       [
+        "天这么黑，说不定要下雨。",
+        "Trời tối thế này, không chừng sắp mưa."
+       ],
+       [
+        "贵的东西未必好。",
+        "Đồ đắt chưa chắc đã tốt."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "小王今天没来上课，似乎病了。",
+       "Tiểu Vương hôm nay không đến lớp, hình như ốm rồi."
+      ],
+      [
+       "Minh",
+       "未必。或许他只是起晚了。",
+       "Chưa chắc. Có lẽ cậu ấy chỉ dậy muộn thôi."
+      ],
+      [
+       "Lan",
+       "他的手机也关了。看来真的有事。",
+       "Điện thoại cậu ấy cũng tắt. Xem ra có chuyện thật."
+      ],
+      [
+       "Minh",
+       "我打电话问问他是否需要帮助。",
+       "Mình gọi hỏi xem cậu ấy có cần giúp không."
+      ],
+      [
+       "Lan",
+       "刚到一个新地方，生病也难免。",
+       "Mới đến chỗ mới, ốm cũng khó tránh."
+      ],
+      [
+       "Minh",
+       "的确。他竟然一个人在家里病了两天，也没告诉我们！",
+       "Đúng thật. Không ngờ cậu ấy ốm một mình ở nhà hai ngày mà không nói với bọn mình!"
+      ]
+     ],
+     "w": "乎未"
+    },
+    {
+     "id": "h4-05",
+     "title": "Cực kỳ, thậm chí",
+     "words": "极 极其 格外 甚至 几乎 过分 彻底 充分",
+     "g": [
+      "极其 · 格外 · 甚至 · 几乎",
+      "Mức độ: 极 / 极其 = cực kỳ (văn viết); 格外 = đặc biệt, khác hẳn mọi khi; 甚至 = thậm chí; 几乎 = gần như. 过分 = quá đáng. 彻底 = triệt để. 充分 = đầy đủ.",
+      [
+       [
+        "今天的月亮格外亮。",
+        "Trăng hôm nay sáng hơn hẳn mọi khi."
+       ],
+       [
+        "他忙得几乎没时间吃饭，甚至忘了睡觉。",
+        "Anh ấy bận đến gần như không có thời gian ăn, thậm chí quên cả ngủ."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你准备好明天的考试了吗？",
+       "Bạn chuẩn bị xong cho kỳ thi mai chưa?"
+      ],
+      [
+       "Lan",
+       "准备得很充分。这次考试极其重要，我几乎每天都复习到十二点。",
+       "Chuẩn bị rất đầy đủ. Kỳ thi này cực kỳ quan trọng, gần như ngày nào mình cũng ôn đến mười hai giờ."
+      ],
+      [
+       "Minh",
+       "复习也别太过分了，身体也很重要。",
+       "Ôn cũng đừng quá đà, sức khoẻ cũng quan trọng lắm."
+      ],
+      [
+       "Lan",
+       "我知道。可是上次我考得极差，甚至不想见老师。",
+       "Mình biết. Nhưng lần trước mình thi tệ cực, thậm chí không muốn gặp thầy."
+      ],
+      [
+       "Minh",
+       "那次是因为你病了。这次你看起来格外有精神。",
+       "Lần đó là vì bạn ốm. Lần này trông bạn đặc biệt có tinh thần."
+      ],
+      [
+       "Lan",
+       "希望这次能彻底改变大家的看法！",
+       "Mong lần này thay đổi hẳn cách nhìn của mọi người!"
+      ]
+     ],
+     "w": "甚彻"
+    }
+   ]
+  },
+  {
+   "id": "h4u2",
+   "title": "Tính cách & cảm xúc",
+   "goal": "Miêu tả tính cách, ưu điểm, niềm vui, nỗi buồn, thái độ, cử chỉ; khen và chê.",
+   "lessons": [
+    {
+     "id": "h4-06",
+     "title": "Tính cách",
+     "words": "诚实 老实 善良 天真 单纯 大方 热心 能干 笨 粗心 调皮",
+     "g": [
+      "Tính từ tính cách + 得 + bổ ngữ",
+      "Miêu tả tính cách bằng tính từ: 诚实 / 老实 (thật thà), 善良 (tốt bụng), 天真 / 单纯 (ngây thơ, đơn giản), 大方 (hào phóng), 热心 (nhiệt tình), 能干 (giỏi giang). Trái nghĩa: 笨 (vụng, ngốc), 粗心 (cẩu thả), 调皮 (nghịch). 对 + người + 很 + tính từ: 他对人很热心.",
+      [
+       [
+        "我弟弟小时候很调皮，现在很能干。",
+        "Em trai mình hồi nhỏ rất nghịch, giờ rất giỏi giang."
+       ],
+       [
+        "她对朋友很大方。",
+        "Cô ấy rất hào phóng với bạn bè."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "你的新同事怎么样？",
+       "Đồng nghiệp mới của bạn thế nào?"
+      ],
+      [
+       "Minh",
+       "人很好。他很老实，也很善良，对人特别热心。",
+       "Người tốt lắm. Cậu ấy thật thà, tốt bụng, rất nhiệt tình với mọi người."
+      ],
+      [
+       "Lan",
+       "那你们的关系一定很好。",
+       "Vậy chắc quan hệ các bạn tốt lắm."
+      ],
+      [
+       "Minh",
+       "是。不过他有点儿粗心，常常忘带手机。",
+       "Ừ. Nhưng cậu ấy hơi cẩu thả, hay quên mang điện thoại."
+      ],
+      [
+       "Lan",
+       "哈哈，我觉得他有点儿天真，但是很诚实。",
+       "Haha, mình thấy cậu ấy hơi ngây thơ, nhưng rất thành thật."
+      ],
+      [
+       "Minh",
+       "对，他想法很单纯。别看他有时候很笨，其实做饭很能干，而且很大方，常常请我吃饭。",
+       "Đúng, cậu ấy nghĩ đơn giản. Đừng thấy có lúc cậu ấy vụng, thật ra nấu ăn rất giỏi, lại hào phóng, hay mời mình ăn."
+      ]
+     ],
+     "w": "诚良"
+    },
+    {
+     "id": "h4-07",
+     "title": "Ưu điểm và tài năng",
+     "words": "高尚 勇敢 勇气 英勇 自信 了不起 出色 优秀 善于 熟练 才~cai2 智力",
+     "g": [
+      "善于 + V · 对 … 有自信",
+      "善于 + động từ = giỏi về: 善于交流. 对自己有自信 / 很自信 = tự tin. 了不起 = giỏi lắm, phi thường. 出色 / 优秀 = xuất sắc. 勇敢 = dũng cảm; 勇气 = lòng can đảm; 英勇 = anh dũng (văn viết). 高尚 = cao thượng. 才 (cái, danh từ) = tài; 智力 = trí lực.",
+      [
+       [
+        "她善于跟别人交流。",
+        "Cô ấy giỏi giao tiếp với người khác."
+       ],
+       [
+        "说出自己的错，需要很大的勇气。",
+        "Nói ra lỗi của mình cần rất nhiều can đảm."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你看过那个节目吗？一个十岁的孩子会说五种语言！",
+       "Bạn xem chương trình đó chưa? Một đứa trẻ mười tuổi nói được năm thứ tiếng!"
+      ],
+      [
+       "Lan",
+       "看了，真了不起！他的智力一定很高。",
+       "Xem rồi, giỏi thật! Trí lực bé chắc rất cao."
+      ],
+      [
+       "Minh",
+       "他不但会说很多语言，而且很勇敢，在那么多人面前说话一点儿也不怕。",
+       "Bé không những nói được nhiều thứ tiếng mà còn rất dũng cảm, nói trước bao nhiêu người mà chẳng sợ chút nào."
+      ],
+      [
+       "Lan",
+       "是啊，很自信。他的汉语也说得很熟练。",
+       "Ừ, rất tự tin. Tiếng Trung của bé cũng nói rất thành thạo."
+      ],
+      [
+       "Minh",
+       "节目里说，他父母都是优秀的老师，特别善于教孩子。",
+       "Chương trình nói bố mẹ bé đều là giáo viên xuất sắc, rất giỏi dạy con."
+      ],
+      [
+       "Lan",
+       "有这样出色的父母，孩子的才能当然能表现出来。他父母的想法也很高尚：要帮助更多孩子。",
+       "Có bố mẹ xuất sắc như vậy, tài năng của con đương nhiên được thể hiện ra. Suy nghĩ của bố mẹ bé cũng rất cao thượng: muốn giúp nhiều trẻ hơn."
+      ]
+     ],
+     "w": "尚勇"
+    },
+    {
+     "id": "h4-08",
+     "title": "Niềm vui",
+     "words": "兴奋 激动 得意 痛快 乐趣 有趣 有劲儿 喜爱 微笑",
+     "g": [
+      "激动 / 兴奋 · 得意 · 有趣 / 有劲儿",
+      "激动 = xúc động mạnh; 兴奋 = phấn khích, hưng phấn. 得意 = hả hê, đắc ý (hơi tự mãn). 痛快 = sảng khoái. 有趣 = thú vị; 有劲儿 = hăng say, thú vị (khẩu ngữ). 乐趣 = niềm vui (trong việc gì). 喜爱 = yêu thích (trang trọng hơn 喜欢). 微笑 = mỉm cười.",
+      [
+       [
+        "听到这个消息，她激动得说不出话来。",
+        "Nghe tin này, cô ấy xúc động đến nỗi không nói nên lời."
+       ],
+       [
+        "学汉语的乐趣是每天都有新发现。",
+        "Niềm vui học tiếng Trung là ngày nào cũng có phát hiện mới."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "你今天怎么这么兴奋？",
+       "Hôm nay sao bạn phấn khích thế?"
+      ],
+      [
+       "Minh",
+       "我参加的比赛得了第一名！",
+       "Cuộc thi mình tham gia được giải nhất!"
+      ],
+      [
+       "Lan",
+       "太好了！看你得意的样子！",
+       "Tuyệt quá! Nhìn cái vẻ đắc ý của bạn kìa!"
+      ],
+      [
+       "Minh",
+       "哈哈，比赛特别有趣，大家都很有劲儿。",
+       "Haha, cuộc thi rất thú vị, ai cũng hăng say."
+      ],
+      [
+       "Lan",
+       "比完以后去吃饭了吗？",
+       "Thi xong có đi ăn không?"
+      ],
+      [
+       "Minh",
+       "去了，大家吃得很痛快。最后老师对我们微笑着说：“你们是我最喜爱的学生。”",
+       "Có, mọi người ăn uống thoả thích. Cuối cùng cô giáo mỉm cười nói với bọn mình: \"Các em là những học trò cô yêu quý nhất.\""
+      ]
+     ],
+     "w": "奋激"
+    },
+    {
+     "id": "h4-09",
+     "title": "Nỗi buồn và lo lắng",
+     "words": "失望 着急 担心 烦 吃惊 沉默 沉重 默默 泪 泪水 眼泪",
+     "g": [
+      "V + 得 + kết quả · 担心 / 着急",
+      "着急 = sốt ruột; 担心 = lo lắng; 吃惊 = giật mình; 失望 = thất vọng; 烦 = bực, phiền. 沉默 = im lặng; 默默 + V = lặng lẽ làm gì. 沉重 = nặng nề. Nước mắt: 泪 / 泪水 (văn viết), 眼泪 (thông dụng).",
+      [
+       [
+        "别着急，慢慢说。",
+        "Đừng sốt ruột, nói từ từ thôi."
+       ],
+       [
+        "他默默地离开了。",
+        "Anh ấy lặng lẽ rời đi."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你怎么了？一直沉默，不说话。",
+       "Bạn sao thế? Cứ im lặng, không nói gì."
+      ],
+      [
+       "Lan",
+       "我的猫不见了，已经两天了。我心里很沉重。",
+       "Con mèo của mình mất rồi, đã hai ngày. Lòng mình nặng trĩu."
+      ],
+      [
+       "Minh",
+       "别着急，我帮你找。你担心它出事吗？",
+       "Đừng sốt ruột, mình giúp bạn tìm. Bạn lo nó gặp chuyện à?"
+      ],
+      [
+       "Lan",
+       "是啊。我找了很多地方，越找越失望，越找越烦。",
+       "Ừ. Mình tìm nhiều chỗ lắm, càng tìm càng thất vọng, càng tìm càng bực."
+      ],
+      [
+       "Minh",
+       "你看，那是不是它？",
+       "Bạn xem, có phải nó kia không?"
+      ],
+      [
+       "Lan",
+       "真的是它！我又吃惊又高兴，眼泪都流出来了！",
+       "Đúng là nó rồi! Mình vừa bất ngờ vừa mừng, nước mắt chảy ra luôn!"
+      ]
+     ],
+     "w": "担惊"
+    },
+    {
+     "id": "h4-10",
+     "title": "Thái độ",
+     "words": "不在乎 在乎 无所谓 看不起 冷静 平静 清醒 同情 无聊 受不了",
+     "g": [
+      "在乎 / 不在乎 · 无所谓 · 看不起",
+      "在乎 = để tâm; 不在乎 / 无所谓 = không để ý, sao cũng được. 看不起 = coi thường. 冷静 = bình tĩnh; 平静 = bình lặng; 清醒 = tỉnh táo. 同情 = thông cảm, thương. 无聊 = buồn chán. 受不了 = chịu không nổi.",
+      [
+       [
+        "吃什么都无所谓，我不在乎。",
+        "Ăn gì cũng được, mình không để ý."
+       ],
+       [
+        "天天在家，我真受不了了。",
+        "Ngày nào cũng ở nhà, mình thật chịu hết nổi."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "周末你想去哪儿玩儿？",
+       "Cuối tuần bạn muốn đi chơi đâu?"
+      ],
+      [
+       "Minh",
+       "无所谓，去哪儿都行。在家太无聊了。",
+       "Sao cũng được, đi đâu cũng được. Ở nhà chán quá."
+      ],
+      [
+       "Lan",
+       "你上次说不想跟小李一起去，是因为他看不起别人吗？",
+       "Lần trước bạn bảo không muốn đi với Tiểu Lý, là vì cậu ấy coi thường người khác à?"
+      ],
+      [
+       "Minh",
+       "我是有点儿受不了他。不过他最近找不到工作，我也挺同情他的。",
+       "Mình hơi chịu không nổi cậu ấy. Nhưng dạo này cậu ấy không tìm được việc, mình cũng khá thương."
+      ],
+      [
+       "Lan",
+       "你别太在乎他说的话。碰到问题，冷静一点儿就好了。",
+       "Bạn đừng để tâm lời cậu ấy quá. Gặp chuyện, bình tĩnh một chút là được."
+      ],
+      [
+       "Minh",
+       "你说得对。我现在心里平静多了，也清醒多了。",
+       "Bạn nói đúng. Giờ lòng mình bình lặng hơn nhiều, cũng tỉnh táo hơn nhiều."
+      ]
+     ],
+     "w": "无谓"
+    },
+    {
+     "id": "h4-11",
+     "title": "Cử chỉ và nét mặt",
+     "words": "表情 抱 摸 摇 转身 招呼 问候 使劲 躺 刺激",
+     "g": [
+      "Động từ cử chỉ · V + 着",
+      "Cử chỉ: 抱 (ôm, bế), 摸 (sờ, xoa), 摇头 (lắc đầu), 转身 (quay người), 躺 (nằm), 使劲 (dùng sức). 打招呼 = chào hỏi; 问候 = hỏi thăm. 表情 = nét mặt. 刺激 = kích thích, cảm giác mạnh.",
+      [
+       [
+        "他摇了摇头，什么也没说。",
+        "Anh ấy lắc đầu, không nói gì cả."
+       ],
+       [
+        "见了老师要打招呼。",
+        "Gặp thầy cô phải chào hỏi."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "刚才那个人是谁？他转身就走了，也不打招呼。",
+       "Người lúc nãy là ai vậy? Quay người đi luôn, chẳng chào hỏi gì."
+      ],
+      [
+       "Lan",
+       "是我们楼的王先生。他的表情好奇怪。",
+       "Là anh Vương ở toà nhà mình. Nét mặt anh ấy lạ lắm."
+      ],
+      [
+       "Minh",
+       "他是不是受了什么刺激？我看他一直使劲摸着头。",
+       "Có phải anh ấy bị cú sốc gì không? Mình thấy anh ấy cứ day mạnh lên đầu."
+      ],
+      [
+       "Lan",
+       "可能是。我去问候一下吧。",
+       "Có thể. Mình đi hỏi thăm một chút."
+      ],
+      [
+       "Minh",
+       "我跟你一起去。他要是不舒服，就让他躺下休息。",
+       "Mình đi cùng bạn. Nếu anh ấy không khoẻ thì cho anh ấy nằm nghỉ."
+      ],
+      [
+       "Lan",
+       "好。他家的孩子还小，我可以帮忙抱一下孩子。",
+       "Ừ. Con nhà anh ấy còn nhỏ, mình có thể giúp bế bé."
+      ]
+     ],
+     "w": "抱摸"
+    },
+    {
+     "id": "h4-12",
+     "title": "Khen và chê",
+     "words": "表扬 称赞 赞赏 赞成 教训 批 怪 忽视 片面",
+     "g": [
+      "表扬 · 称赞 · 赞赏 / 批 · 怪",
+      "Khen: 表扬 (cấp trên khen cấp dưới), 称赞 / 赞赏 (khen, tán thưởng). 赞成 = tán thành. Chê: 批 / 批评 = phê bình; 怪 + người = trách: 别怪他. 教训 = bài học; dạy cho bài học. 忽视 = xem nhẹ. 片面 = phiến diện.",
+      [
+       [
+        "老师在全班面前表扬了他。",
+        "Thầy khen cậu ấy trước cả lớp."
+       ],
+       [
+        "这件事不能怪你。",
+        "Chuyện này không thể trách bạn."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "今天经理在会上表扬了你，大家都在称赞你！",
+       "Hôm nay quản lý khen bạn trong cuộc họp, ai cũng khen bạn!"
+      ],
+      [
+       "Minh",
+       "可是上个星期他还批了我一顿呢。",
+       "Nhưng tuần trước ông ấy còn phê bình mình đấy."
+      ],
+      [
+       "Lan",
+       "那是因为你忽视了一个小问题。不能只看那一次，那样太片面了。",
+       "Đó là vì bạn xem nhẹ một vấn đề nhỏ. Không thể chỉ nhìn lần đó, như thế phiến diện quá."
+      ],
+      [
+       "Minh",
+       "我不怪他。那次的教训让我学到了很多。",
+       "Mình không trách ông ấy. Bài học lần đó giúp mình học được nhiều."
+      ],
+      [
+       "Lan",
+       "经理说他很赞赏你的办法，大家也都赞成。",
+       "Quản lý nói ông ấy rất đánh giá cao cách làm của bạn, mọi người cũng đều tán thành."
+      ],
+      [
+       "Minh",
+       "太好了！今天我请你喝咖啡。",
+       "Tuyệt quá! Hôm nay mình mời bạn uống cà phê."
+      ]
+     ],
+     "w": "扬赞"
+    }
+   ]
+  },
+  {
+   "id": "h4u3",
+   "title": "Gia đình & các mối quan hệ",
+   "goal": "Vợ chồng, đám cưới, người thân, cách xưng hô ngoài phố, tình bạn tình yêu, tuổi thơ và giấc mơ.",
+   "lessons": [
+    {
+     "id": "h4-13",
+     "title": "Đám cưới",
+     "words": "夫妇 夫妻 丈夫 妻子 老公 老婆 夫人 婚礼 新郎 新娘",
+     "g": [
+      "Cách gọi vợ chồng",
+      "丈夫 / 妻子 = chồng / vợ (trung tính); 老公 / 老婆 = khẩu ngữ, thân mật; 夫人 = phu nhân (lịch sự, gọi vợ người khác). 夫妻 / 夫妇 = vợ chồng (夫妇 trang trọng hơn). 婚礼 = đám cưới; 新郎 / 新娘 = chú rể / cô dâu.",
+      [
+       [
+        "王先生和夫人一起|来了。",
+        "Ông Vương và phu nhân cùng đến."
+       ],
+       [
+        "他们是一对很幸福的夫妻。",
+        "Họ là một cặp vợ chồng rất hạnh phúc."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "下个星期六我姐姐结婚，你来参加婚礼吗？",
+       "Thứ bảy tuần sau chị gái mình cưới, bạn đến dự đám cưới không?"
+      ],
+      [
+       "Minh",
+       "好啊！新郎是谁？",
+       "Được chứ! Chú rể là ai thế?"
+      ],
+      [
+       "Lan",
+       "是她的大学同学。他们是在学校认识的。",
+       "Là bạn đại học của chị ấy. Họ quen nhau ở trường."
+      ],
+      [
+       "Minh",
+       "越南的婚礼上，新娘要穿什么衣服？",
+       "Ở đám cưới Việt Nam, cô dâu mặc gì?"
+      ],
+      [
+       "Lan",
+       "一般穿红色的衣服。我姐姐的丈夫说，他的妻子是世界上最漂亮的新娘。",
+       "Thường mặc đồ màu đỏ. Chồng chị mình nói, vợ anh ấy là cô dâu đẹp nhất thế giới."
+      ],
+      [
+       "Minh",
+       "哈哈，现在叫“妻子”，以后就叫“老婆”了。我爸爸也常常叫我妈妈“老婆”，我妈妈叫他“老公”。这样的夫妇最幸福！",
+       "Haha, bây giờ gọi \"妻子\", sau này sẽ gọi \"老婆\" thôi. Bố mình cũng hay gọi mẹ là \"老婆\", mẹ gọi bố là \"老公\". Vợ chồng như thế hạnh phúc nhất!"
+      ]
+     ],
+     "w": "妇妻"
+    },
+    {
+     "id": "h4-14",
+     "title": "Người thân",
+     "words": "宝宝 宝贝 孙子 孙女 叔叔 阿姨 姐妹 兄弟 大哥 大姐",
+     "g": [
+      "Xưng hô trong gia đình",
+      "叔叔 = chú (em bố); 阿姨 = cô, dì (cũng gọi phụ nữ lớn tuổi ngoài đường). 大哥 / 大姐 = anh cả / chị cả (cũng dùng gọi lịch sự). 兄弟 = anh em trai; 姐妹 = chị em gái. 孙子 / 孙女 = cháu nội trai / gái. 宝宝 / 宝贝 = bé cưng.",
+      [
+       [
+        "我有两个兄弟，没有姐妹。",
+        "Mình có hai anh em trai, không có chị em gái."
+       ],
+       [
+        "宝贝，别哭了，妈妈在这儿。",
+        "Con yêu, đừng khóc nữa, mẹ ở đây mà."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "照片上这个宝宝是谁？太可爱了！",
+       "Em bé trong ảnh này là ai? Đáng yêu quá!"
+      ],
+      [
+       "Lan",
+       "是我大哥的女儿，我爸爸妈妈的第一个孙女。",
+       "Là con gái anh cả mình, cháu nội gái đầu tiên của bố mẹ mình."
+      ],
+      [
+       "Minh",
+       "你家有几个兄弟姐妹？",
+       "Nhà bạn có mấy anh chị em?"
+      ],
+      [
+       "Lan",
+       "我有一个大哥、一个大姐。大哥还有一个儿子，是我爸爸妈妈的孙子。",
+       "Mình có một anh cả, một chị cả. Anh cả còn có một con trai, là cháu nội trai của bố mẹ mình."
+      ],
+      [
+       "Minh",
+       "那你是孩子们的阿姨吗？",
+       "Vậy bạn là dì của bọn trẻ à?"
+      ],
+      [
+       "Lan",
+       "不是。在中国，爸爸的姐妹不叫阿姨。在越南，孩子们叫我“cô”，叫我老公“chú”。孩子们都是我的宝贝！",
+       "Không phải. Ở Trung Quốc, chị em gái của bố không gọi là dì. Ở Việt Nam, bọn trẻ gọi mình là \"cô\", gọi chồng mình là \"chú\". Bọn trẻ đều là cục cưng của mình!"
+      ]
+     ],
+     "w": "宝贝"
+    },
+    {
+     "id": "h4-15",
+     "title": "Xưng hô ngoài phố",
+     "words": "大妈 大爷 小伙子 帅哥 美女 男士 女士 男女 成人 儿童",
+     "g": [
+      "Gọi người lạ cho lịch sự",
+      "大爷 / 大妈 = ông, bà (người lớn tuổi, thân mật kiểu phương Bắc). 小伙子 = chàng trai; 帅哥 / 美女 = anh đẹp trai / người đẹp (cách gọi vui, phổ biến khi mua bán). 男士 / 女士 = quý ông / quý bà (trang trọng). 成人 = người lớn; 儿童 = trẻ em; 男女 = nam nữ.",
+      [
+       [
+        "女士们，先生们，欢迎大家！",
+        "Thưa quý bà, quý ông, chào mừng mọi người!"
+       ],
+       [
+        "儿童票比成人票便宜一半。",
+        "Vé trẻ em rẻ hơn vé người lớn một nửa."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "大爷，请问去公园怎么走？",
+       "Ông ơi, cho cháu hỏi đến công viên đi thế nào ạ?"
+      ],
+      [
+       "大爷",
+       "小伙子，往前走，到路口左转就是。",
+       "Cháu à, cứ đi thẳng, đến ngã tư rẽ trái là tới."
+      ],
+      [
+       "Minh",
+       "谢谢您！门票多少钱？",
+       "Cảm ơn ông! Vé vào bao nhiêu tiền ạ?"
+      ],
+      [
+       "大妈",
+       "成人十块，儿童五块。帅哥，你买一张吧？",
+       "Người lớn mười tệ, trẻ em năm tệ. Anh đẹp trai, mua một vé chứ?"
+      ],
+      [
+       "Minh",
+       "好，再买一张儿童票。美女，这儿的洗手间男女分开吗？",
+       "Vâng, mua thêm một vé trẻ em nữa. Chị đẹp ơi, nhà vệ sinh ở đây nam nữ riêng không ạ?"
+      ],
+      [
+       "大妈",
+       "分开，左边是男士，右边是女士。",
+       "Riêng, bên trái là nam, bên phải là nữ."
+      ]
+     ],
+     "w": "伙帅"
+    },
+    {
+     "id": "h4-16",
+     "title": "Tình bạn, tình yêu",
+     "words": "亲爱 亲密 想念 怀念 约会 分手 误会 相处 好友 伙伴 伙",
+     "g": [
+      "跟 … 相处 · 想念 / 怀念",
+      "跟 + người + 相处 = chung sống, cư xử với: 跟同事相处得很好. 想念 = nhớ (người, nơi đang xa); 怀念 = nhớ về, hoài niệm (người, thời đã qua). 误会 = hiểu lầm. 约会 = hẹn hò. 分手 = chia tay. 好友 = bạn thân; 伙伴 = bạn đồng hành; 一伙人 = một nhóm người. 亲密 = thân thiết; 亲爱的 = (người) thân yêu.",
+      [
+       [
+        "我很想念在越南的家人。",
+        "Mình rất nhớ gia đình ở Việt Nam."
+       ],
+       [
+        "你误会我了，我不是这个意思。",
+        "Bạn hiểu lầm mình rồi, ý mình không phải vậy."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "你和你女朋友最近怎么样？",
+       "Dạo này bạn với bạn gái thế nào?"
+      ],
+      [
+       "Minh",
+       "我们分手了。",
+       "Bọn mình chia tay rồi."
+      ],
+      [
+       "Lan",
+       "啊？你们不是很亲密吗？",
+       "Hả? Hai người chẳng phải rất thân thiết sao?"
+      ],
+      [
+       "Minh",
+       "有一次她看见我跟别的女生在一起，误会了。其实那是我的好友，也是我学习上的伙伴。",
+       "Có lần cô ấy thấy mình đi với bạn nữ khác, hiểu lầm. Thật ra đó là bạn thân mình, cũng là bạn học cùng."
+      ],
+      [
+       "Lan",
+       "你没告诉她吗？两个人相处，最重要的是互相相信。",
+       "Bạn không nói với cô ấy à? Hai người ở bên nhau, quan trọng nhất là tin nhau."
+      ],
+      [
+       "Minh",
+       "说了，可是她不听。现在我常常怀念我们一起约会的时候，也很想念她。我给她写了一封信：“亲爱的……”",
+       "Nói rồi, nhưng cô ấy không nghe. Giờ mình hay nhớ lại những lúc hai đứa hẹn hò, cũng rất nhớ cô ấy. Mình viết cho cô ấy một lá thư: \"Em yêu…\""
+      ]
+     ],
+     "w": "密怀"
+    },
+    {
+     "id": "h4-17",
+     "title": "Tuổi thơ và giấc mơ",
+     "words": "童年 童话 青春 幼儿园 梦 梦见 梦想 做梦 日记",
+     "g": [
+      "梦见 · 梦想 · 做梦",
+      "做梦 = nằm mơ; 梦见 + người/việc = mơ thấy; 梦 = giấc mơ; 梦想 = ước mơ. 童年 = tuổi thơ; 童话 = truyện cổ tích; 青春 = tuổi thanh xuân; 幼儿园 = mẫu giáo. 日记 = nhật ký: 写日记.",
+      [
+       [
+        "我昨天晚上做了一个梦，梦见我回到了童年。",
+        "Tối qua mình nằm mơ, mơ thấy mình quay về tuổi thơ."
+       ],
+       [
+        "他的梦想是当一名医生。",
+        "Ước mơ của anh ấy là làm bác sĩ."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你小时候的梦想是什么？",
+       "Hồi nhỏ ước mơ của bạn là gì?"
+      ],
+      [
+       "Lan",
+       "我在幼儿园的时候，想住在童话里。",
+       "Hồi học mẫu giáo, mình muốn được sống trong truyện cổ tích."
+      ],
+      [
+       "Minh",
+       "哈哈！你还记得你的童年吗？",
+       "Haha! Bạn còn nhớ tuổi thơ không?"
+      ],
+      [
+       "Lan",
+       "记得很清楚，因为我从小就写日记。",
+       "Nhớ rất rõ, vì từ nhỏ mình đã viết nhật ký."
+      ],
+      [
+       "Minh",
+       "我也常常梦见小时候的事。人们说，青春就是一场梦。",
+       "Mình cũng hay mơ thấy chuyện hồi nhỏ. Người ta nói, tuổi trẻ là một giấc mơ."
+      ],
+      [
+       "Lan",
+       "别做梦了，快去学习吧！你的梦想不是当老师吗？",
+       "Đừng mơ nữa, mau đi học đi! Ước mơ của bạn chẳng phải là làm giáo viên sao?"
+      ]
+     ],
+     "w": "童幼"
+    },
+    {
+     "id": "h4-18",
+     "title": "Thay người, đi thăm",
+     "words": "代替 替 替代 单独 独自 单调 看望 上门",
+     "g": [
+      "替 / 代替 + người + V",
+      "替 + người + V = làm thay ai: 我替你去. 代替 / 替代 = thay thế (替代 trang trọng hơn). 单独 = riêng, một mình (làm riêng); 独自 = một mình (văn viết). 单调 = đơn điệu. 看望 = đi thăm (người ốm, người già); 上门 = đến tận nhà.",
+      [
+       [
+        "你病了，我替你上课吧。",
+        "Bạn ốm rồi, để mình lên lớp thay bạn."
+       ],
+       [
+        "他独自一个人在外地工作。",
+        "Anh ấy một mình làm việc ở nơi khác."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "明天我要去看望奶奶，你能替我开会吗？",
+       "Mai mình phải đi thăm bà, bạn họp thay mình được không?"
+      ],
+      [
+       "Minh",
+       "没问题。你奶奶一个人住吗？",
+       "Không vấn đề gì. Bà bạn sống một mình à?"
+      ],
+      [
+       "Lan",
+       "对，她独自住在老房子里，生活有点儿单调。",
+       "Ừ, bà sống một mình trong nhà cũ, cuộc sống hơi đơn điệu."
+      ],
+      [
+       "Minh",
+       "可以请人上门照顾她吗？",
+       "Có thể thuê người đến tận nhà chăm sóc bà không?"
+      ],
+      [
+       "Lan",
+       "请过，可是谁也代替不了家人。她想跟我单独说说话。",
+       "Thuê rồi, nhưng ai cũng không thay được người nhà. Bà muốn nói chuyện riêng với mình."
+      ],
+      [
+       "Minh",
+       "我明白了。打电话也替代不了见面。",
+       "Mình hiểu rồi. Gọi điện cũng không thay được việc gặp mặt."
+      ]
+     ],
+     "w": "替独"
+    }
+   ]
+  },
+  {
+   "id": "h4u4",
+   "title": "Cơ thể & sức khoẻ",
+   "goal": "Vóc dáng, bộ phận cơ thể, ốm đau, khám chữa bệnh, thói quen và luyện tập.",
+   "lessons": [
+    {
+     "id": "h4-19",
+     "title": "Vóc dáng",
+     "words": "身材 身高 体重 矮 矮小 胖子 腰 胸部 脑袋 嘴巴",
+     "g": [
+      "Miêu tả ngoại hình",
+      "身高 = chiều cao; 体重 = cân nặng; 身材 = vóc dáng: 身材很好. 矮 / 矮小 = thấp, thấp bé; 胖子 = người béo. Bộ phận: 腰 (eo), 胸部 (ngực), 脑袋 (đầu, khẩu ngữ), 嘴巴 (miệng).",
+      [
+       [
+        "他身高一米八，体重七十公斤。",
+        "Anh ấy cao một mét tám, nặng bảy mươi cân."
+       ],
+       [
+        "我哥哥是个小胖子。",
+        "Anh mình là một cậu béo."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "那个高高的男生是谁？身材真好！",
+       "Bạn nam cao cao kia là ai vậy? Dáng đẹp thật!"
+      ],
+      [
+       "Minh",
+       "他是我们班的。身高一米八五，体重才七十公斤。",
+       "Cậu ấy học lớp mình. Cao một mét tám lăm, nặng chỉ bảy mươi cân."
+      ],
+      [
+       "Lan",
+       "我太矮了，才一米五五。",
+       "Mình thấp quá, chỉ một mét năm lăm."
+      ],
+      [
+       "Minh",
+       "矮也没关系。你看，他小时候又矮小又胖，大家都叫他“小胖子”。",
+       "Thấp cũng không sao. Bạn xem, hồi nhỏ cậu ấy vừa thấp bé vừa béo, ai cũng gọi là \"cậu béo\"."
+      ],
+      [
+       "Lan",
+       "后来呢？",
+       "Rồi sao nữa?"
+      ],
+      [
+       "Minh",
+       "后来他天天运动，人也不胖了，胸部也结实了。他说：“脑袋要用，嘴巴要管住！”",
+       "Sau đó cậu ấy ngày nào cũng tập, người hết béo, ngực cũng săn chắc. Cậu ấy nói: \"Đầu óc phải dùng, cái miệng phải giữ (đừng ăn bừa)!\""
+      ]
+     ],
+     "w": "矮腰"
+    },
+    {
+     "id": "h4-20",
+     "title": "Bên trong cơ thể",
+     "words": "肚子 骨头 器官 牙 尾巴 呼吸 消化 吸 力气 花~hua3",
+     "g": [
+      "呼吸 · 消化 · 吸",
+      "呼吸 = thở, hô hấp; 吸 = hít, hút; 消化 = tiêu hoá. 器官 = cơ quan (tim, phổi…). 骨头 = xương; 牙 = răng; 肚子 = bụng; 尾巴 = đuôi (động vật). 力气 = sức lực. 眼睛花了 = mắt mờ đi (花 = hoa mắt).",
+      [
+       [
+        "慢慢地吸一口气，再慢慢呼吸。",
+        "Hít một hơi thật chậm, rồi thở từ từ."
+       ],
+       [
+        "年纪大了，眼睛也花了。",
+        "Lớn tuổi rồi, mắt cũng mờ."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "我肚子不舒服，吃了东西不消化。",
+       "Mình khó chịu bụng, ăn vào không tiêu."
+      ],
+      [
+       "Lan",
+       "你中午是不是吃得太快了？",
+       "Trưa nay có phải bạn ăn nhanh quá không?"
+      ],
+      [
+       "Minh",
+       "可能是。我还觉得没有力气，呼吸也有点儿难。",
+       "Có thể. Mình còn thấy không có sức, thở cũng hơi khó."
+      ],
+      [
+       "Lan",
+       "那要小心。人的器官很重要，不舒服就要去医院。",
+       "Vậy phải cẩn thận. Các cơ quan trong người quan trọng lắm, khó chịu là phải đi viện."
+      ],
+      [
+       "Minh",
+       "我小时候断过骨头，最怕医院了。",
+       "Hồi nhỏ mình từng gãy xương, sợ bệnh viện nhất."
+      ],
+      [
+       "Lan",
+       "别怕。我的狗生病了，尾巴都不摇了，我也马上带它去看医生。你的牙也该看看了！",
+       "Đừng sợ. Con chó nhà mình ốm, đuôi cũng chẳng vẫy, mình cũng đưa nó đi khám ngay. Răng bạn cũng nên đi khám rồi!"
+      ]
+     ],
+     "w": "肚骨"
+    },
+    {
+     "id": "h4-21",
+     "title": "Đi khám bệnh",
+     "words": "发烧 恶心 打针 内科 护士 体检 手术 治 治疗 药物",
+     "g": [
+      "给 + người + 打针 / 做手术",
+      "发烧 = sốt; 恶心 = buồn nôn. 打针 = tiêm; 做手术 = phẫu thuật; 体检 = khám sức khoẻ. 内科 = khoa nội; 护士 = y tá. 治 / 治疗 = chữa trị: 治病; 药物 = thuốc (trang trọng hơn 药).",
+      [
+       [
+        "护士给我打针了。",
+        "Y tá tiêm cho mình rồi."
+       ],
+       [
+        "公司每年给员工做一次体检。",
+        "Công ty mỗi năm cho nhân viên khám sức khoẻ một lần."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "医生",
+       "你哪儿不舒服？",
+       "Em khó chịu ở đâu?"
+      ],
+      [
+       "Lan",
+       "我从昨天开始发烧，还有点儿恶心。",
+       "Em sốt từ hôm qua, còn hơi buồn nôn nữa."
+      ],
+      [
+       "医生",
+       "我看看……是感冒。不用做手术，也不用治疗很久。",
+       "Để tôi xem… là cảm. Không cần phẫu thuật, cũng không cần điều trị lâu."
+      ],
+      [
+       "Lan",
+       "要打针吗？我最怕打针了。",
+       "Có phải tiêm không ạ? Em sợ tiêm nhất."
+      ],
+      [
+       "医生",
+       "先吃药吧，这种药物效果很好。要是明天还发烧，再来内科打针。",
+       "Uống thuốc trước đã, loại thuốc này hiệu quả tốt. Nếu mai còn sốt thì quay lại khoa nội tiêm."
+      ],
+      [
+       "Lan",
+       "好的，谢谢大夫。这个病好治吗？",
+       "Vâng, cảm ơn bác sĩ. Bệnh này dễ chữa không ạ?"
+      ]
+     ],
+     "w": "烧恶"
+    },
+    {
+     "id": "h4-22",
+     "title": "Y tế và tâm lý",
+     "words": "医疗 医学 疗养 轮椅 缓解 遗传 心理 抽烟 吸烟",
+     "g": [
+      "缓解 · 遗传 · 心理",
+      "缓解 = làm dịu, giảm bớt: 缓解压力. 遗传 = di truyền. 心理 = tâm lý: 心理问题, 心理医生. 医学 = y học; 医疗 = y tế: 医疗费. 疗养 = an dưỡng. 轮椅 = xe lăn. 抽烟 / 吸烟 = hút thuốc (吸烟 trang trọng: 禁止吸烟).",
+      [
+       [
+        "运动可以缓解压力。",
+        "Vận động có thể giảm áp lực."
+       ],
+       [
+        "这种病会遗传吗？",
+        "Bệnh này có di truyền không?"
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "我爷爷住院了，现在只能坐轮椅。",
+       "Ông mình nằm viện rồi, giờ chỉ ngồi xe lăn được."
+      ],
+      [
+       "Lan",
+       "是什么病？",
+       "Bệnh gì vậy?"
+      ],
+      [
+       "Minh",
+       "心脏不好。医生说跟遗传有关系，也跟他抽烟有关系。",
+       "Tim không tốt. Bác sĩ nói có liên quan đến di truyền, cũng liên quan đến việc ông hút thuốc."
+      ],
+      [
+       "Lan",
+       "吸烟真的对身体不好。现在医学很发达，医疗条件也好多了。",
+       "Hút thuốc thật sự không tốt cho sức khoẻ. Giờ y học rất phát triển, điều kiện y tế cũng tốt hơn nhiều."
+      ],
+      [
+       "Minh",
+       "对。医生让他出院以后去海边疗养一段时间。",
+       "Ừ. Bác sĩ bảo ông xuất viện xong thì ra biển an dưỡng một thời gian."
+      ],
+      [
+       "Lan",
+       "老人生病了，心理压力也很大。你多跟他说说话，能缓解他的压力。",
+       "Người già ốm, áp lực tâm lý cũng lớn. Bạn trò chuyện với ông nhiều vào, có thể giúp ông bớt áp lực."
+      ]
+     ],
+     "w": "疗轮"
+    },
+    {
+     "id": "h4-23",
+     "title": "Rèn luyện và thói quen",
+     "words": "锻炼 健身 减肥 体操 放松 舒适 刷牙 牙刷 毛巾 养成",
+     "g": [
+      "养成 + 习惯 · 减肥 / 健身",
+      "养成习惯 = hình thành thói quen. 锻炼 = rèn luyện; 健身 = tập thể hình (健身房 = phòng gym); 减肥 = giảm cân; 体操 = thể dục dụng cụ. 放松 = thư giãn; 舒适 = dễ chịu. Vệ sinh: 刷牙, 牙刷, 毛巾.",
+      [
+       [
+        "我养成了每天早上锻炼的习惯。",
+        "Mình đã tạo thói quen tập luyện mỗi sáng."
+       ],
+       [
+        "我每天洗澡以后都用这条毛巾。",
+        "Ngày nào tắm xong mình cũng dùng chiếc khăn này."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "你最近看起来跟以前不一样了！是在减肥吗？",
+       "Dạo này trông bạn khác hẳn! Đang giảm cân à?"
+      ],
+      [
+       "Minh",
+       "是。我每天下班去健身，周末还做体操。",
+       "Ừ. Ngày nào tan làm mình cũng đi tập, cuối tuần còn tập thể dục dụng cụ."
+      ],
+      [
+       "Lan",
+       "你是怎么坚持下来的？",
+       "Làm sao bạn kiên trì được vậy?"
+      ],
+      [
+       "Minh",
+       "先养成习惯。早上起床刷牙以后就锻炼半个小时。",
+       "Trước hết tạo thói quen. Sáng dậy đánh răng xong là tập nửa tiếng."
+      ],
+      [
+       "Lan",
+       "锻炼完一定很累吧？",
+       "Tập xong chắc mệt lắm nhỉ?"
+      ],
+      [
+       "Minh",
+       "累，可是洗澡以后用新毛巾，再躺在舒适的沙发上，整个人都放松了。对了，我还买了一把新牙刷！",
+       "Mệt, nhưng tắm xong dùng khăn mới, rồi nằm trên chiếc sofa êm ái, cả người thư giãn hẳn. À, mình còn mua một bàn chải mới nữa!"
+      ]
+     ],
+     "w": "锻炼"
+    }
+   ]
+  },
+  {
+   "id": "h4u5",
+   "title": "Nhà cửa & sinh hoạt",
+   "goal": "Đồ đạc trong nhà, toà nhà, sửa sang, việc nhà, đồ dùng, giấc ngủ.",
+   "lessons": [
+    {
+     "id": "h4-24",
+     "title": "Trong căn hộ",
+     "words": "窗户 窗子 窗台 阳台 冰箱 电灯 暖气 镜子 闹钟 楼梯",
+     "g": [
+      "Đồ vật trong nhà · 在 + nơi chốn + V",
+      "窗户 / 窗子 = cửa sổ; 窗台 = bậu cửa sổ; 阳台 = ban công. 冰箱 = tủ lạnh; 电灯 = đèn điện; 暖气 = máy sưởi; 镜子 = gương; 闹钟 = đồng hồ báo thức; 楼梯 = cầu thang. Câu tồn tại: 窗台上放着一盆花.",
+      [
+       [
+        "冬天北方的房子里都有暖气。",
+        "Mùa đông nhà ở miền Bắc Trung Quốc đều có sưởi."
+       ],
+       [
+        "窗台上放着一个闹钟。",
+        "Trên bậu cửa sổ đặt một chiếc đồng hồ báo thức."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "房东",
+       "这套房子有两个房间，还有一个阳台。",
+       "Căn hộ này có hai phòng, còn có một ban công."
+      ],
+      [
+       "Lan",
+       "窗户很大，很亮。冰箱和空调都是新的吗？",
+       "Cửa sổ to, sáng quá. Tủ lạnh và điều hoà đều mới ạ?"
+      ],
+      [
+       "房东",
+       "冰箱是新的。冬天有暖气，不会冷。",
+       "Tủ lạnh mới. Mùa đông có sưởi, không lạnh đâu."
+      ],
+      [
+       "Lan",
+       "洗手间的电灯好像坏了，镜子也有点儿旧。",
+       "Đèn nhà vệ sinh hình như hỏng rồi, gương cũng hơi cũ."
+      ],
+      [
+       "房东",
+       "没问题，我明天找人来换。",
+       "Không sao, mai tôi gọi người đến thay."
+      ],
+      [
+       "Lan",
+       "好。楼梯有点儿旧，不过没关系。我喜欢在窗台上放花，再放一个闹钟。窗子外边也很漂亮。",
+       "Vâng. Cầu thang hơi cũ, nhưng không sao. Em thích đặt hoa trên bậu cửa sổ, thêm một cái đồng hồ báo thức. Bên ngoài cửa sổ cũng đẹp."
+      ]
+     ],
+     "w": "窗户"
+    },
+    {
+     "id": "h4-25",
+     "title": "Toà nhà",
+     "words": "大楼 电梯 上楼 下楼 台阶 地面 地下 坚固 盖 顶",
+     "g": [
+      "盖 + 楼 / 房子 · 上楼 / 下楼",
+      "盖楼 / 盖房子 = xây nhà. 大楼 = toà nhà lớn; 电梯 = thang máy; 上楼 / 下楼 = lên / xuống lầu; 台阶 = bậc thềm; 地面 = mặt đất; 地下 = dưới đất, tầng hầm; 楼顶 = sân thượng; 坚固 = kiên cố.",
+      [
+       [
+        "这座大楼盖了三年。",
+        "Toà nhà này xây mất ba năm."
+       ],
+       [
+        "请走楼梯下楼，电梯坏了。",
+        "Xin đi cầu thang bộ xuống, thang máy hỏng rồi."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你们公司在这座大楼的几层？",
+       "Công ty các bạn ở tầng mấy toà nhà này?"
+      ],
+      [
+       "Lan",
+       "二十八层，快到顶了。上楼下楼都要坐电梯。",
+       "Tầng hai mươi tám, gần đến nóc rồi. Lên xuống đều phải đi thang máy."
+      ],
+      [
+       "Minh",
+       "楼这么高，坚固吗？",
+       "Nhà cao thế, có chắc không?"
+      ],
+      [
+       "Lan",
+       "很坚固。这座楼盖得很好，地下还有三层停车场。",
+       "Rất chắc. Toà nhà này xây tốt lắm, dưới hầm còn có ba tầng bãi đỗ xe."
+      ],
+      [
+       "Minh",
+       "门口的台阶好高啊！",
+       "Bậc thềm ở cửa cao quá!"
+      ],
+      [
+       "Lan",
+       "下雨的时候，台阶比地面高，水就进不来了。",
+       "Lúc mưa, bậc thềm cao hơn mặt đất thì nước không vào được."
+      ]
+     ],
+     "w": "梯阶"
+    },
+    {
+     "id": "h4-26",
+     "title": "Sửa sang nhà cửa",
+     "words": "装修 布置 安 安置 摆 维修 修理 装置 电源 设施",
+     "g": [
+      "把 + vật + 摆 / 安 + 在 …",
+      "装修 = sửa sang, làm nội thất; 布置 = bố trí, trang trí; 摆 = bày, đặt; 安 = lắp: 安空调. 安置 = sắp xếp chỗ (cho người, đồ). 维修 / 修理 = sửa chữa (维修 dùng cho máy móc, nhà cửa). 装置 = thiết bị; 电源 = nguồn điện; 设施 = cơ sở vật chất.",
+      [
+       [
+        "我们把沙发摆在窗户旁边吧。",
+        "Mình đặt sofa cạnh cửa sổ nhé."
+       ],
+       [
+        "新房子装修好了，下个月就可以搬家了。",
+        "Nhà mới sửa xong rồi, tháng sau là chuyển được."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "你的新家装修得怎么样了？",
+       "Nhà mới của bạn sửa đến đâu rồi?"
+      ],
+      [
+       "Minh",
+       "差不多了。明天工人来安空调，再修理一下门。",
+       "Gần xong rồi. Mai thợ đến lắp điều hoà, sửa lại cửa nữa."
+      ],
+      [
+       "Lan",
+       "家具怎么布置？",
+       "Đồ đạc bố trí thế nào?"
+      ],
+      [
+       "Minh",
+       "沙发摆在客人一进门就能看见的地方，书架安在墙上。",
+       "Sofa đặt ở chỗ khách vừa vào cửa là thấy, giá sách lắp lên tường."
+      ],
+      [
+       "Lan",
+       "电源够吗？现在家里的电子装置太多了。",
+       "Nguồn điện có đủ không? Bây giờ trong nhà nhiều thiết bị điện tử lắm."
+      ],
+      [
+       "Minh",
+       "够。小区的设施也很好，有问题可以打电话请人上门维修。我父母来了以后也能安置在这儿。",
+       "Đủ. Cơ sở vật chất của khu cũng tốt, có vấn đề gọi người đến tận nhà sửa. Bố mẹ mình sang cũng có thể ở đây."
+      ]
+     ],
+     "w": "置摆"
+    },
+    {
+     "id": "h4-27",
+     "title": "Việc nhà",
+     "words": "家务 打扫 扫 擦 刷 刷子 晒 垃圾 塑料 塑料袋",
+     "g": [
+      "V + 一 + V (làm một chút) · 把 … 打扫干净",
+      "Việc nhà: 家务. 打扫 / 扫 = quét dọn; 擦 = lau; 刷 = cọ, chải (刷子 = bàn chải); 晒 = phơi: 晒衣服. 垃圾 = rác; 塑料 = nhựa; 塑料袋 = túi ni-lông. Động từ lặp với 一 làm nhẹ ý: 擦一擦, 扫一扫.",
+      [
+       [
+        "周末我们一起做家务吧。",
+        "Cuối tuần mình cùng làm việc nhà nhé."
+       ],
+       [
+        "今天太阳很好，把被子拿出去晒一晒。",
+        "Hôm nay nắng đẹp, mang chăn ra phơi một chút."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "妈妈",
+       "客人马上就到了，你们两个快打扫一下房间！",
+       "Khách sắp đến rồi, hai đứa mau dọn phòng đi!"
+      ],
+      [
+       "Minh",
+       "我来扫地{dì}，姐姐擦桌子。",
+       "Con quét nhà, chị lau bàn."
+      ],
+      [
+       "姐姐",
+       "窗户也要擦吗？",
+       "Cửa sổ cũng phải lau ạ?"
+      ],
+      [
+       "妈妈",
+       "要。还有，用刷子把洗手间刷一刷。",
+       "Có. Còn nữa, dùng bàn chải cọ nhà vệ sinh một chút."
+      ],
+      [
+       "Minh",
+       "垃圾太多了，有没有塑料袋？",
+       "Rác nhiều quá, có túi ni-lông không mẹ?"
+      ],
+      [
+       "妈妈",
+       "少用塑料。衣服我已经晒了。做家务，大家一起做就快了！",
+       "Bớt dùng nhựa thôi. Quần áo mẹ phơi rồi. Việc nhà, mọi người cùng làm là nhanh thôi!"
+      ]
+     ],
+     "w": "扫擦"
+    },
+    {
+     "id": "h4-28",
+     "title": "Đồ dùng hằng ngày",
+     "words": "箱 箱子 袋 口袋 盘 盘子 吸管 伞 尺子 尺",
+     "g": [
+      "Lượng từ cho đồ dùng",
+      "一个箱子, 一个袋子, 一把伞, 一把尺子, 一个盘子, 一根吸管. 箱 / 袋 dùng làm lượng từ: 一箱水 = một thùng nước, 一袋米 = một túi gạo. 口袋 = túi (áo, quần). 尺 = thước; 尺子 = cái thước.",
+      [
+       [
+        "他从口袋里拿出一张纸。",
+        "Anh ấy lấy ra một tờ giấy từ trong túi."
+       ],
+       [
+        "我买了一箱水和两袋米。",
+        "Mình mua một thùng nước và hai túi gạo."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "明天去旅行，你的箱子准备好了吗？",
+       "Mai đi du lịch, va li của bạn chuẩn bị xong chưa?"
+      ],
+      [
+       "Minh",
+       "好了。听说那儿常下雨，我带了一把伞。",
+       "Xong rồi. Nghe nói ở đó hay mưa, mình mang một chiếc ô."
+      ],
+      [
+       "Lan",
+       "我们还要带一些盘子和吸管吗？在海边吃饭要用。",
+       "Mình có cần mang mấy cái đĩa với ống hút không? Ăn ở bãi biển cần dùng."
+      ],
+      [
+       "Minh",
+       "带两个盘子吧。吸管别带了，少用塑料。",
+       "Mang hai cái đĩa thôi. Ống hút đừng mang, bớt dùng nhựa."
+      ],
+      [
+       "Lan",
+       "你口袋里是什么？",
+       "Trong túi bạn là gì vậy?"
+      ],
+      [
+       "Minh",
+       "一把小尺子。我弟弟让我看看海边的沙子有多深。一尺？两尺？哈哈！",
+       "Một cái thước nhỏ. Em trai mình bảo xem thử cát ở biển sâu bao nhiêu. Một thước? Hai thước? Haha!"
+      ]
+     ],
+     "w": "袋盘"
+    },
+    {
+     "id": "h4-29",
+     "title": "Giấc ngủ",
+     "words": "醒 睡着 闹 宁静 黑暗 暗 灯光 影子 着~zhao2",
+     "g": [
+      "睡着 (zháo) · V + 着 (zháo) = đạt kết quả",
+      "着 đọc zháo khi làm bổ ngữ kết quả: 睡着 = ngủ thiếp đi; 找着 = tìm thấy; 买着 = mua được. 醒 = tỉnh dậy; 闹 = ồn ào; 宁静 = yên tĩnh. 黑暗 = bóng tối; 暗 = tối; 灯光 = ánh đèn; 影子 = cái bóng.",
+      [
+       [
+        "我太累了，一躺下就睡着了。",
+        "Mình mệt quá, vừa nằm xuống là ngủ thiếp đi."
+       ],
+       [
+        "钱包找着{zháo}了吗？",
+        "Tìm thấy ví chưa?"
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你昨天晚上睡得好吗？",
+       "Tối qua bạn ngủ ngon không?"
+      ],
+      [
+       "Lan",
+       "不好。外边太闹了，到两点才睡着。",
+       "Không. Bên ngoài ồn quá, đến hai giờ mới ngủ được."
+      ],
+      [
+       "Minh",
+       "我在农村的时候，晚上特别宁静，一点儿声音也没有。",
+       "Lúc mình ở quê, buổi tối cực kỳ yên tĩnh, chẳng có chút âm thanh nào."
+      ],
+      [
+       "Lan",
+       "可是农村晚上一片黑暗，我会害怕。",
+       "Nhưng ban đêm ở quê tối om, mình sẽ sợ."
+      ],
+      [
+       "Minh",
+       "哈哈，你怕看见自己的影子吗？可以开一个小灯，灯光暗一点儿就行。",
+       "Haha, bạn sợ thấy bóng của mình à? Có thể bật một ngọn đèn nhỏ, ánh đèn tối một chút là được."
+      ],
+      [
+       "Lan",
+       "好主意。今天早上我五点就醒了，现在困死了。",
+       "Ý hay. Sáng nay mình năm giờ đã tỉnh, giờ buồn ngủ chết đi được."
+      ]
+     ],
+     "w": "醒闹"
+    }
+   ]
+  },
+  {
+   "id": "h4u6",
+   "title": "Ăn uống",
+   "goal": "Món ăn, đồ uống, mùi vị, nhà hàng; câu điều kiện \"bất kể\", \"nếu\", \"lỡ như\".",
+   "lessons": [
+    {
+     "id": "h4-30",
+     "title": "Món ăn và đồ ăn vặt",
+     "words": "豆腐 海鲜 黄瓜 西瓜 瓜 玉米 巧克力 零食 小吃 套餐",
+     "g": [
+      "一 + lượng từ + 也 / 都 + 没 / 不",
+      "Nhấn mạnh \"không chút nào\": 一口也没吃 = không ăn miếng nào. Từ món ăn: 豆腐, 海鲜, 黄瓜, 西瓜, 玉米, 巧克力. 零食 / 小吃 = đồ ăn vặt (小吃 cũng là món ăn đường phố); 套餐 = suất ăn combo.",
+      [
+       [
+        "这个西瓜很甜，那个瓜一点儿也不甜。",
+        "Quả dưa hấu này rất ngọt, quả dưa kia chẳng ngọt chút nào."
+       ],
+       [
+        "孩子们都喜欢吃巧克力和零食。",
+        "Trẻ con đều thích ăn sô-cô-la và đồ ăn vặt."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "中午吃什么？我请客。",
+       "Trưa ăn gì? Mình mời."
+      ],
+      [
+       "Minh",
+       "去那家饭馆吧，他们的套餐很好吃，有豆腐、海鲜，还有汤。",
+       "Đi quán kia đi, suất ăn của họ ngon lắm, có đậu phụ, hải sản, còn có canh."
+      ],
+      [
+       "Lan",
+       "我不太吃海鲜。有没有黄瓜、玉米这些菜？",
+       "Mình ít ăn hải sản. Có món dưa chuột, ngô các thứ không?"
+      ],
+      [
+       "Minh",
+       "有。吃完我们再去买一个西瓜。",
+       "Có. Ăn xong mình đi mua thêm quả dưa hấu."
+      ],
+      [
+       "Lan",
+       "好啊！北京的小吃很有名，下午我们去试试吧。",
+       "Được đó! Đồ ăn vặt Bắc Kinh nổi tiếng lắm, chiều mình đi nếm thử nhé."
+      ],
+      [
+       "Minh",
+       "你别吃太多零食和巧克力，晚饭会一口也吃不下！",
+       "Bạn đừng ăn quá nhiều đồ vặt với sô-cô-la, bữa tối sẽ chẳng nuốt nổi miếng nào đâu!"
+      ]
+     ],
+     "w": "豆腐"
+    },
+    {
+     "id": "h4-31",
+     "title": "Đồ uống",
+     "words": "茶叶 开水 矿泉水 纯净水 汽水 酸奶 纯 鲜 新鲜",
+     "g": [
+      "新鲜 · 鲜 · 纯",
+      "新鲜 = tươi; 鲜 + danh từ = tươi: 鲜牛奶, 鲜鱼. 纯 = nguyên chất: 纯牛奶. Nước: 开水 (nước sôi, nước đun sôi), 矿泉水 (nước khoáng), 纯净水 (nước tinh khiết), 汽水 (nước ngọt có ga). 茶叶 = lá trà; 酸奶 = sữa chua.",
+      [
+       [
+        "中国人习惯喝开水，不喝凉水。",
+        "Người Trung Quốc quen uống nước đun sôi, không uống nước lạnh."
+       ],
+       [
+        "这是纯牛奶，没有加糖。",
+        "Đây là sữa nguyên chất, không thêm đường."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "服务员",
+       "您好，想喝什么？",
+       "Xin chào, quý khách muốn uống gì ạ?"
+      ],
+      [
+       "Minh",
+       "有没有新鲜的果汁？",
+       "Có nước ép tươi không?"
+      ],
+      [
+       "服务员",
+       "有，都是用鲜水果做的。还有汽水、矿泉水和纯净水。",
+       "Có ạ, đều làm từ hoa quả tươi. Còn có nước có ga, nước khoáng và nước tinh khiết."
+      ],
+      [
+       "Minh",
+       "我要一杯果汁，她要一杯热茶。你们的茶叶是哪儿的？",
+       "Tôi một cốc nước ép, cô ấy một cốc trà nóng. Lá trà của quán ở đâu vậy?"
+      ],
+      [
+       "服务员",
+       "是从南方来的绿茶，很香。",
+       "Là trà xanh từ miền Nam, rất thơm."
+      ],
+      [
+       "Lan",
+       "好的。再来一杯酸奶，要纯的，不要加糖。",
+       "Vâng. Thêm một cốc sữa chua, loại nguyên chất, không thêm đường."
+      ]
+     ],
+     "w": "叶矿"
+    },
+    {
+     "id": "h4-32",
+     "title": "Mùi vị",
+     "words": "辣 咸 酸 苦 淡 浓 味儿 盐 烧 切 讲究",
+     "g": [
+      "又 … 又 … · 讲究",
+      "Vị: 辣 (cay), 咸 (mặn), 酸 (chua), 苦 (đắng), 甜 (ngọt), 淡 (nhạt), 浓 (đậm, đặc). 味儿 = mùi, vị. 盐 = muối. 烧 = nấu (烧菜), hầm (红烧). 切 = thái, cắt. 讲究 = cầu kỳ, chú trọng: 讲究吃.",
+      [
+       [
+        "这个汤又酸又辣，很好喝。",
+        "Canh này vừa chua vừa cay, rất ngon."
+       ],
+       [
+        "他很讲究，菜要切得一样大。",
+        "Anh ấy rất cầu kỳ, rau phải thái to đều nhau."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你试试我烧的鱼，味儿怎么样？",
+       "Bạn nếm thử cá mình nấu đi, vị thế nào?"
+      ],
+      [
+       "Lan",
+       "有点儿咸，你放了多少盐？",
+       "Hơi mặn, bạn cho bao nhiêu muối vậy?"
+      ],
+      [
+       "Minh",
+       "不多啊。那这个菜呢？我放了一点儿辣的。",
+       "Đâu nhiều. Vậy món này thì sao? Mình cho một chút cay."
+      ],
+      [
+       "Lan",
+       "这个好吃，酸酸甜甜的。不过咖啡太浓了，有点儿苦。",
+       "Món này ngon, chua chua ngọt ngọt. Nhưng cà phê đặc quá, hơi đắng."
+      ],
+      [
+       "Minh",
+       "我喜欢浓的。你喜欢淡一点儿的吗？",
+       "Mình thích đặc. Bạn thích nhạt hơn à?"
+      ],
+      [
+       "Lan",
+       "对。你做饭真讲究，肉切得这么好！",
+       "Ừ. Bạn nấu ăn cầu kỳ thật, thịt thái đẹp thế này!"
+      ]
+     ],
+     "w": "辣咸"
+    },
+    {
+     "id": "h4-33",
+     "title": "Nhà hàng và căng-tin",
+     "words": "食堂 酒吧 光临 营业 预订 粮食 免费 定 关闭",
+     "g": [
+      "欢迎光临 · 预订 / 定",
+      "欢迎光临 = hân hạnh chào đón quý khách (câu chào ở cửa hàng). 营业 = mở cửa kinh doanh: 营业时间. 预订 / 定 = đặt trước: 定位子. 关闭 = đóng cửa. 免费 = miễn phí. 食堂 = căng-tin; 酒吧 = quán bar. 粮食 = lương thực.",
+      [
+       [
+        "本店营业时间：早上九点到晚上十点。",
+        "Giờ mở cửa của quán: chín giờ sáng đến mười giờ tối."
+       ],
+       [
+        "我已经定好位子了。",
+        "Mình đã đặt chỗ xong rồi."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "服务员",
+       "欢迎光临！请问您预订了吗？",
+       "Hân hạnh chào đón quý khách! Xin hỏi quý khách đã đặt trước chưa?"
+      ],
+      [
+       "Minh",
+       "预订了，姓阮，三个人。",
+       "Đặt rồi, họ Nguyễn, ba người."
+      ],
+      [
+       "服务员",
+       "好的，这边请。米饭和茶是免费的。",
+       "Vâng, mời đi lối này. Cơm và trà miễn phí."
+      ],
+      [
+       "Lan",
+       "这家饭馆营业到几点？",
+       "Quán này mở cửa đến mấy giờ vậy?"
+      ],
+      [
+       "服务员",
+       "晚上十一点。旁边的酒吧到两点才关闭。",
+       "Mười một giờ tối. Quán bar bên cạnh đến hai giờ mới đóng cửa."
+      ],
+      [
+       "Lan",
+       "比学校的食堂贵多了。不过米饭都是粮食，我们别浪费。",
+       "Đắt hơn căng-tin trường nhiều. Nhưng cơm là lương thực, mình đừng lãng phí."
+      ]
+     ],
+     "w": "临粮"
+    },
+    {
+     "id": "h4-34",
+     "title": "Bất kể, nếu, lỡ như",
+     "words": "不管 无论 哪怕 假如 要~yao2 万一 否则 不然",
+     "g": [
+      "不管 / 无论 … 都 · 哪怕 … 也 · 万一 · 否则",
+      "不管 / 无论 + câu hỏi + 都 = bất kể…cũng: 无论多忙都要吃早饭. 哪怕 … 也 = dù cho…cũng. 假如 / 要 = nếu (要 là khẩu ngữ). 万一 = lỡ như (việc không mong muốn). 否则 / 不然 = nếu không thì.",
+      [
+       [
+        "不管多忙，你都要吃早饭。",
+        "Dù bận đến đâu, bạn cũng phải ăn sáng."
+       ],
+       [
+        "快走吧，不然要晚了。",
+        "Đi nhanh thôi, không thì muộn mất."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "今天晚上我想去那家有名的饭馆，可是没预订。",
+       "Tối nay mình muốn đi quán nổi tiếng kia, nhưng chưa đặt trước."
+      ],
+      [
+       "Minh",
+       "无论是周末还是平时，那儿都有很多人。哪怕等一个小时，也不一定有位子。",
+       "Bất kể cuối tuần hay ngày thường, ở đó đều đông. Dù có chờ một tiếng cũng chưa chắc có chỗ."
+      ],
+      [
+       "Lan",
+       "假如我们五点就去呢？",
+       "Nếu mình đi lúc năm giờ thì sao?"
+      ],
+      [
+       "Minh",
+       "那还可以。不过要早一点儿出发，否则路上|车太多。",
+       "Thế thì được. Nhưng phải đi sớm, nếu không trên đường xe nhiều lắm."
+      ],
+      [
+       "Lan",
+       "万一还是没有位子怎么办？",
+       "Lỡ vẫn không có chỗ thì sao?"
+      ],
+      [
+       "Minh",
+       "那就去旁边吃小吃，不管吃什么，我都高兴。要还不行，我们就回家做饭，不然就饿着吧！",
+       "Thì đi ăn vặt bên cạnh, ăn gì mình cũng vui. Nếu vẫn không được thì về nhà nấu, không thì nhịn đói thôi!"
+      ]
+     ],
+     "w": "则"
+    }
+   ]
+  },
+  {
+   "id": "h4u7",
+   "title": "Mua sắm",
+   "goal": "Đi mua sắm, giảm giá, quần áo, kích cỡ và thời trang, gửi chuyển phát, chọn hàng.",
+   "lessons": [
+    {
+     "id": "h4-35",
+     "title": "Đi mua sắm",
+     "words": "购物 购买 逛 百货 售货员 出售 名牌儿 二手",
+     "g": [
+      "逛 + nơi · 购买 / 购物",
+      "逛 = đi dạo, đi lòng vòng: 逛商场, 逛街. 购物 = mua sắm (động từ không tân ngữ); 购买 = mua (trang trọng, có tân ngữ). 出售 = bán ra. 百货 = bách hoá: 百货商店. 名牌儿 = hàng hiệu; 二手 = đồ cũ.",
+      [
+       [
+        "周末我喜欢去逛商场。",
+        "Cuối tuần mình thích đi dạo trung tâm thương mại."
+       ],
+       [
+        "现在很多人在网上购物。",
+        "Bây giờ nhiều người mua sắm trên mạng."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "今天下午有空儿吗？我们去逛百货商店吧。",
+       "Chiều nay rảnh không? Mình đi dạo cửa hàng bách hoá nhé."
+      ],
+      [
+       "Minh",
+       "好啊。你想购买什么？",
+       "Được thôi. Bạn muốn mua gì?"
+      ],
+      [
+       "Lan",
+       "我想买一个包，名牌儿的太贵了。",
+       "Mình muốn mua một chiếc túi, hàng hiệu đắt quá."
+      ],
+      [
+       "Minh",
+       "我知道一家店，出售二手名牌儿包，东西也不错。",
+       "Mình biết một tiệm bán túi hiệu đã qua sử dụng, đồ cũng tốt."
+      ],
+      [
+       "Lan",
+       "二手的？会不会有问题？",
+       "Đồ cũ à? Có vấn đề gì không?"
+      ],
+      [
+       "Minh",
+       "不会，售货员会帮你检查。我上次在那儿购物，买得很满意。",
+       "Không đâu, nhân viên bán hàng sẽ kiểm tra giúp bạn. Lần trước mình mua ở đó, rất hài lòng."
+      ]
+     ],
+     "w": "购逛"
+    },
+    {
+     "id": "h4-36",
+     "title": "Giảm giá",
+     "words": "打折 降价 特价 高价 促销 抽奖 中奖 发票 单 打~da2 折",
+     "g": [
+      "打 + số + 折",
+      "打八折 = giảm còn 80% giá (giảm 20%); 打五折 = giảm một nửa. 降价 = hạ giá; 特价 = giá đặc biệt; 高价 = giá cao; 促销 = khuyến mãi. 抽奖 = bốc thăm trúng thưởng; 中奖 = trúng thưởng. 发票 = hoá đơn; 单 = hoá đơn, phiếu: 买单 = thanh toán. 一打 (dá) = một tá (12 cái).",
+      [
+       [
+        "这件衣服打七折，只要两百块。",
+        "Bộ quần áo này giảm còn 70%, chỉ hai trăm tệ."
+       ],
+       [
+        "我买了一打{dá}鸡蛋。",
+        "Mình mua một tá trứng."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "这家超市在促销，很多东西都降价了！",
+       "Siêu thị này đang khuyến mãi, nhiều đồ hạ giá lắm!"
+      ],
+      [
+       "Lan",
+       "真的？牛奶打八折，鸡蛋也是特价。",
+       "Thật à? Sữa giảm 20%, trứng cũng giá đặc biệt."
+      ],
+      [
+       "Minh",
+       "买满两百块还可以抽奖。",
+       "Mua đủ hai trăm tệ còn được bốc thăm trúng thưởng."
+      ],
+      [
+       "Lan",
+       "我从来没中奖。上次我花高价买了一台电脑，第二天就降价了！",
+       "Mình chưa bao giờ trúng thưởng. Lần trước mình mua cái máy tính giá cao, hôm sau đã hạ giá rồi!"
+      ],
+      [
+       "Minh",
+       "哈哈，真不巧。买单的时候别忘了要发票。",
+       "Haha, không may thật. Lúc thanh toán đừng quên lấy hoá đơn."
+      ],
+      [
+       "Lan",
+       "好，我去买单。",
+       "Ừ, mình đi thanh toán."
+      ]
+     ],
+     "w": "折降"
+    },
+    {
+     "id": "h4-37",
+     "title": "Quần áo mùa đông",
+     "words": "毛衣 外套 围巾 帽子 手套 袜子 穿上 脱 戴 系~ji2 眼镜",
+     "g": [
+      "穿 / 戴 / 系 (jì)",
+      "穿 + quần áo, giày: 穿外套, 穿袜子. 戴 + mũ, găng, kính: 戴帽子, 戴手套, 戴眼镜. 系 (jì) + khăn, dây: 系围巾. 脱 = cởi: 脱外套. 穿上 = mặc vào.",
+      [
+       [
+        "外边很冷，穿上外套，戴上帽子。",
+        "Bên ngoài lạnh lắm, mặc áo khoác vào, đội mũ vào."
+       ],
+       [
+        "进门以后请脱鞋。",
+        "Vào nhà xin cởi giày."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "妈妈",
+       "今天零下五度，你只穿一件毛衣怎么行？",
+       "Hôm nay âm năm độ, con chỉ mặc mỗi cái áo len thì sao được?"
+      ],
+      [
+       "Minh",
+       "我还有外套呢。",
+       "Con còn có áo khoác mà."
+      ],
+      [
+       "妈妈",
+       "把围巾系{jì}上，再戴上手套和帽子。",
+       "Quàng khăn vào, đeo thêm găng tay và đội mũ."
+      ],
+      [
+       "Minh",
+       "好吧。我的袜子也不够暖和。",
+       "Thôi được. Tất của con cũng không đủ ấm."
+      ],
+      [
+       "妈妈",
+       "穿这双新的。到了教室再把外套脱了。",
+       "Đi đôi mới này. Đến lớp thì cởi áo khoác ra."
+      ],
+      [
+       "Minh",
+       "知道了。我的眼镜呢？妈妈，我戴着眼镜找眼镜！",
+       "Con biết rồi. Kính của con đâu? Mẹ ơi, con đeo kính mà đi tìm kính!"
+      ]
+     ],
+     "w": "巾帽"
+    },
+    {
+     "id": "h4-38",
+     "title": "Kích cỡ và thời trang",
+     "words": "尺寸 肥 薄 厚 宽 别~bie2 潮流 模特儿 造型 风格",
+     "g": [
+      "太 + tính từ + 了 · 有点儿 + tính từ",
+      "Kích cỡ: 尺寸 = kích thước, size; 肥 = rộng (quần áo), 宽 = rộng (bề ngang); 薄 / 厚 = mỏng / dày. 别 (bié) = cài, gài: 别上一个小东西. Thời trang: 潮流 = xu hướng; 风格 = phong cách; 造型 = kiểu dáng; 模特儿 = người mẫu.",
+      [
+       [
+        "这条裤子有点儿肥，有小一号的吗？",
+        "Cái quần này hơi rộng, có cỡ nhỏ hơn không?"
+       ],
+       [
+        "她在衣服上别了一个小东西。",
+        "Cô ấy cài một món đồ nhỏ lên áo."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "售货员",
+       "这件上衣是今年的潮流，模特儿穿的就是这件。",
+       "Áo này là xu hướng năm nay, người mẫu mặc chính là chiếc này."
+      ],
+      [
+       "Lan",
+       "造型很好看。有我的尺寸吗？",
+       "Kiểu dáng đẹp quá. Có size của tôi không?"
+      ],
+      [
+       "售货员",
+       "您试试这件。",
+       "Chị thử chiếc này xem."
+      ],
+      [
+       "Lan",
+       "太肥了，腰也太宽了。有没有薄一点儿的？夏天穿太厚了。",
+       "Rộng quá, eo cũng rộng quá. Có loại mỏng hơn không? Mùa hè mặc dày quá."
+      ],
+      [
+       "售货员",
+       "有，这件是薄的，风格差不多。",
+       "Có ạ, chiếc này mỏng, phong cách cũng tương tự."
+      ],
+      [
+       "Lan",
+       "这件正合适！我再别一个小东西在这儿，就更漂亮了。",
+       "Chiếc này vừa vặn! Cài thêm một món nhỏ ở đây là càng đẹp."
+      ]
+     ],
+     "w": "尺寸"
+    },
+    {
+     "id": "h4-39",
+     "title": "Gửi đồ",
+     "words": "快递 包裹 寄 邮局 地址 转告 回复 号码",
+     "g": [
+      "给 + người + 寄 + vật · 转告",
+      "寄 = gửi (qua bưu điện, chuyển phát): 给妈妈寄包裹. 快递 = chuyển phát nhanh; 包裹 = bưu kiện; 邮局 = bưu điện; 地址 = địa chỉ; 号码 = số. 转告 = chuyển lời. 回复 = trả lời (tin nhắn, thư).",
+      [
+       [
+        "请你转告他，明天的会改到下午了。",
+        "Nhờ bạn chuyển lời cho anh ấy, cuộc họp mai đổi sang buổi chiều."
+       ],
+       [
+        "我给你发了邮件，你还没回复。",
+        "Mình gửi email cho bạn rồi, bạn vẫn chưa trả lời."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "我想给越南的家人寄一个包裹，去邮局还是叫快递？",
+       "Mình muốn gửi một bưu kiện cho gia đình ở Việt Nam, ra bưu điện hay gọi chuyển phát nhanh?"
+      ],
+      [
+       "Minh",
+       "寄到国外，邮局便宜一点儿；快递快，可是贵。",
+       "Gửi ra nước ngoài thì bưu điện rẻ hơn; chuyển phát nhanh thì nhanh nhưng đắt."
+      ],
+      [
+       "Lan",
+       "那我去邮局。要写什么？",
+       "Vậy mình ra bưu điện. Phải ghi những gì?"
+      ],
+      [
+       "Minh",
+       "写清楚地址和电话号码。",
+       "Ghi rõ địa chỉ và số điện thoại."
+      ],
+      [
+       "Lan",
+       "好。对了，小王给我发信息，我还没回复。你见到他能转告他吗？",
+       "Được. À, Tiểu Vương nhắn tin cho mình, mình chưa trả lời. Gặp cậu ấy bạn chuyển lời giúp mình được không?"
+      ],
+      [
+       "Minh",
+       "没问题，你要转告他什么？",
+       "Không vấn đề gì, bạn muốn nhắn gì?"
+      ]
+     ],
+     "w": "递裹"
+    },
+    {
+     "id": "h4-40",
+     "title": "Chọn hàng",
+     "words": "选择 挑 挑选 挑~tiao2 寻找 种类 类型 系列 品质 质量 次~ci2",
+     "g": [
+      "从 … 中 挑选 · 种类 / 类型",
+      "选择 = lựa chọn (danh từ, động từ); 挑 / 挑选 = chọn lựa kỹ; 寻找 = tìm kiếm. 种类 = chủng loại; 类型 = loại hình; 系列 = dòng, loạt (sản phẩm). 质量 = chất lượng; 品质 = phẩm chất, chất lượng (cao cấp hơn). 次 = kém, thứ phẩm: 质量太次. 挑 (tiǎo) 起 = khơi lên.",
+      [
+       [
+        "你可以从这些里面挑选一个。",
+        "Bạn có thể chọn một cái trong số này."
+       ],
+       [
+        "这个东西质量太次了，用了一天就坏了。",
+        "Món này chất lượng kém quá, dùng một ngày đã hỏng."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "售货员",
+       "我们的手机有三个系列，您喜欢哪种类型的？",
+       "Điện thoại của chúng tôi có ba dòng, anh thích loại nào ạ?"
+      ],
+      [
+       "Minh",
+       "种类太多了，我不知道怎么选择。",
+       "Nhiều loại quá, tôi không biết chọn thế nào."
+      ],
+      [
+       "售货员",
+       "您主要用来做什么？我帮您挑{tiāo}一个。",
+       "Anh chủ yếu dùng để làm gì? Tôi chọn giúp anh một cái."
+      ],
+      [
+       "Minh",
+       "拍照片。我在寻找一个照相效果好的。",
+       "Chụp ảnh. Tôi đang tìm một chiếc chụp ảnh đẹp."
+      ],
+      [
+       "售货员",
+       "那这个最好，质量好，品质也高。上个系列有点儿次，这个改进了很多。",
+       "Vậy chiếc này tốt nhất, chất lượng tốt, phẩm chất cũng cao. Dòng trước hơi kém, dòng này cải tiến nhiều."
+      ],
+      [
+       "Minh",
+       "你说得太好了！我再挑选一下颜色。",
+       "Anh nói hay quá! Để tôi chọn thêm màu."
+      ]
+     ],
+     "w": "择挑"
+    }
+   ]
+  },
+  {
+   "id": "h4u8",
+   "title": "Đi lại & du lịch",
+   "goal": "Phương tiện, lái xe, sân bay, tham quan, thành phố và quê hương, may rủi trên đường.",
+   "lessons": [
+    {
+     "id": "h4-41",
+     "title": "Phương tiện",
+     "words": "巴士 大巴 高铁 列车 轮船 电动车 步行 长途",
+     "g": [
+      "坐 / 乘 + phương tiện · 步行",
+      "坐巴士 / 大巴 = đi xe buýt, xe khách; 高铁 = tàu cao tốc; 列车 = đoàn tàu; 轮船 = tàu thuỷ; 电动车 = xe điện (xe máy điện). 步行 = đi bộ. 长途 = đường dài: 长途汽车.",
+      [
+       [
+        "从北京到上海坐高铁只要四个多小时。",
+        "Từ Bắc Kinh đến Thượng Hải đi tàu cao tốc chỉ hơn bốn tiếng."
+       ],
+       [
+        "学校离我家不远，我每天步行去上课。",
+        "Trường không xa nhà, ngày nào mình cũng đi bộ đi học."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "这次去南方，你打算怎么去？",
+       "Lần này đi miền Nam, bạn định đi thế nào?"
+      ],
+      [
+       "Lan",
+       "坐高铁。长途大巴太慢了。",
+       "Đi tàu cao tốc. Xe khách đường dài chậm quá."
+      ],
+      [
+       "Minh",
+       "列车几点出发？",
+       "Tàu mấy giờ chạy?"
+      ],
+      [
+       "Lan",
+       "早上八点。到了以后再坐巴士去海边，然后坐轮船去对面的小城。",
+       "Tám giờ sáng. Đến nơi thì đi xe buýt ra biển, sau đó đi tàu thuỷ sang thị trấn nhỏ bên kia."
+      ],
+      [
+       "Minh",
+       "那儿有车吗？",
+       "Ở đó có xe không?"
+      ],
+      [
+       "Lan",
+       "没有汽车，只有电动车。地方很小，步行也可以。",
+       "Không có ô tô, chỉ có xe điện. Chỗ nhỏ lắm, đi bộ cũng được."
+      ]
+     ],
+     "w": "巴士"
+    },
+    {
+     "id": "h4-42",
+     "title": "Lái xe",
+     "words": "倒车 倒车~daoche2 加油站 汽油 堵 堵车 转弯 轮子 轮",
+     "g": [
+      "倒车 (dǎochē / dàochē) · 堵车",
+      "倒车 đọc dǎochē = đổi xe, chuyển tuyến; đọc dàochē = lùi xe. 堵车 = tắc đường; 堵 = chặn, tắc. 转弯 = rẽ. 加油站 = trạm xăng; 汽油 = xăng. 轮子 = bánh xe; 轮 = bánh xe; đến lượt.",
+      [
+       [
+        "去机场要在火车站倒车。",
+        "Đi sân bay phải đổi xe ở ga tàu."
+       ],
+       [
+        "前面堵车了，我们转弯走小路吧。",
+        "Phía trước tắc đường rồi, mình rẽ đi đường nhỏ đi."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "你开车开得怎么样？",
+       "Bạn lái xe thế nào?"
+      ],
+      [
+       "Minh",
+       "还可以。就是倒车{dàochē}的时候有点儿紧张。",
+       "Cũng tạm. Chỉ có lúc lùi xe là hơi run."
+      ],
+      [
+       "Lan",
+       "我也是。上次在停车场倒车{dàochē}，轮子都碰到墙了。",
+       "Mình cũng vậy. Lần trước lùi xe ở bãi đỗ, bánh xe chạm cả vào tường."
+      ],
+      [
+       "Minh",
+       "哈哈。车快没汽油了，前面转弯有个加油站。",
+       "Haha. Xe sắp hết xăng rồi, phía trước rẽ có trạm xăng."
+      ],
+      [
+       "Lan",
+       "好。下班的时候路上太堵了，我们早一点儿出发。",
+       "Ừ. Giờ tan tầm đường tắc lắm, mình đi sớm một chút."
+      ],
+      [
+       "Minh",
+       "要是堵车太久，就坐地铁吧，在市中心倒车很方便。下次轮到你开车！",
+       "Nếu tắc đường lâu quá thì đi tàu điện ngầm, đổi tuyến ở trung tâm rất tiện. Lần sau đến lượt bạn lái!"
+      ]
+     ],
+     "w": "堵弯"
+    },
+    {
+     "id": "h4-43",
+     "title": "Ở sân bay",
+     "words": "航班 航空 降落 晚点 推迟 延期 准时 按时 迟到 登 登记",
+     "g": [
+      "晚点 / 推迟 / 延期 · 准时 / 按时",
+      "晚点 = (tàu, máy bay) trễ giờ; 推迟 = hoãn lại (dời sang sau); 延期 = gia hạn, lùi thời hạn. 准时 / 按时 = đúng giờ (按时 nhấn mạnh làm theo thời gian quy định). 迟到 = đến muộn. 登记 = đăng ký, làm thủ tục; 登机 = lên máy bay. 航班 = chuyến bay; 航空公司 = hãng hàng không; 降落 = hạ cánh.",
+      [
+       [
+        "飞机晚点了一个小时。",
+        "Máy bay trễ một tiếng."
+       ],
+       [
+        "请大家按时上飞机。",
+        "Mời mọi người lên máy bay đúng giờ."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "广播",
+       "各位旅客，从河内来的CA905航班推迟|到十二点降落。",
+       "Thưa quý khách, chuyến bay CA905 từ Hà Nội lùi đến mười hai giờ mới hạ cánh."
+      ],
+      [
+       "Lan",
+       "又晚点了！我朋友坐的就是这个航班。",
+       "Lại trễ rồi! Bạn mình đi đúng chuyến này."
+      ],
+      [
+       "Minh",
+       "这家航空公司很少准时。",
+       "Hãng hàng không này ít khi đúng giờ."
+      ],
+      [
+       "Lan",
+       "我本来要接他去开会，现在一定会迟到了。",
+       "Mình định đón anh ấy đi họp, giờ chắc chắn sẽ muộn rồi."
+      ],
+      [
+       "Minh",
+       "给公司打个电话，问会议能不能延期。",
+       "Gọi điện cho công ty, hỏi xem cuộc họp có thể lùi được không."
+      ],
+      [
+       "Lan",
+       "好。下个月我自己坐飞机，一定提前两个小时到机场办手续。",
+       "Ừ. Tháng sau mình tự đi máy bay, nhất định ra sân bay trước hai tiếng để làm thủ tục."
+      ]
+     ],
+     "w": "航迟"
+    },
+    {
+     "id": "h4-44",
+     "title": "Tham quan",
+     "words": "导游 风景 登山 途中 位于 位置 附近 距离 两边 前头 后头 划",
+     "g": [
+      "位于 + nơi · 距离",
+      "位于 = nằm ở (văn viết): 公园位于市中心. 距离 = khoảng cách; 离 … 有 … 距离. 附近 = gần đây; 两边 = hai bên; 前头 / 后头 = phía trước / phía sau (khẩu ngữ). 途中 = trên đường. 导游 = hướng dẫn viên; 风景 = phong cảnh; 登山 = leo núi; 划 (huá) = chèo.",
+      [
+       [
+        "这座山位于城市的北边。",
+        "Ngọn núi này nằm ở phía bắc thành phố."
+       ],
+       [
+        "旅行途中我认识了很多朋友。",
+        "Trên đường du lịch mình quen được nhiều bạn."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "导游",
+       "大家好！我们今天去的地方位于城外，风景特别美。",
+       "Chào mọi người! Nơi hôm nay chúng ta đến nằm ở ngoại thành, phong cảnh rất đẹp."
+      ],
+      [
+       "Lan",
+       "距离这儿有多远？",
+       "Cách đây bao xa ạ?"
+      ],
+      [
+       "导游",
+       "大概五十公里。途中我们先去登山，然后去湖上划船。",
+       "Khoảng năm mươi cây số. Trên đường chúng ta leo núi trước, sau đó chèo thuyền trên hồ."
+      ],
+      [
+       "Minh",
+       "附近有吃饭的地方吗？",
+       "Gần đó có chỗ ăn không ạ?"
+      ],
+      [
+       "导游",
+       "有，路两边都是小饭馆。大家坐好，前头的位置给老人，年轻人坐后头吧。",
+       "Có, hai bên đường toàn quán ăn nhỏ. Mọi người ngồi yên, ghế phía trước nhường người già, người trẻ ngồi phía sau nhé."
+      ],
+      [
+       "Lan",
+       "我可以自己划{huá}吗？",
+       "Em tự chèo được không ạ?"
+      ]
+     ],
+     "w": "登途"
+    },
+    {
+     "id": "h4-45",
+     "title": "Thành phố và quê nhà",
+     "words": "市区 街道 居民 居住 县 户 老家 大陆 陆地 江 归",
+     "g": [
+      "归 · 居住 / 居民",
+      "居住 = cư trú; 居民 = cư dân. 市区 = nội thành; 街道 = đường phố, phường; 县 = huyện; 户 = hộ: 这栋楼住了五十户. 老家 = quê nhà. 大陆 = đại lục; 陆地 = đất liền; 江 = sông lớn. 归 = về; thuộc về: 这件事归他管.",
+      [
+       [
+        "我老家在一个小县城，离江边很近。",
+        "Quê mình ở một thị trấn huyện nhỏ, rất gần bờ sông."
+       ],
+       [
+        "这里的居民大多是老人。",
+        "Cư dân ở đây phần lớn là người già."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你在河内居住了多少年？",
+       "Bạn sống ở Hà Nội bao nhiêu năm rồi?"
+      ],
+      [
+       "Lan",
+       "十年了。不过我的老家在南方的一个县，在江边。",
+       "Mười năm rồi. Nhưng quê mình ở một huyện miền Nam, bên bờ sông."
+      ],
+      [
+       "Minh",
+       "你住在市区吗？",
+       "Bạn sống ở nội thành à?"
+      ],
+      [
+       "Lan",
+       "对。我们那条街道很老，楼里只住了二十户，居民都很热情。",
+       "Ừ. Con phố đó cũ lắm, trong toà nhà chỉ có hai mươi hộ, cư dân ai cũng nhiệt tình."
+      ],
+      [
+       "Minh",
+       "你喜欢城市还是老家？",
+       "Bạn thích thành phố hay quê?"
+      ],
+      [
+       "Lan",
+       "都喜欢。不过每年春节，我都要回老家。听说你坐船去过中国大陆？在船上坐了一天一夜，下船以后站在陆地上，还觉得地{dì}在动吧？",
+       "Đều thích. Nhưng Tết năm nào mình cũng về quê. Nghe nói bạn từng đi tàu biển sang Trung Quốc đại lục à? Ngồi trên tàu một ngày một đêm, xuống tàu đứng trên đất liền chắc vẫn thấy đất chao đảo nhỉ?"
+      ]
+     ],
+     "w": "居县"
+    },
+    {
+     "id": "h4-46",
+     "title": "May và rủi",
+     "words": "运气 遇 遇到 遇见 来不及 来得及 没想到 没错 没法儿 不要紧 对付",
+     "g": [
+      "来得及 / 来不及 · 没想到",
+      "来得及 = còn kịp; 来不及 = không kịp. 没想到 = không ngờ. 运气 = vận may: 运气好 / 不好. 遇到 = gặp phải (việc); 遇见 = gặp (người, tình cờ); 遇 = gặp (văn viết). 没错 = đúng rồi; 没法儿 = hết cách; 不要紧 = không sao. 对付 = đối phó; tạm được.",
+      [
+       [
+        "现在出发还来得及。",
+        "Bây giờ đi vẫn còn kịp."
+       ],
+       [
+        "没想到在这儿遇见你！",
+        "Không ngờ gặp bạn ở đây!"
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "快点儿！火车十点开，来不及了！",
+       "Nhanh lên! Tàu chạy lúc mười giờ, không kịp mất!"
+      ],
+      [
+       "Minh",
+       "别急，还有二十分钟，来得及。",
+       "Đừng vội, còn hai mươi phút, kịp mà."
+      ],
+      [
+       "Lan",
+       "今天运气真不好，路上遇到堵车，钱包也找不到了。",
+       "Hôm nay xui thật, trên đường gặp tắc xe, ví cũng không tìm thấy."
+      ],
+      [
+       "Minh",
+       "不要紧，我带钱了，先对付一下。",
+       "Không sao, mình có mang tiền, tạm xoay xở trước đã."
+      ],
+      [
+       "Lan",
+       "没想到你这么认真！没错，带钱的人运气最好。",
+       "Không ngờ bạn kỹ tính thế! Đúng rồi, ai mang tiền người đó may nhất."
+      ],
+      [
+       "Minh",
+       "火车要是走了，那就没法儿了。快跑吧！",
+       "Tàu mà chạy mất thì hết cách đấy. Chạy nhanh lên!"
+      ]
+     ],
+     "w": "遇"
+    }
+   ]
+  },
+  {
+   "id": "h4u9",
+   "title": "Thiên nhiên & môi trường",
+   "goal": "Bốn mùa, thời tiết, cây cối, đất đai và tài nguyên, bảo vệ môi trường.",
+   "lessons": [
+    {
+     "id": "h4-47",
+     "title": "Bốn mùa",
+     "words": "季 季节 春季 夏季 秋季 冬季 寒冷 降温 冰 冰雪",
+     "g": [
+      "季节 · 春季 / 夏季 / 秋季 / 冬季",
+      "季节 = mùa; 春季, 夏季, 秋季, 冬季 là cách nói trang trọng của 春天, 夏天, 秋天, 冬天 (hay gặp trong dự báo, thông báo). 季 = mùa: 雨季 = mùa mưa. 寒冷 = lạnh giá; 降温 = trời trở lạnh; 冰 = băng; 冰雪 = băng tuyết.",
+      [
+       [
+        "北京的冬季很寒冷，常常零下十几度。",
+        "Mùa đông Bắc Kinh lạnh giá, thường âm mười mấy độ."
+       ],
+       [
+        "明天开始降温，大家要多穿衣服。",
+        "Từ mai trời trở lạnh, mọi người phải mặc nhiều áo vào."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "越南有几个季节？",
+       "Việt Nam có mấy mùa?"
+      ],
+      [
+       "Lan",
+       "北方有四个季节，南方只有两季：雨季和不下雨的季节。",
+       "Miền Bắc có bốn mùa, miền Nam chỉ có hai mùa: mùa mưa và mùa khô (mùa không mưa)."
+      ],
+      [
+       "Minh",
+       "中国北方的冬季很寒冷，河上都是冰。",
+       "Mùa đông miền Bắc Trung Quốc rất lạnh, trên sông toàn là băng."
+      ],
+      [
+       "Lan",
+       "我还没见过冰雪呢！你最喜欢哪个季节？",
+       "Mình còn chưa thấy băng tuyết bao giờ! Bạn thích mùa nào nhất?"
+      ],
+      [
+       "Minh",
+       "秋季。夏季太热，春季常常有大风。",
+       "Mùa thu. Mùa hè nóng quá, mùa xuân hay có gió to."
+      ],
+      [
+       "Lan",
+       "听说下个星期要降温，我得{děi}去买一件厚外套了。",
+       "Nghe nói tuần sau trời trở lạnh, mình phải đi mua một chiếc áo khoác dày."
+      ]
+     ],
+     "w": "季寒"
+    },
+    {
+     "id": "h4-48",
+     "title": "Mưa giông",
+     "words": "打雷 闪电 闪 潮湿 潮 湿 海水 落 阵",
+     "g": [
+      "一阵 + 风 / 雨 · 落",
+      "阵 = cơn, trận: 一阵雨, 一阵风. 打雷 = có sấm; 闪电 = tia chớp; 闪 = loé lên. 潮湿 = ẩm ướt; 潮 = ẩm; 湿 = ướt. 落 = rơi: 落下来. 海水 = nước biển.",
+      [
+       [
+        "刚才下了一阵大雨，现在晴了。",
+        "Vừa rồi có một trận mưa to, giờ tạnh rồi."
+       ],
+       [
+        "我的衣服都湿了。",
+        "Quần áo mình ướt hết rồi."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "你听，打雷了！",
+       "Bạn nghe kìa, có sấm!"
+      ],
+      [
+       "Minh",
+       "天上一闪一闪的，是闪电。马上要下大雨了。",
+       "Trên trời cứ loé lên loé lên, là chớp đấy. Sắp mưa to rồi."
+      ],
+      [
+       "Lan",
+       "我们回去吧，我的衣服已经湿了。",
+       "Mình về thôi, quần áo mình ướt rồi."
+      ],
+      [
+       "Minh",
+       "南方的夏天就是这样，一阵雨，一阵太阳。",
+       "Mùa hè miền Nam là vậy, lúc mưa lúc nắng."
+      ],
+      [
+       "Lan",
+       "雨季的时候，房间里特别潮湿，衣服都是潮的。",
+       "Mùa mưa, trong phòng ẩm kinh khủng, quần áo toàn ẩm."
+      ],
+      [
+       "Minh",
+       "看，雨落在海水里，真好看！",
+       "Xem kìa, mưa rơi xuống nước biển, đẹp thật!"
+      ]
+     ],
+     "w": "雷闪"
+    },
+    {
+     "id": "h4-49",
+     "title": "Cây cối",
+     "words": "森林 树林 树叶 叶子 松树 植物 开花 鲜花 种~zhong2 种植 根 棵",
+     "g": [
+      "种 (zhòng) + cây · lượng từ 棵",
+      "种 đọc zhòng khi là \"trồng\": 种树, 种花; 种植 = trồng trọt (trang trọng). Phân biệt: 一种 (zhǒng) = một loại. 棵 = lượng từ cho cây: 一棵树. 根 = rễ; 树叶 / 叶子 = lá; 松树 = cây thông; 植物 = thực vật; 森林 / 树林 = rừng; 开花 = nở hoa; 鲜花 = hoa tươi.",
+      [
+       [
+        "我在院子里种了两棵树。",
+        "Mình trồng hai cây trong sân."
+       ],
+       [
+        "这种{zhǒng}植物春天开花。",
+        "Loài cây này nở hoa vào mùa xuân."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你家院子里种了很多植物！",
+       "Sân nhà bạn trồng nhiều cây quá!"
+      ],
+      [
+       "Lan",
+       "都是我爷爷种的。那棵松树已经三十岁了。",
+       "Đều do ông mình trồng. Cây thông kia đã ba mươi tuổi rồi."
+      ],
+      [
+       "Minh",
+       "树叶这么绿，根一定很深。",
+       "Lá xanh thế này, rễ chắc sâu lắm."
+      ],
+      [
+       "Lan",
+       "我爷爷说，种树最重要的是根。他年轻的时候在森林里工作，种植了很多树。",
+       "Ông mình nói, trồng cây quan trọng nhất là rễ. Hồi trẻ ông làm việc trong rừng, trồng rất nhiều cây."
+      ],
+      [
+       "Minh",
+       "那边的花开了吗？",
+       "Mấy khóm hoa đằng kia nở chưa?"
+      ],
+      [
+       "Lan",
+       "开了。不过别动这些花，我们去买鲜花吧。树林后边有一个花店。",
+       "Nở rồi. Nhưng đừng động vào mấy bông hoa này, mình đi mua hoa tươi đi. Sau rừng cây có một tiệm hoa."
+      ]
+     ],
+     "w": "森林"
+    },
+    {
+     "id": "h4-50",
+     "title": "Đất đai và tài nguyên",
+     "words": "虫子 喂~wei2 刺 果实 土地 培育 资源 燃料 燃烧 着火",
+     "g": [
+      "资源 · 燃烧 / 着火",
+      "土地 = đất đai; 资源 = tài nguyên; 燃料 = nhiên liệu; 燃烧 = cháy, đốt cháy; 着火 = bốc cháy. 培育 = ươm trồng, nuôi dưỡng; 果实 = quả, thành quả. 虫子 = sâu bọ; 刺 = gai; 喂 = cho ăn.",
+      [
+       [
+        "这里的土地很好，适合种{zhòng}水果。",
+        "Đất ở đây rất tốt, hợp trồng hoa quả."
+       ],
+       [
+        "森林着火了！快打电话！",
+        "Rừng cháy rồi! Gọi điện mau!"
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "农民",
+       "这些苹果是我们培育的新苹果，果实又大又甜。",
+       "Những quả táo này là loại táo mới chúng tôi ươm, quả vừa to vừa ngọt."
+      ],
+      [
+       "Minh",
+       "树上有没有虫子？",
+       "Trên cây có sâu không ạ?"
+      ],
+      [
+       "农民",
+       "有，不过我们不用药，让鸟来吃。你看，那边的树有刺，别碰。",
+       "Có, nhưng chúng tôi không dùng thuốc, để chim đến ăn. Cháu xem, cây đằng kia có gai, đừng chạm vào."
+      ],
+      [
+       "Minh",
+       "您还养鸡吗？",
+       "Bác còn nuôi gà ạ?"
+      ],
+      [
+       "农民",
+       "养。每天早上我去喂鸡。土地是最重要的资源，要好好保护。",
+       "Nuôi chứ. Sáng nào tôi cũng cho gà ăn. Đất đai là tài nguyên quan trọng nhất, phải bảo vệ cho tốt."
+      ],
+      [
+       "Minh",
+       "冬天你们用什么燃料？",
+       "Mùa đông các bác dùng nhiên liệu gì ạ?"
+      ]
+     ],
+     "w": "虫刺"
+    },
+    {
+     "id": "h4-51",
+     "title": "Bảo vệ môi trường",
+     "words": "避免 避 阻止 改善 节省 伤害 吸收 维持 稳定 平稳 稳",
+     "g": [
+      "避免 + V / 事 · 阻止",
+      "避免 = tránh (việc xấu xảy ra): 避免浪费; 避 = tránh, né: 避雨. 阻止 = ngăn cản. 改善 = cải thiện; 节省 = tiết kiệm; 伤害 = làm tổn hại; 吸收 = hấp thụ. 维持 = duy trì; 稳定 = ổn định; 平稳 = êm, ổn; 稳 = vững.",
+      [
+       [
+        "我们应该节省用水，避免浪费。",
+        "Chúng ta nên tiết kiệm nước, tránh lãng phí."
+       ],
+       [
+        "植物能吸收空气中不好的东西。",
+        "Thực vật có thể hấp thụ những chất không tốt trong không khí."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "这条河以前很脏，现在环境改善了很多。",
+       "Con sông này trước kia rất bẩn, giờ môi trường cải thiện nhiều rồi."
+      ],
+      [
+       "Minh",
+       "是。城市阻止工厂往河里放脏水。",
+       "Ừ. Thành phố ngăn nhà máy xả nước bẩn ra sông."
+      ],
+      [
+       "Lan",
+       "塑料对鱼的伤害也很大。我们要避免用塑料袋。",
+       "Nhựa gây hại cho cá cũng rất lớn. Mình phải tránh dùng túi ni-lông."
+      ],
+      [
+       "Minh",
+       "还要节省用电。夏天空调别开得太低。",
+       "Còn phải tiết kiệm điện. Mùa hè đừng để điều hoà nhiệt độ thấp quá."
+      ],
+      [
+       "Lan",
+       "多种{zhòng}树也很好，树能吸收脏空气。",
+       "Trồng nhiều cây cũng rất tốt, cây hấp thụ được không khí bẩn."
+      ],
+      [
+       "Minh",
+       "对。只有这样，气温才能维持稳定。啊，下雨了！走稳一点儿，我们去那边避一避雨吧！",
+       "Đúng. Chỉ như vậy nhiệt độ mới giữ ổn định được. Ơ, mưa rồi! Đi cẩn thận nhé, mình sang bên kia trú mưa đã!"
+      ]
+     ],
+     "w": "避免"
+    }
+   ]
+  },
+  {
+   "id": "h4u10",
+   "title": "Học tập",
+   "goal": "Đại học và nghiên cứu, thi cử, học ngôn ngữ, tốt nghiệp và học bổng, cách học, hiểu và giải thích.",
+   "lessons": [
+    {
+     "id": "h4-52",
+     "title": "Đại học",
+     "words": "本科 研究生 教授 学术 学问 学分 学年 学时 讲座 论文 考察",
+     "g": [
+      "读 + bậc học · 学分 / 学时",
+      "读本科 = học đại học; 读研究生 = học cao học. 学分 = tín chỉ; 学时 = tiết học; 学年 = năm học. 教授 = giáo sư; 讲座 = buổi toạ đàm, chuyên đề; 论文 = luận văn; 学术 = học thuật; 学问 = học vấn; 考察 = khảo sát.",
+      [
+       [
+        "他本科学的是经济，现在在读研究生。",
+        "Đại học anh ấy học kinh tế, giờ đang học cao học."
+       ],
+       [
+        "这门课两个学分，一共三十二个学时。",
+        "Môn này hai tín chỉ, tổng cộng ba mươi hai tiết."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你本科读完以后打算做什么？",
+       "Học xong đại học bạn định làm gì?"
+      ],
+      [
+       "Lan",
+       "我想读研究生，跟王教授学习。他的学问很大。",
+       "Mình muốn học cao học, theo giáo sư Vương. Ông ấy học vấn rất rộng."
+      ],
+      [
+       "Minh",
+       "研究生要写论文吧？",
+       "Học cao học phải viết luận văn nhỉ?"
+      ],
+      [
+       "Lan",
+       "对，还要去外地考察，参加学术会议。这个学年我已经拿了三十个学分了。",
+       "Ừ, còn phải đi khảo sát ở nơi khác, dự hội nghị học thuật. Năm học này mình đã lấy được ba mươi tín chỉ rồi."
+      ],
+      [
+       "Minh",
+       "真不少！今天下午王教授有个讲座，你去吗？",
+       "Nhiều thật! Chiều nay giáo sư Vương có buổi chuyên đề, bạn đi không?"
+      ],
+      [
+       "Lan",
+       "去！听讲座也算学时吗？",
+       "Đi chứ! Nghe chuyên đề cũng tính tiết học à?"
+      ]
+     ],
+     "w": "研究"
+    },
+    {
+     "id": "h4-53",
+     "title": "Kỳ thi",
+     "words": "测试 试卷 卷~juan2 答案 及格 期中 期末 填空 填 点名 操场",
+     "g": [
+      "及格 · 填 · 期中 / 期末",
+      "及格 = đạt (điểm qua): 考试及格了. 测试 = kiểm tra; 试卷 / 卷子 = đề thi, bài thi; 答案 = đáp án; 填 = điền; 填空 = điền vào chỗ trống. 期中 / 期末考试 = thi giữa kỳ / cuối kỳ. 点名 = điểm danh. 操场 = sân trường.",
+      [
+       [
+        "这次期末考试我们班都及格了。",
+        "Kỳ thi cuối kỳ này lớp mình đều đạt."
+       ],
+       [
+        "请把答案填在试卷上。",
+        "Hãy điền đáp án lên bài thi."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "老师",
+       "现在点名……好，大家都到了。今天是期中测试。",
+       "Giờ điểm danh… được, mọi người đến đủ cả. Hôm nay kiểm tra giữa kỳ."
+      ],
+      [
+       "Lan",
+       "老师，考多长时间？",
+       "Thưa cô, thi bao lâu ạ?"
+      ],
+      [
+       "老师",
+       "九十分钟。第一部分是填空，把答案写在试卷上。",
+       "Chín mươi phút. Phần một là điền vào chỗ trống, viết đáp án lên bài thi."
+      ],
+      [
+       "Minh",
+       "多少分及格？",
+       "Bao nhiêu điểm thì đạt ạ?"
+      ],
+      [
+       "老师",
+       "六十|分。期末考试比期中难，所以这次要好好考。",
+       "Sáu mươi điểm. Thi cuối kỳ khó hơn giữa kỳ, nên lần này phải thi cho tốt."
+      ],
+      [
+       "Lan",
+       "考完以后我们去操场跑步吧！",
+       "Thi xong mình ra sân chạy bộ nhé!"
+      ]
+     ],
+     "w": "测卷"
+    },
+    {
+     "id": "h4-54",
+     "title": "Học ngôn ngữ",
+     "words": "词汇 语法 语音 口语 字母 括号 符号 翻译 抄 抄写 阅读 改正",
+     "g": [
+      "把 A 翻译成 B · 抄写",
+      "翻译 = dịch; 把中文翻译成越南话. 抄 / 抄写 = chép. 阅读 = đọc hiểu. 词汇 = từ vựng; 语法 = ngữ pháp; 语音 = ngữ âm; 口语 = khẩu ngữ, nói. 字母 = chữ cái; 符号 = ký hiệu; 括号 = dấu ngoặc. 改正 = sửa (lỗi).",
+      [
+       [
+        "请把这段话翻译成越南话。",
+        "Hãy dịch đoạn này sang tiếng Việt."
+       ],
+       [
+        "把生词抄写三遍。",
+        "Chép từ mới ba lượt."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "学汉语，你觉得什么最难？",
+       "Học tiếng Trung, bạn thấy cái gì khó nhất?"
+      ],
+      [
+       "Minh",
+       "语音和口语。汉语的读音太难了！",
+       "Ngữ âm và khẩu ngữ. Cách phát âm tiếng Trung khó quá!"
+      ],
+      [
+       "Lan",
+       "我觉得词汇最难，要抄写很多遍才记得住。语法倒{dào}不太难。",
+       "Mình thấy từ vựng khó nhất, phải chép nhiều lượt mới nhớ. Ngữ pháp thì lại không khó lắm."
+      ],
+      [
+       "Minh",
+       "汉语的字母跟越南话差不多，可是符号不一样。",
+       "Chữ cái phiên âm tiếng Trung gần giống tiếng Việt, nhưng ký hiệu thì khác."
+      ],
+      [
+       "Lan",
+       "对。我常常阅读中文书，有时候也翻译。",
+       "Đúng. Mình hay đọc sách tiếng Trung, đôi khi cũng dịch."
+      ],
+      [
+       "Minh",
+       "你帮我看看这篇作文吧，有错的地方帮我改正，写在括号里就行。",
+       "Bạn xem giúp mình bài văn này nhé, chỗ nào sai sửa giúp mình, viết trong ngoặc là được."
+      ]
+     ],
+     "w": "汇括"
+    },
+    {
+     "id": "h4-55",
+     "title": "Tốt nghiệp và học bổng",
+     "words": "毕业 毕业生 录取 奖学金 通知书 申请 寒假 暑假 培训 培训班 培养",
+     "g": [
+      "申请 + việc · 被 … 录取",
+      "申请 = xin, nộp đơn: 申请奖学金. 录取 = tuyển, nhận: 被北京大学录取了. 通知书 = giấy báo: 录取通知书. 毕业 / 毕业生 = tốt nghiệp / sinh viên tốt nghiệp. 寒假 / 暑假 = nghỉ đông / nghỉ hè. 培训 / 培训班 = đào tạo, lớp đào tạo; 培养 = bồi dưỡng.",
+      [
+       [
+        "她被北京大学录取了。",
+        "Cô ấy được Đại học Bắc Kinh nhận rồi."
+       ],
+       [
+        "我想申请去中国留学的奖学金。",
+        "Mình muốn xin học bổng đi du học Trung Quốc."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "我收到录取通知书了！还有奖学金！",
+       "Mình nhận được giấy báo trúng tuyển rồi! Còn có học bổng nữa!"
+      ],
+      [
+       "Minh",
+       "太好了！你申请了多久？",
+       "Tuyệt quá! Bạn nộp đơn bao lâu rồi?"
+      ],
+      [
+       "Lan",
+       "从去年寒假开始准备的，今年暑假以后就去上学。",
+       "Chuẩn bị từ kỳ nghỉ đông năm ngoái, sau kỳ nghỉ hè năm nay là đi học."
+      ],
+      [
+       "Minh",
+       "走之前要不要上一个汉语培训班？",
+       "Trước khi đi có muốn học một lớp đào tạo tiếng Trung không?"
+      ],
+      [
+       "Lan",
+       "要。学校会给新生培训，也很重视培养学生的能力。",
+       "Có chứ. Trường sẽ đào tạo cho tân sinh viên, cũng rất chú trọng bồi dưỡng năng lực sinh viên."
+      ],
+      [
+       "Minh",
+       "等你毕业，就是最优秀的毕业生了！",
+       "Đợi bạn tốt nghiệp, chắc chắn là sinh viên tốt nghiệp xuất sắc nhất!"
+      ]
+     ],
+     "w": "毕奖"
+    },
+    {
+     "id": "h4-56",
+     "title": "Cách học",
+     "words": "参考 资料 常识 概括 描述 描写 形容 专心 积累 思考",
+     "g": [
+      "参考 · 概括 / 描述 / 形容",
+      "参考 = tham khảo: 参考资料. 资料 = tư liệu; 常识 = kiến thức thường thức. 概括 = khái quát; 描述 / 描写 = mô tả, miêu tả (描写 dùng trong văn chương); 形容 = hình dung, tả. 专心 = chuyên tâm; 积累 = tích luỹ; 思考 = suy nghĩ.",
+      [
+       [
+        "学习要专心，不能一边学一边看手机。",
+        "Học phải chuyên tâm, không được vừa học vừa xem điện thoại."
+       ],
+       [
+        "请用一句话概括这篇文章的意思。",
+        "Hãy dùng một câu để khái quát ý bài này."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "写作文的时候，你参考什么资料？",
+       "Lúc viết văn bạn tham khảo tư liệu gì?"
+      ],
+      [
+       "Lan",
+       "我看很多书，慢慢积累好的句子。",
+       "Mình đọc nhiều sách, dần dần tích luỹ những câu hay."
+      ],
+      [
+       "Minh",
+       "老师说我的作文描写得不够生动。",
+       "Cô bảo bài văn của mình miêu tả chưa đủ sinh động."
+      ],
+      [
+       "Lan",
+       "你可以多用一些词语形容人的样子，描述人的心情。",
+       "Bạn có thể dùng thêm từ ngữ để tả dáng vẻ con người, miêu tả tâm trạng."
+      ],
+      [
+       "Minh",
+       "还有呢？",
+       "Còn gì nữa không?"
+      ],
+      [
+       "Lan",
+       "写之前多思考，先概括你想说什么。还有，多学一些常识。最重要的是专心！",
+       "Trước khi viết hãy suy nghĩ nhiều, khái quát trước điều bạn muốn nói. Thêm nữa, học thêm kiến thức thường thức. Quan trọng nhất là chuyên tâm!"
+      ]
+     ],
+     "w": "料描"
+    },
+    {
+     "id": "h4-57",
+     "title": "Hiểu và giải thích",
+     "words": "了解 解释 怀疑 疑问 考虑 想象 确认 承认 说服",
+     "g": [
+      "对 … 了解 · 怀疑 · 承认",
+      "了解 = hiểu rõ, tìm hiểu: 对中国文化很了解. 解释 = giải thích; 疑问 = thắc mắc. 怀疑 = nghi ngờ; 确认 = xác nhận; 承认 = thừa nhận. 考虑 = cân nhắc; 想象 = tưởng tượng; 说服 = thuyết phục.",
+      [
+       [
+        "我怀疑他没说真话。",
+        "Mình nghi anh ấy không nói thật."
+       ],
+       [
+        "你再考虑考虑，别马上决定。",
+        "Bạn cân nhắc thêm đi, đừng quyết ngay."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "老师，我有一个疑问：“了解”和“理解”有什么不同？",
+       "Thưa thầy, em có một thắc mắc: \"了解\" và \"理解\" khác nhau thế nào ạ?"
+      ],
+      [
+       "王老师",
+       "我来解释一下。“了解”是知道很多情况，“理解”是明白意思和原因。",
+       "Để thầy giải thích. \"了解\" là biết nhiều tình hình, \"理解\" là hiểu ý nghĩa và nguyên nhân."
+      ],
+      [
+       "Lan",
+       "我明白了。可是我怀疑自己用得对不对。",
+       "Em hiểu rồi. Nhưng em nghi không biết mình dùng có đúng không."
+      ],
+      [
+       "王老师",
+       "你造几个句子，我帮你确认。",
+       "Em đặt vài câu, thầy xác nhận giúp."
+      ],
+      [
+       "Lan",
+       "我想象不到学汉语这么有意思！以前我考虑过学英语，我妈妈说服我学了汉语。",
+       "Em không tưởng tượng được học tiếng Trung thú vị thế này! Trước đây em từng cân nhắc học tiếng Anh, mẹ thuyết phục em học tiếng Trung."
+      ],
+      [
+       "王老师",
+       "我得承认，你的进步很快！",
+       "Thầy phải thừa nhận, em tiến bộ rất nhanh!"
+      ]
+     ],
+     "w": "释疑"
+    },
+    {
+     "id": "h4-58",
+     "title": "Dần dần, liên tiếp",
+     "words": "再三 一再 多次 陆续 纷纷 渐渐 逐渐 逐步 迅速",
+     "g": [
+      "渐渐 / 逐渐 / 逐步 · 陆续 / 纷纷",
+      "渐渐 / 逐渐 = dần dần (thay đổi tự nhiên); 逐步 = từng bước (có kế hoạch). 陆续 = lần lượt, nối tiếp nhau; 纷纷 = nhao nhao, lũ lượt (nhiều người cùng làm). 再三 / 一再 = nhiều lần (nhấn mạnh); 多次 = nhiều lần. 迅速 = nhanh chóng.",
+      [
+       [
+        "天渐渐黑了。",
+        "Trời dần tối."
+       ],
+       [
+        "客人陆续到了。",
+        "Khách lần lượt đến."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "你学汉语多久了？",
+       "Bạn học tiếng Trung bao lâu rồi?"
+      ],
+      [
+       "Minh",
+       "两年。刚开始什么都听不懂，后来渐渐习惯了。",
+       "Hai năm. Mới đầu chẳng nghe hiểu gì, sau dần quen."
+      ],
+      [
+       "Lan",
+       "我也是。老师一再说，学语言要逐步来，不能着急。",
+       "Mình cũng vậy. Thầy nhắc đi nhắc lại, học ngoại ngữ phải từng bước, không được vội."
+      ],
+      [
+       "Minh",
+       "你看，下课了，同学们纷纷走出教室。",
+       "Bạn xem, tan học rồi, các bạn lũ lượt ra khỏi lớp."
+      ],
+      [
+       "Lan",
+       "新同学也陆续来报到了。我已经多次跟老师说，想换到高级班。",
+       "Bạn mới cũng lần lượt đến nhập học. Mình đã nói với thầy nhiều lần, muốn chuyển lên lớp cao cấp."
+      ],
+      [
+       "Minh",
+       "老师再三考虑以后，同意了吗？你的水平逐渐提高了，一定可以的。啊，上课了！同学们都迅速跑回了教室，我们也快走吧！",
+       "Thầy cân nhắc kỹ rồi có đồng ý không? Trình độ bạn dần nâng cao, chắc chắn được. Ơ, vào học rồi! Mọi người đều nhanh chóng chạy về lớp, mình cũng đi nhanh thôi!"
+      ]
+     ],
+     "w": "陆纷"
+    }
+   ]
+  },
+  {
+   "id": "h4u11",
+   "title": "Công việc",
+   "goal": "Xin việc, công việc ở văn phòng, họp, quy định và bảo mật, làm việc hiệu quả, nguyên tắc và thứ tự.",
+   "lessons": [
+    {
+     "id": "h4-59",
+     "title": "Xin việc",
+     "words": "简历 面试 失业 名片 秘书 会计 律师 待遇 奖金 加班 具备",
+     "g": [
+      "具备 + 条件 / 能力",
+      "具备 = có đủ (điều kiện, năng lực): 具备工作经验. 简历 = CV; 面试 = phỏng vấn; 名片 = danh thiếp. Nghề: 秘书, 会计, 律师. 待遇 = đãi ngộ; 奖金 = tiền thưởng; 加班 = tăng ca. 失业 = thất nghiệp.",
+      [
+       [
+        "这个工作要求具备三年以上的工作经验。",
+        "Công việc này yêu cầu có trên ba năm kinh nghiệm."
+       ],
+       [
+        "他失业了半年，最近才找到工作。",
+        "Anh ấy thất nghiệp nửa năm, gần đây mới tìm được việc."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "明天我去一家公司面试，当会计。",
+       "Mai mình đi phỏng vấn ở một công ty, làm kế toán."
+      ],
+      [
+       "Minh",
+       "简历准备好了吗？",
+       "CV chuẩn bị xong chưa?"
+      ],
+      [
+       "Lan",
+       "好了。他们要求具备会计证和两年经验，我都有。",
+       "Xong rồi. Họ yêu cầu có chứng chỉ kế toán và hai năm kinh nghiệm, mình đều có."
+      ],
+      [
+       "Minh",
+       "待遇怎么样？要常常加班吗？",
+       "Đãi ngộ thế nào? Có phải thường xuyên tăng ca không?"
+      ],
+      [
+       "Lan",
+       "工资不错，年底还有奖金。公司的秘书说不常加班。",
+       "Lương khá, cuối năm còn có thưởng. Thư ký công ty nói không hay tăng ca."
+      ],
+      [
+       "Minh",
+       "那太好了。面试的时候，要是对方给你名片，要用两只手接，还要表现得自信一点儿。我认识一个律师，他说面试时最重要的是说真话。",
+       "Vậy tốt quá. Lúc phỏng vấn, nếu bên kia đưa danh thiếp thì nhận bằng hai tay, và thể hiện tự tin một chút. Mình quen một luật sư, anh ấy nói lúc phỏng vấn quan trọng nhất là nói thật."
+      ]
+     ],
+     "w": "秘律"
+    },
+    {
+     "id": "h4-60",
+     "title": "Ở văn phòng",
+     "words": "办事 汇报 担任 承担 负担 项目 方案 效率 业余 临时 承受 处 项",
+     "g": [
+      "担任 + chức vụ · 承担 + trách nhiệm",
+      "担任 = đảm nhiệm (chức vụ): 担任经理. 承担 = gánh vác (trách nhiệm, chi phí); 承受 = chịu đựng (áp lực). 负担 = gánh nặng. 汇报 = báo cáo (lên cấp trên). 项目 = dự án; 一项工作 = một công việc (项 = lượng từ). 方案 = phương án; 效率 = hiệu suất. 办事 = làm việc, giải quyết việc. 处 (chù) = phòng, ban: 办事处 = văn phòng đại diện. 临时 = tạm thời; 业余 = ngoài giờ.",
+      [
+       [
+        "他在公司担任技术部经理。",
+        "Anh ấy làm trưởng phòng kỹ thuật ở công ty."
+       ],
+       [
+        "这件事我来承担责任。",
+        "Việc này để tôi chịu trách nhiệm."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "经理",
+       "小阮，这个项目的方案做好了吗？",
+       "Tiểu Nguyễn, phương án của dự án này làm xong chưa?"
+      ],
+      [
+       "Lan",
+       "做好了。我下午向您汇报。",
+       "Xong rồi ạ. Chiều nay em báo cáo anh."
+      ],
+      [
+       "经理",
+       "好。下个月你担任项目的负责人，承担这项工作。",
+       "Được. Tháng sau em làm người phụ trách dự án, gánh vác công việc này."
+      ],
+      [
+       "Lan",
+       "谢谢您！不过我怕压力太大，承受不了。",
+       "Cảm ơn anh! Nhưng em sợ áp lực lớn quá, không chịu nổi."
+      ],
+      [
+       "经理",
+       "别有负担。你办事效率很高，大家都知道。我们在河内的办事处也会帮你。",
+       "Đừng có gánh nặng. Em làm việc hiệu suất cao, ai cũng biết. Văn phòng đại diện ở Hà Nội cũng sẽ giúp em."
+      ],
+      [
+       "Lan",
+       "好的。我临时找了两个同事帮忙，业余时间也会多学习。",
+       "Vâng ạ. Em đã tạm nhờ hai đồng nghiệp giúp, thời gian ngoài giờ em cũng sẽ học thêm."
+      ]
+     ],
+     "w": "承项"
+    },
+    {
+     "id": "h4-61",
+     "title": "Cuộc họp",
+     "words": "大会 召开 出席 主席 主题 议论 争论 辩论 征求 一致",
+     "g": [
+      "召开 + 会议 · 出席 · 征求 + 意见",
+      "召开会议 / 大会 = tổ chức hội nghị, đại hội. 出席 = có mặt (dự họp, trang trọng). 主席 = chủ tịch, chủ toạ; 主题 = chủ đề. 征求意见 = hỏi ý kiến. 议论 = bàn tán; 争论 = tranh cãi; 辩论 = tranh luận (có lý lẽ, như thi tranh biện). 一致 = nhất trí.",
+      [
+       [
+        "公司下周召开年度大会。",
+        "Công ty tuần sau tổ chức đại hội thường niên."
+       ],
+       [
+        "经过讨论，大家的意见一致了。",
+        "Sau khi thảo luận, ý kiến mọi người đã thống nhất."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "主席",
+       "今天的会议主题是明年的计划。先征求大家的意见。",
+       "Chủ đề cuộc họp hôm nay là kế hoạch năm sau. Trước hết xin ý kiến mọi người."
+      ],
+      [
+       "Minh",
+       "我觉得应该先做越南市场。",
+       "Tôi nghĩ nên làm thị trường Việt Nam trước."
+      ],
+      [
+       "Lan",
+       "我不同意。中国市场更大。",
+       "Tôi không đồng ý. Thị trường Trung Quốc lớn hơn."
+      ],
+      [
+       "主席",
+       "大家别争论，可以辩论，但是要说理由。",
+       "Mọi người đừng cãi nhau, có thể tranh luận nhưng phải nói lý do."
+      ],
+      [
+       "Minh",
+       "好。下个月公司召开大会，所有经理都要出席，到时候再讨论吧。",
+       "Được. Tháng sau công ty tổ chức đại hội, mọi quản lý đều phải dự, lúc đó bàn tiếp."
+      ],
+      [
+       "主席",
+       "好。开完会大家别在背后议论，希望到时候看法能一致。",
+       "Được. Họp xong mọi người đừng bàn tán sau lưng, mong lúc đó quan điểm có thể thống nhất."
+      ]
+     ],
+     "w": "召席"
+    },
+    {
+     "id": "h4-62",
+     "title": "Quy định và bảo mật",
+     "words": "保密 秘密 密码 纪律 规则 禁止 限制 严 严格 守 封闭 密",
+     "g": [
+      "禁止 + V · 对 … 严格",
+      "禁止 = cấm: 禁止吸烟. 限制 = hạn chế. 规则 = quy tắc; 纪律 = kỷ luật; 守 = giữ, tuân thủ: 守纪律, 守秘密. 严 / 严格 = nghiêm, nghiêm khắc. 保密 = giữ bí mật; 秘密 = bí mật; 密码 = mật khẩu; 密 = dày, kín. 封闭 = khép kín.",
+      [
+       [
+        "这里禁止拍照。",
+        "Ở đây cấm chụp ảnh."
+       ],
+       [
+        "我们老师对学生很严格。",
+        "Thầy giáo bọn mình rất nghiêm khắc với học sinh."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "经理",
+       "欢迎来我们公司！先说一下规则：公司里禁止吸烟。",
+       "Chào mừng đến công ty! Trước tiên nói qua quy định: trong công ty cấm hút thuốc."
+      ],
+      [
+       "Minh",
+       "好的。上班时间有限制吗？",
+       "Vâng. Giờ làm có hạn chế gì không ạ?"
+      ],
+      [
+       "经理",
+       "九点上班，公司对时间很严，要守纪律。",
+       "Chín giờ vào làm, công ty rất nghiêm về giờ giấc, phải giữ kỷ luật."
+      ],
+      [
+       "Minh",
+       "明白。电脑的密码是什么？",
+       "Em hiểu. Mật khẩu máy tính là gì ạ?"
+      ],
+      [
+       "经理",
+       "等一下我告诉你。这个项目要保密，不能告诉别人，这是公司的秘密。",
+       "Lát nữa tôi nói. Dự án này phải giữ bí mật, không được nói với người khác, đây là bí mật của công ty."
+      ],
+      [
+       "Minh",
+       "我一定守秘密。那这个项目的会议是封闭的吗？",
+       "Em nhất định giữ bí mật. Vậy các cuộc họp của dự án này là họp kín ạ?"
+      ]
+     ],
+     "w": "码禁"
+    },
+    {
+     "id": "h4-63",
+     "title": "Làm việc hiệu quả",
+     "words": "发挥 技巧 精力 尽力 付出 抓紧 运用 实用 用途 作出 制订",
+     "g": [
+      "发挥 + 作用 / 能力 · 作出 + 决定",
+      "发挥 = phát huy: 发挥作用, 发挥能力. 作出决定 / 贡献 = đưa ra quyết định. 尽力 = cố hết sức; 付出 = bỏ ra (công sức). 抓紧 + thời gian = tranh thủ. 技巧 = kỹ năng, mẹo; 精力 = sức lực, tinh thần. 运用 = vận dụng; 实用 = thiết thực; 用途 = công dụng. 制订 = lập (kế hoạch).",
+      [
+       [
+        "我们要抓紧时间，下周就要交了。",
+        "Chúng ta phải tranh thủ thời gian, tuần sau là phải nộp rồi."
+       ],
+       [
+        "这个工具很实用，用途很多。",
+        "Dụng cụ này rất thiết thực, công dụng nhiều."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "怎么样才能提高工作效率？",
+       "Làm sao mới nâng cao được hiệu suất làm việc?"
+      ],
+      [
+       "Minh",
+       "先制订计划，再抓紧时间做最重要的事。",
+       "Trước tiên lập kế hoạch, rồi tranh thủ làm việc quan trọng nhất."
+      ],
+      [
+       "Lan",
+       "我常常觉得精力不够。",
+       "Mình hay thấy không đủ sức."
+      ],
+      [
+       "Minh",
+       "这需要技巧。把学到的方法运用到工作中，就能发挥你的能力。",
+       "Cái này cần kỹ năng. Vận dụng cách đã học vào công việc là phát huy được năng lực của bạn."
+      ],
+      [
+       "Lan",
+       "你说的方法很实用。我会尽力的。",
+       "Cách bạn nói rất thiết thực. Mình sẽ cố hết sức."
+      ],
+      [
+       "Minh",
+       "付出多少，就得到多少。作出决定以后，就别再改了。",
+       "Bỏ ra bao nhiêu thì nhận lại bấy nhiêu. Đã đưa ra quyết định thì đừng đổi nữa."
+      ]
+     ],
+     "w": "挥"
+    },
+    {
+     "id": "h4-64",
+     "title": "Nguyên tắc và thứ tự",
+     "words": "规律 原则 符合 一律 固定 顺序 排列 列 列入 列为 划~hua2",
+     "g": [
+      "符合 + 要求 / 规定 · 按顺序",
+      "符合 = phù hợp với: 符合要求. 原则 = nguyên tắc; 规律 = quy luật; 一律 = đều, nhất loạt (không ngoại lệ). 固定 = cố định. 顺序 = thứ tự: 按顺序; 排列 = sắp xếp; 列 = liệt kê; 列入 = đưa vào (danh sách); 列为 = xếp vào loại. 划 (huà) = vạch, chia: 划分.",
+      [
+       [
+        "请按顺序排列这些句子。",
+        "Hãy sắp xếp những câu này theo thứ tự."
+       ],
+       [
+        "外人一律不能进入。",
+        "Người ngoài đều không được vào."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "经理",
+       "这份报告不符合公司的要求。",
+       "Bản báo cáo này không phù hợp yêu cầu của công ty."
+      ],
+      [
+       "Minh",
+       "哪儿有问题？",
+       "Có vấn đề ở đâu ạ?"
+      ],
+      [
+       "经理",
+       "数字的顺序不对。应该按时间排列，再把问题一个一个列出来。",
+       "Thứ tự số liệu không đúng. Phải sắp xếp theo thời gian, rồi liệt kê từng vấn đề ra."
+      ],
+      [
+       "Minh",
+       "明白了。这个项目会列入明年的计划吗？",
+       "Em hiểu rồi. Dự án này có được đưa vào kế hoạch năm sau không ạ?"
+      ],
+      [
+       "经理",
+       "会，已经被列为重点项目。我们的原则是：工作时间固定，报告一律周五交。",
+       "Có, đã được xếp vào dự án trọng điểm. Nguyên tắc của chúng ta là: giờ làm cố định, báo cáo đều nộp vào thứ sáu."
+      ],
+      [
+       "Minh",
+       "好的。我把工作划{huà}成三部分，每天做一部分，找到规律就快了。",
+       "Vâng ạ. Em chia công việc thành ba phần, mỗi ngày làm một phần, tìm ra quy luật là sẽ nhanh."
+      ]
+     ],
+     "w": "符固"
+    }
+   ]
+  },
+  {
+   "id": "h4u12",
+   "title": "Kinh doanh & kinh tế",
+   "goal": "Doanh nghiệp, xuất nhập khẩu, đầu tư và tài sản, ngân hàng và số liệu, quy mô sản xuất, tăng giảm, con số.",
+   "lessons": [
+    {
+     "id": "h4-65",
+     "title": "Doanh nghiệp",
+     "words": "企业 商务 合同 产品 出口~chukou2 进口 销售 推销 中介 货 引进",
+     "g": [
+      "出口 / 进口 · 引进",
+      "出口 = xuất khẩu; 进口 = nhập khẩu: 进口产品. 引进 = du nhập, đưa vào (công nghệ, nhân tài). 企业 = doanh nghiệp; 商务 = thương mại; 合同 = hợp đồng: 签合同 = ký hợp đồng. 产品 = sản phẩm; 货 = hàng; 销售 = bán hàng; 推销 = chào hàng; 中介 = môi giới.",
+      [
+       [
+        "我们公司的产品出口到很多国家。",
+        "Sản phẩm công ty mình xuất khẩu sang nhiều nước."
+       ],
+       [
+        "这批货是从越南进口的。",
+        "Lô hàng này nhập khẩu từ Việt Nam."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你们企业主要做什么？",
+       "Doanh nghiệp các anh chủ yếu làm gì?"
+      ],
+      [
+       "李经理",
+       "我们生产咖啡，产品主要出口到中国和很多国家。",
+       "Chúng tôi sản xuất cà phê, sản phẩm chủ yếu xuất khẩu sang Trung Quốc và nhiều nước khác."
+      ],
+      [
+       "Minh",
+       "我们公司想进口越南咖啡，可以谈谈合同吗？",
+       "Công ty chúng tôi muốn nhập khẩu cà phê Việt Nam, có thể bàn hợp đồng không?"
+      ],
+      [
+       "李经理",
+       "当然。我们的销售经理下午到，他会跟您谈商务问题。",
+       "Đương nhiên. Giám đốc bán hàng của chúng tôi chiều nay đến, anh ấy sẽ bàn các vấn đề thương mại với anh."
+      ],
+      [
+       "Minh",
+       "好。我们不想通过中介，直接从你们这儿买货。",
+       "Được. Chúng tôi không muốn qua môi giới, mua hàng trực tiếp từ các anh."
+      ],
+      [
+       "李经理",
+       "没问题。我们最近引进了新机器，产品质量更好了。不过我们不推销，您可以先看看。",
+       "Không vấn đề. Gần đây chúng tôi nhập máy mới, chất lượng sản phẩm tốt hơn. Nhưng chúng tôi không chào ép, anh có thể xem trước."
+      ]
+     ],
+     "w": "企销"
+    },
+    {
+     "id": "h4-66",
+     "title": "Đầu tư",
+     "words": "倒闭 破产 收益 利益 投资 投入 财产 财富 黄金 担保",
+     "g": [
+      "投资 · 倒闭 / 破产",
+      "投资 = đầu tư; 投入 = bỏ vào (vốn, sức). 收益 = lợi nhuận; 利益 = lợi ích. 财产 = tài sản; 财富 = của cải; 黄金 = vàng. 担保 = bảo lãnh. 倒闭 = (công ty) đóng cửa, sập; 破产 = phá sản.",
+      [
+       [
+        "他把钱投资在房子上了。",
+        "Anh ấy đầu tư tiền vào nhà đất."
+       ],
+       [
+        "那家公司去年倒闭了。",
+        "Công ty đó năm ngoái đã đóng cửa."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "我有一点儿钱，想投资，你觉得买什么好？",
+       "Mình có ít tiền, muốn đầu tư, bạn thấy mua gì thì tốt?"
+      ],
+      [
+       "Minh",
+       "很多人买黄金，比较安全。",
+       "Nhiều người mua vàng, tương đối an toàn."
+      ],
+      [
+       "Lan",
+       "收益高吗？",
+       "Lợi nhuận có cao không?"
+      ],
+      [
+       "Minh",
+       "不太高。投资公司收益高，风险也大。我叔叔投入了很多钱，后来公司倒闭了，他几乎破产了。",
+       "Không cao lắm. Đầu tư công ty lợi nhuận cao, rủi ro cũng lớn. Chú mình bỏ vào rất nhiều tiền, sau đó công ty sập, chú gần như phá sản."
+      ],
+      [
+       "Lan",
+       "太可怕了！他的财产都没了吗？",
+       "Đáng sợ quá! Tài sản của chú mất hết à?"
+      ],
+      [
+       "Minh",
+       "也不是全没了。他给朋友担保过，也有麻烦。所以我觉得，健康才是最大的财富，别为了利益去做危险的事。",
+       "Không mất hết. Chú từng bảo lãnh cho bạn, cũng gặp rắc rối. Nên mình nghĩ, sức khoẻ mới là của cải lớn nhất, đừng vì lợi mà làm việc nguy hiểm."
+      ]
+     ],
+     "w": "闭益"
+    },
+    {
+     "id": "h4-67",
+     "title": "Ngân hàng và số liệu",
+     "words": "利息 汇率 汇 外汇 美金 收回 季度 统计 数据 分布 分散",
+     "g": [
+      "汇率 · 统计 · 分布",
+      "汇 = chuyển (tiền): 汇钱; 汇率 = tỷ giá; 外汇 = ngoại tệ; 美金 = đô la Mỹ. 利息 = tiền lãi. 收回 = thu hồi. 季度 = quý: 第一季度. 统计 = thống kê; 数据 = số liệu. 分布 = phân bố; 分散 = phân tán.",
+      [
+       [
+        "今天美金和人民币的汇率是多少？",
+        "Tỷ giá đô la Mỹ với nhân dân tệ hôm nay là bao nhiêu?"
+       ],
+       [
+        "根据统计，我们的客人主要分布在南方。",
+        "Theo thống kê, khách của chúng ta chủ yếu phân bố ở miền Nam."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "我想给家里汇一点儿钱，要换外汇吗？",
+       "Mình muốn chuyển ít tiền về nhà, có phải đổi ngoại tệ không?"
+      ],
+      [
+       "Minh",
+       "要看汇率。现在美金的价格比上个月高。",
+       "Phải xem tỷ giá. Giá đô la Mỹ bây giờ cao hơn tháng trước."
+      ],
+      [
+       "Lan",
+       "银行的利息呢？",
+       "Còn lãi ngân hàng thì sao?"
+      ],
+      [
+       "Minh",
+       "很低。我们公司第一季度的数据也不好，钱很难收回。",
+       "Thấp lắm. Số liệu quý một của công ty mình cũng không tốt, tiền khó thu hồi."
+      ],
+      [
+       "Lan",
+       "为什么？",
+       "Sao vậy?"
+      ],
+      [
+       "Minh",
+       "统计以后发现，我们的客人太分散了，分布在很多地方。",
+       "Thống kê xong mới thấy, khách của bọn mình phân tán quá, phân bố ở nhiều nơi."
+      ]
+     ],
+     "w": "率统"
+    },
+    {
+     "id": "h4-68",
+     "title": "Quy mô sản xuất",
+     "words": "供应 原料 材料 规模 大规模 大型 小型 新型 型号 型 促进 批~pi2",
+     "g": [
+      "大型 / 小型 / 新型 · 规模",
+      "大型 / 小型 = cỡ lớn / cỡ nhỏ; 新型 = kiểu mới; 型号 = model, mẫu mã; 型 = loại. 规模 = quy mô; 大规模 = quy mô lớn. 供应 = cung ứng; 原料 = nguyên liệu; 材料 = vật liệu. 促进 = thúc đẩy. 批 (pī) = lô, đợt: 一批货.",
+      [
+       [
+        "这家工厂的规模很大，有两千多个工人。",
+        "Nhà máy này quy mô rất lớn, có hơn hai nghìn công nhân."
+       ],
+       [
+        "第一批新型电脑下个月上市。",
+        "Lô máy tính kiểu mới đầu tiên tháng sau ra thị trường."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你们工厂是大型的还是小型的？",
+       "Nhà máy các anh là loại lớn hay nhỏ?"
+      ],
+      [
+       "李经理",
+       "中型的，不过明年要做得更大，大规模生产。",
+       "Loại vừa, nhưng năm sau phải làm lớn hơn, sản xuất quy mô lớn."
+      ],
+      [
+       "Minh",
+       "原料从哪儿来？",
+       "Nguyên liệu từ đâu đến?"
+      ],
+      [
+       "李经理",
+       "越南的公司给我们供应原料和材料。这样也能促进两国的经济合作。",
+       "Công ty Việt Nam cung ứng nguyên liệu và vật liệu cho chúng tôi. Như vậy cũng thúc đẩy hợp tác kinh tế hai nước."
+      ],
+      [
+       "Minh",
+       "你们最新的型号是哪个？",
+       "Model mới nhất của các anh là cái nào?"
+      ],
+      [
+       "李经理",
+       "是这个新型的。第一批已经卖完了，第二批下个月到。",
+       "Là loại kiểu mới này. Lô đầu đã bán hết, lô thứ hai tháng sau về."
+      ]
+     ],
+     "w": "供模"
+    },
+    {
+     "id": "h4-69",
+     "title": "Tăng và giảm",
+     "words": "扩大 扩展 缩短 缩小 减 减少 降 降低 下降 延长 延续",
+     "g": [
+      "扩大 / 缩小 · 延长 / 缩短 · 降低 / 下降",
+      "Cặp trái nghĩa: 扩大 (mở rộng) ↔ 缩小 (thu nhỏ); 延长 (kéo dài) ↔ 缩短 (rút ngắn). 降低 = hạ (có tân ngữ: 降低价格); 下降 = giảm xuống (không tân ngữ: 价格下降了). 减 / 减少 = giảm; 降 = hạ. 扩展 = mở rộng phát triển; 延续 = tiếp nối.",
+      [
+       [
+        "公司决定扩大规模。",
+        "Công ty quyết định mở rộng quy mô."
+       ],
+       [
+        "新的高铁把时间缩短了一半。",
+        "Tàu cao tốc mới rút ngắn thời gian một nửa."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "今年我们的销售下降了吗？",
+       "Năm nay doanh số bán hàng của chúng ta giảm à?"
+      ],
+      [
+       "经理",
+       "下降了不少。所以我们要降低做产品的费用。",
+       "Giảm không ít. Nên chúng ta phải giảm chi phí làm sản phẩm."
+      ],
+      [
+       "Lan",
+       "要减少员工吗？",
+       "Có phải giảm nhân viên không ạ?"
+      ],
+      [
+       "经理",
+       "不减人。我们要缩小办公室，再把工作时间延长一个小时。",
+       "Không giảm người. Chúng ta sẽ thu nhỏ văn phòng, và kéo dài giờ làm thêm một tiếng."
+      ],
+      [
+       "Lan",
+       "那市场呢？",
+       "Thế còn thị trường ạ?"
+      ],
+      [
+       "经理",
+       "要扩展到越南，扩大市场。价格降一点儿，好的做法要延续下去，送货时间也要缩短。",
+       "Phải mở rộng sang Việt Nam, mở rộng thị trường. Giá hạ một chút, cách làm tốt phải tiếp nối, thời gian giao hàng cũng phải rút ngắn."
+      ]
+     ],
+     "w": "扩缩"
+    },
+    {
+     "id": "h4-70",
+     "title": "Con số",
+     "words": "倍 分之 平均 总共 共 俩 些 大多 其余",
+     "g": [
+      "分数 · 倍 · 平均",
+      "Phân số: 三分之一 = 1/3; 百分之二十 = 20%. 倍 = lần: 大两倍. 平均 = trung bình. 总共 / 共 = tổng cộng. 俩 = hai người (我们俩). 些 = một số; 大多 = phần lớn; 其余 = còn lại.",
+      [
+       [
+        "我们班三分之二的学生是女生。",
+        "Hai phần ba học sinh lớp mình là nữ."
+       ],
+       [
+        "他的工资是我的两倍。",
+        "Lương anh ấy gấp hai lần lương mình."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "老师",
+       "这次考试，全班平均分是七十八分。",
+       "Kỳ thi này điểm trung bình cả lớp là bảy mươi tám."
+      ],
+      [
+       "Lan",
+       "总共有多少人及格？",
+       "Tổng cộng có bao nhiêu người đạt ạ?"
+      ],
+      [
+       "老师",
+       "共三十人，大多都及格了，只有两个没及格，其余的都不错。",
+       "Tổng ba mươi người, phần lớn đều đạt, chỉ hai người không đạt, số còn lại đều khá."
+      ],
+      [
+       "Minh",
+       "及格的人是不及格的十几倍！",
+       "Số người đạt gấp mười mấy lần số không đạt!"
+      ],
+      [
+       "老师",
+       "对。不过有些人只考了六十|分，占三分之一。你们俩考得最好！",
+       "Đúng. Nhưng một số người chỉ được sáu mươi điểm, chiếm một phần ba. Hai em thi tốt nhất!"
+      ],
+      [
+       "Lan",
+       "太好了！",
+       "Tuyệt quá!"
+      ]
+     ],
+     "w": "倍均"
+    },
+    {
+     "id": "h4-71",
+     "title": "Vô số và có hạn",
+     "words": "无数 有限 无限 以内 无 无法 多样 多种 多年",
+     "g": [
+      "无 + danh từ · 以内",
+      "无 = không có (văn viết): 无人, 无声. 无法 = không thể; 无数 = vô số; 无限 = vô hạn; 有限 = có hạn. 以内 = trong vòng: 三天以内. 多样 = đa dạng; 多种 = nhiều loại; 多年 = nhiều năm.",
+      [
+       [
+        "请在三天以内回复。",
+        "Xin trả lời trong vòng ba ngày."
+       ],
+       [
+        "时间有限，我们说重点吧。",
+        "Thời gian có hạn, chúng ta nói trọng tâm thôi."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "这个城市变化真大！",
+       "Thành phố này thay đổi lớn thật!"
+      ],
+      [
+       "Lan",
+       "是啊，我多年没回来了，几乎无法认出来。",
+       "Ừ, nhiều năm mình không về, gần như không nhận ra nổi."
+      ],
+      [
+       "Minh",
+       "你看，天上无数的星星，真美！",
+       "Bạn xem, vô số ngôi sao trên trời, đẹp thật!"
+      ],
+      [
+       "Lan",
+       "天空好像无限大。人的生命很有限，要好好过每一天。",
+       "Bầu trời như rộng vô hạn. Đời người có hạn, phải sống tốt từng ngày."
+      ],
+      [
+       "Minh",
+       "对。这儿的生活也很多样，有多种文化。",
+       "Đúng. Cuộc sống ở đây cũng đa dạng, có nhiều nền văn hoá."
+      ],
+      [
+       "Lan",
+       "走吧，十分钟以内我们要到饭店，否则就没人等我们了！",
+       "Đi thôi, trong vòng mười phút phải đến nhà hàng, không thì chẳng ai đợi mình đâu!"
+      ]
+     ],
+     "w": "限"
+    }
+   ]
+  },
+  {
+   "id": "h4u13",
+   "title": "Khoa học & công nghệ",
+   "goal": "Mạng và ứng dụng, thiết bị số, đo lường và nghiên cứu, cấu tạo, đặc điểm, nguyên nhân và kết quả.",
+   "lessons": [
+    {
+     "id": "h4-72",
+     "title": "Mạng và ứng dụng",
+     "words": "网络 网址 微信 登录 下载 复制 设置 程序 系统 智能",
+     "g": [
+      "登录 / 下载 / 设置",
+      "登录 = đăng nhập: 登录微信. 下载 = tải xuống; 复制 = sao chép; 设置 = cài đặt. 网络 = mạng; 网址 = địa chỉ web. 程序 = chương trình, quy trình; 系统 = hệ thống. 智能 = thông minh: 智能手机.",
+      [
+       [
+        "请先登录，再下载这个程序。",
+        "Hãy đăng nhập trước, rồi tải chương trình này về."
+       ],
+       [
+        "我的手机系统太旧了，要换一个智能手机。",
+        "Hệ điều hành điện thoại mình cũ quá, phải đổi một chiếc điện thoại thông minh."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "在中国，大家都用微信吗？",
+       "Ở Trung Quốc mọi người đều dùng WeChat à?"
+      ],
+      [
+       "Minh",
+       "对，买东西、打车、交费都用。你下载了吗？",
+       "Đúng, mua đồ, gọi xe, đóng phí đều dùng. Bạn tải chưa?"
+      ],
+      [
+       "Lan",
+       "下载了，可是登录不了，网络有问题。",
+       "Tải rồi, nhưng không đăng nhập được, mạng có vấn đề."
+      ],
+      [
+       "Minh",
+       "我看看……你的设置不对。我把网址复制给你，你按这个程序做。",
+       "Để mình xem… Cài đặt của bạn không đúng. Mình sao chép địa chỉ web cho bạn, bạn làm theo quy trình này."
+      ],
+      [
+       "Lan",
+       "好了！现在的智能手机真方便。",
+       "Được rồi! Điện thoại thông minh bây giờ tiện thật."
+      ],
+      [
+       "Minh",
+       "是啊。不过系统要常常更新，不然会出问题。",
+       "Ừ. Nhưng hệ thống phải cập nhật thường xuyên, không thì sẽ có vấn đề."
+      ]
+     ],
+     "w": "络址"
+    },
+    {
+     "id": "h4-73",
+     "title": "Thiết bị số",
+     "words": "充电 充电器 耳机 数码 光盘 镜头 拍照 相片 唱片 操作",
+     "g": [
+      "给 + vật + 充电 · 操作",
+      "充电 = sạc; 充电器 = bộ sạc. 耳机 = tai nghe; 镜头 = ống kính; 拍照 = chụp ảnh; 相片 = ảnh (khẩu ngữ: 照片). 数码 = kỹ thuật số: 数码相机. 光盘 = đĩa CD; 唱片 = đĩa nhạc, album. 操作 = thao tác, vận hành.",
+      [
+       [
+        "手机没电了，我要充电。",
+        "Điện thoại hết pin rồi, mình phải sạc."
+       ],
+       [
+        "这台机器操作很简单。",
+        "Máy này thao tác rất đơn giản."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你的手机拍照真清楚！",
+       "Điện thoại bạn chụp ảnh nét thật!"
+      ],
+      [
+       "Lan",
+       "新买的，有三个镜头，跟数码相机差不多。",
+       "Mới mua, có ba ống kính, gần như máy ảnh kỹ thuật số."
+      ],
+      [
+       "Minh",
+       "操作难吗？",
+       "Thao tác có khó không?"
+      ],
+      [
+       "Lan",
+       "很简单。不过电用得很快，我每天带着充电器。",
+       "Rất đơn giản. Nhưng tốn pin nhanh, ngày nào mình cũng mang theo bộ sạc."
+      ],
+      [
+       "Minh",
+       "我爸爸还在听光盘和唱片呢，他说那样的音乐更好听。",
+       "Bố mình vẫn nghe đĩa CD với đĩa nhạc, ông bảo nghe thế hay hơn."
+      ],
+      [
+       "Lan",
+       "我用耳机听音乐。对了，晚上我把旅行的相片发给你。",
+       "Mình nghe nhạc bằng tai nghe. À, tối mình gửi bạn ảnh chuyến đi."
+      ]
+     ],
+     "w": "耳镜"
+    },
+    {
+     "id": "h4-74",
+     "title": "Đo lường và nghiên cứu",
+     "words": "研究 研制 测 测量 检测 毫米 厘米 毫升 平方 重量 量",
+     "g": [
+      "Đơn vị đo · 量 (liáng)",
+      "毫米 (mm), 厘米 (cm), 毫升 (ml), 平方米 (m²). 量 (liáng) / 测 / 测量 = đo: 量身高, 测量面积. 检测 = kiểm nghiệm, xét nghiệm. 重量 = trọng lượng. 研究 = nghiên cứu; 研制 = nghiên cứu chế tạo.",
+      [
+       [
+        "这个房间有二十平方米。",
+        "Căn phòng này rộng hai mươi mét vuông."
+       ],
+       [
+        "护士给我量了身高。",
+        "Y tá đo chiều cao cho mình."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你们实验室在研究什么？",
+       "Phòng thí nghiệm các bạn đang nghiên cứu gì?"
+      ],
+      [
+       "Lan",
+       "我们在研制一种新的药。每天要检测很多数据。",
+       "Bọn mình đang nghiên cứu chế tạo một loại thuốc mới. Ngày nào cũng phải kiểm nghiệm nhiều số liệu."
+      ],
+      [
+       "Minh",
+       "听起来很复杂。",
+       "Nghe phức tạp quá."
+      ],
+      [
+       "Lan",
+       "要很认真。药的重量要测得很准，一毫升水也不能多。",
+       "Phải rất cẩn thận. Trọng lượng thuốc phải đo thật chuẩn, một mi-li-lít nước cũng không được nhiều hơn."
+      ],
+      [
+       "Minh",
+       "我们公司只测量房子的面积，多少平方米，用厘米就够了。",
+       "Công ty mình chỉ đo diện tích nhà, bao nhiêu mét vuông, dùng xen-ti-mét là đủ."
+      ],
+      [
+       "Lan",
+       "我们有时候要用毫米。你也量一下我的身高吧，看看长{zhǎng}高了没有！",
+       "Bọn mình có lúc phải dùng mi-li-mét. Bạn cũng đo chiều cao cho mình đi, xem có cao lên không!"
+      ]
+     ],
+     "w": "毫厘"
+    },
+    {
+     "id": "h4-75",
+     "title": "Bao gồm và cấu tạo",
+     "words": "包括 包含 含 含有 含量 含义 构成 构造 结构 分为",
+     "g": [
+      "包括 / 包含 · 含有 · 分为",
+      "包括 = bao gồm (liệt kê các phần): 包括你在内一共五个人. 包含 = chứa đựng (thường trừu tượng). 含 / 含有 = chứa; 含量 = hàm lượng; 含义 = hàm ý. 构成 = cấu thành; 构造 = cấu tạo; 结构 = kết cấu. 分为 = chia thành.",
+      [
+       [
+        "这个价格包括早饭。",
+        "Giá này bao gồm bữa sáng."
+       ],
+       [
+        "这种水果含有很多糖。",
+        "Loại quả này chứa nhiều đường."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "老师，“好”这个字的结构是什么？",
+       "Thưa thầy, kết cấu của chữ \"好\" là gì ạ?"
+      ],
+      [
+       "王老师",
+       "这个字分为左右两部分，左边是“女”，右边是“子”。",
+       "Chữ này chia làm hai phần trái phải, bên trái là \"女\", bên phải là \"子\"."
+      ],
+      [
+       "Lan",
+       "每部分都有含义吗？",
+       "Mỗi phần đều có ý nghĩa ạ?"
+      ],
+      [
+       "王老师",
+       "对。很多汉字都是由几个部分构成的，每部分包含一定的意思。",
+       "Đúng. Nhiều chữ Hán do mấy phần cấu thành, mỗi phần chứa một ý nhất định."
+      ],
+      [
+       "Lan",
+       "汉字的构造真有意思。",
+       "Cấu tạo chữ Hán thú vị thật."
+      ],
+      [
+       "王老师",
+       "下次的课包括汉字的故事。一个汉字的“故事含量”，可能比一本书还高！",
+       "Buổi sau gồm cả câu chuyện về chữ Hán. \"Hàm lượng câu chuyện\" của một chữ Hán có khi còn cao hơn cả một cuốn sách!"
+      ]
+     ],
+     "w": "含构"
+    },
+    {
+     "id": "h4-76",
+     "title": "Đặc điểm",
+     "words": "特殊 特征 独特 典型 性质 细节 细致 显著 良好 优良 优美",
+     "g": [
+      "特征 / 特点 · 典型 · 显著",
+      "特点 / 特征 = đặc điểm, đặc trưng (特征 thiên về dấu hiệu nhận biết). 特殊 = đặc biệt (khác thường); 独特 = độc đáo. 典型 = điển hình. 性质 = tính chất. 细节 = chi tiết; 细致 = tỉ mỉ. 显著 = rõ rệt: 显著提高. 良好 / 优良 = tốt; 优美 = đẹp, duyên dáng.",
+      [
+       [
+        "这个城市最大的特征是到处都有树。",
+        "Đặc trưng lớn nhất của thành phố này là đâu cũng có cây."
+       ],
+       [
+        "他的汉语水平提高得很显著。",
+        "Trình độ tiếng Trung của anh ấy nâng cao rõ rệt."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你觉得越南菜有什么特点？",
+       "Bạn thấy món Việt có đặc điểm gì?"
+      ],
+      [
+       "Lan",
+       "很独特，酸、甜、辣都有，而且用很多新鲜的菜。",
+       "Rất độc đáo, có cả chua, ngọt, cay, lại dùng nhiều rau tươi."
+      ],
+      [
+       "Minh",
+       "河内的鸡肉米线就是典型的越南菜吧？",
+       "Bún gà Hà Nội là món Việt điển hình nhỉ?"
+      ],
+      [
+       "Lan",
+       "对。做得好的人很细致，每个细节都注意。",
+       "Đúng. Người nấu ngon rất tỉ mỉ, chi tiết nào cũng chú ý."
+      ],
+      [
+       "Minh",
+       "这家店服务良好，环境优美。",
+       "Phục vụ của quán này cũng tốt, không gian đẹp."
+      ],
+      [
+       "Lan",
+       "是。这里很特殊，一年四季都开着。我们给这家店写几句好话吧，菜的质量很优良！",
+       "Ừ. Chỗ này đặc biệt lắm, quanh năm đều mở cửa. Mình viết vài lời khen cho quán đi, chất lượng món ăn rất tốt!"
+      ]
+     ],
+     "w": "殊征"
+    },
+    {
+     "id": "h4-77",
+     "title": "Nguyên nhân và kết quả",
+     "words": "既然 既 于是 导致 引起 促使 可见 总之",
+     "g": [
+      "既然 … 就 · 导致 / 引起 · 于是",
+      "既然 … 就 = đã… thì: 既然你来了，就一起吃吧. 既 … 又 … = vừa… vừa… 导致 / 引起 = dẫn đến, gây ra (导致 thường kết quả xấu). 促使 = thúc đẩy, khiến. 于是 = thế là. 可见 = có thể thấy. 总之 = tóm lại.",
+      [
+       [
+        "既然你身体不舒服，就早一点儿回家吧。",
+        "Bạn đã không khoẻ thì về nhà sớm đi."
+       ],
+       [
+        "他既会说英语，又会说汉语。",
+        "Anh ấy vừa nói được tiếng Anh, vừa nói được tiếng Trung."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "昨天的大雨导致很多地方停电。",
+       "Trận mưa to hôm qua khiến nhiều nơi mất điện."
+      ],
+      [
+       "Lan",
+       "是吗？是什么引起的？",
+       "Vậy à? Do cái gì gây ra?"
+      ],
+      [
+       "Minh",
+       "雨水进了电线。于是电力公司马上派人去修。",
+       "Nước mưa vào dây điện. Thế là công ty điện lực lập tức cử người đi sửa."
+      ],
+      [
+       "Lan",
+       "这件事可以促使城市改进电线吧。",
+       "Chuyện này có thể khiến thành phố cải tiến đường dây điện."
+      ],
+      [
+       "Minh",
+       "对。三个小时就修好了，可见他们工作很快。",
+       "Đúng. Ba tiếng là sửa xong, có thể thấy họ làm việc nhanh."
+      ],
+      [
+       "Lan",
+       "总之，下大雨的时候要小心。既然天气预报说今天还有雨，我们就别出去了。",
+       "Tóm lại, lúc mưa to phải cẩn thận. Dự báo đã nói hôm nay còn mưa thì mình đừng ra ngoài nữa."
+      ]
+     ],
+     "w": "既致"
+    }
+   ]
+  },
+  {
+   "id": "h4u14",
+   "title": "Văn hoá & giải trí",
+   "goal": "Phim, sân khấu và thơ, truyền thống và lịch sử, lễ hội tiệc tùng, màu sắc hình dạng, đồ quý, tin tức và người nổi tiếng.",
+   "lessons": [
+    {
+     "id": "h4-78",
+     "title": "Phim và sân khấu",
+     "words": "动画片 角色 背景 高潮 台上 演讲 诗 诗人 首 著作 编",
+     "g": [
+      "Lượng từ 首 · 编",
+      "一首诗 / 一首歌 = một bài thơ / bài hát (首 = lượng từ). 编 = biên soạn, bịa: 编故事. 角色 = vai diễn; 背景 = bối cảnh; 高潮 = cao trào; 台上 = trên sân khấu. 演讲 = diễn thuyết. 动画片 = phim hoạt hình. 诗人 = nhà thơ; 著作 = tác phẩm (sách).",
+      [
+       [
+        "他给我们读了一首诗。",
+        "Anh ấy đọc cho bọn mình một bài thơ."
+       ],
+       [
+        "这个故事是他自己编的。",
+        "Câu chuyện này là anh ấy tự bịa ra."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "昨天的动画片你看了吗？",
+       "Phim hoạt hình hôm qua bạn xem chưa?"
+      ],
+      [
+       "Minh",
+       "看了。故事的背景是古代，主要角色是一个诗人。",
+       "Xem rồi. Bối cảnh câu chuyện là thời cổ đại, vai chính là một nhà thơ."
+      ],
+      [
+       "Lan",
+       "我最喜欢高潮的时候，他在台上读了一首诗，大家都哭了。",
+       "Mình thích nhất đoạn cao trào, ông ấy đọc một bài thơ trên sân khấu, mọi người đều khóc."
+      ],
+      [
+       "Minh",
+       "那首诗是真的吗？还是编的？",
+       "Bài thơ đó có thật không? Hay là bịa ra?"
+      ],
+      [
+       "Lan",
+       "是真的，在他的著作里有。",
+       "Có thật, trong tác phẩm của ông ấy có."
+      ],
+      [
+       "Minh",
+       "下周我们学校有演讲比赛，我想讲讲这个诗人。",
+       "Tuần sau trường mình có thi hùng biện, mình muốn nói về nhà thơ này."
+      ]
+     ],
+     "w": "潮诗"
+    },
+    {
+     "id": "h4-79",
+     "title": "Truyền thống và lịch sử",
+     "words": "传统 风俗 神话 神秘 经典 遗产 历史 近代 公元 流传 赏 王",
+     "g": [
+      "公元 + năm · 流传",
+      "公元 = Công nguyên: 公元前 = trước Công nguyên. 流传 = lưu truyền. 传统 = truyền thống; 风俗 = phong tục; 神话 = thần thoại; 神秘 = thần bí; 经典 = kinh điển; 遗产 = di sản. 历史 = lịch sử; 近代 = cận đại. 赏 = thưởng thức: 赏花 = ngắm hoa. 王 = vua.",
+      [
+       [
+        "这个故事从公元前就开始流传了。",
+        "Câu chuyện này lưu truyền từ trước Công nguyên."
+       ],
+       [
+        "春节的时候，人们喜欢赏花。",
+        "Dịp Tết, mọi người thích ngắm hoa."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "越南和中国有很多相同的风俗。",
+       "Việt Nam và Trung Quốc có nhiều phong tục giống nhau."
+      ],
+      [
+       "Minh",
+       "对，比如春节赏花，这个传统有很长的历史。",
+       "Đúng, ví dụ ngắm hoa ngày Tết, truyền thống này có lịch sử rất lâu."
+      ],
+      [
+       "Lan",
+       "还有很多神话故事，一直流传到今天。",
+       "Còn có nhiều chuyện thần thoại, lưu truyền đến tận hôm nay."
+      ],
+      [
+       "Minh",
+       "我很喜欢一个神秘的故事：古时候有一个王，很爱他的国家……",
+       "Mình rất thích một câu chuyện thần bí: thời xưa có một vị vua rất yêu đất nước mình…"
+      ],
+      [
+       "Lan",
+       "那是经典的故事！河内还有很多文化遗产。",
+       "Đó là câu chuyện kinh điển! Hà Nội còn có nhiều di sản văn hoá."
+      ],
+      [
+       "Minh",
+       "对。近代的历史我也想了解，公元一千年以后的事情太多了。",
+       "Ừ. Lịch sử cận đại mình cũng muốn tìm hiểu, chuyện sau năm 1000 Công nguyên nhiều quá."
+      ]
+     ],
+     "w": "俗遗"
+    },
+    {
+     "id": "h4-80",
+     "title": "Lễ hội và tiệc",
+     "words": "聚会 聚 集合 气球 祝福 热闹 红包 五颜六色 色彩 空~kong2 散 圆满",
+     "g": [
+      "聚 · 散 (sàn) · 有空 (kòng)",
+      "聚 / 聚会 = tụ tập, họp mặt; 散 (sàn) = tan: 聚会散了. 集合 = tập hợp. 空 (kòng) = thời gian rảnh: 有空. 热闹 = náo nhiệt; 祝福 = lời chúc, chúc phúc; 红包 = bao lì xì; 气球 = bóng bay; 五颜六色 = đủ màu sắc; 色彩 = sắc màu. 圆满 = trọn vẹn.",
+      [
+       [
+        "春节的时候，家人都聚在一起。",
+        "Dịp Tết cả nhà quây quần bên nhau."
+       ],
+       [
+        "晚会圆满结束了。",
+        "Buổi dạ hội kết thúc tốt đẹp."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "这个周末你有空{kòng}吗？我们班要开聚会。",
+       "Cuối tuần này bạn rảnh không? Lớp mình tổ chức họp mặt."
+      ],
+      [
+       "Minh",
+       "有空{kòng}！几点集合？",
+       "Rảnh! Mấy giờ tập trung?"
+      ],
+      [
+       "Lan",
+       "下午五点。我们会准备五颜六色的气球，还有很多好吃的。",
+       "Năm giờ chiều. Bọn mình sẽ chuẩn bị bóng bay đủ màu, còn nhiều đồ ăn ngon."
+      ],
+      [
+       "Minh",
+       "一定很热闹！要送礼物吗？",
+       "Chắc náo nhiệt lắm! Có phải tặng quà không?"
+      ],
+      [
+       "Lan",
+       "不用，每个人写一句祝福就行。老师还会给大家发红包！",
+       "Không cần, mỗi người viết một lời chúc là được. Cô còn phát lì xì cho mọi người nữa!"
+      ],
+      [
+       "Minh",
+       "太好了！希望聚会圆满成功，散了以后我们再去唱歌。",
+       "Tuyệt quá! Mong buổi họp mặt thành công tốt đẹp, tan rồi mình đi hát tiếp."
+      ]
+     ],
+     "w": "聚圆"
+    },
+    {
+     "id": "h4-81",
+     "title": "Màu sắc và hình dạng",
+     "words": "色 浅 鲜明 图案 圆 方 弯 粗 细",
+     "g": [
+      "Tính từ màu sắc, hình dạng",
+      "色 = màu: 红色, 浅色 (màu nhạt). 浅 = nhạt, nông ↔ 深. 鲜明 = rõ nét, tươi. 图案 = hoa văn. Hình dạng: 圆 (tròn), 方 (vuông), 弯 (cong), 粗 (to, thô), 细 (nhỏ, mảnh).",
+      [
+       [
+        "我喜欢浅色的衣服。",
+        "Mình thích quần áo màu nhạt."
+       ],
+       [
+        "这条路很弯，开车要小心。",
+        "Con đường này rất cong, lái xe phải cẩn thận."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "售货员",
+       "您想要什么样的盘子？圆的还是方的？",
+       "Chị muốn loại đĩa thế nào? Tròn hay vuông?"
+      ],
+      [
+       "Lan",
+       "圆的。有没有浅色的？",
+       "Tròn. Có loại màu nhạt không?"
+      ],
+      [
+       "售货员",
+       "有，这个是浅蓝色的，图案是花。",
+       "Có ạ, cái này màu xanh nhạt, hoa văn là hoa."
+      ],
+      [
+       "Lan",
+       "颜色很鲜明。这个上面的线太粗了，有细一点儿的吗？",
+       "Màu tươi lắm. Đường kẻ trên cái này to quá, có loại mảnh hơn không?"
+      ],
+      [
+       "售货员",
+       "这个细一点儿，边是弯的，很特别。",
+       "Cái này mảnh hơn, mép cong, rất đặc biệt."
+      ],
+      [
+       "Lan",
+       "好，我要这个。",
+       "Được, tôi lấy cái này."
+      ]
+     ],
+     "w": "浅鲜"
+    },
+    {
+     "id": "h4-82",
+     "title": "Đồ quý và đồ thủ công",
+     "words": "模型 宝 宝贵 宝石 玉 手工 牌 圈 卷 针",
+     "g": [
+      "宝贵 · 手工 · 圈 / 卷 (juǎn)",
+      "宝 = báu vật; 宝贵 = quý báu: 宝贵的时间. 宝石 = đá quý; 玉 = ngọc. 手工 = thủ công: 手工做的. 模型 = mô hình. 牌 = biển, nhãn: 牌子. 圈 = vòng: 一圈; 卷 (juǎn) = cuộn: 一卷纸; 针 = kim.",
+      [
+       [
+        "谢谢你宝贵的意见。",
+        "Cảm ơn ý kiến quý báu của bạn."
+       ],
+       [
+        "他在操场跑了五圈。",
+        "Anh ấy chạy năm vòng quanh sân."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你手上的这个玉很漂亮！",
+       "Miếng ngọc trên tay bạn đẹp quá!"
+      ],
+      [
+       "Lan",
+       "是我奶奶给我的，对我来说是宝，非常宝贵。",
+       "Là bà mình cho mình, với mình là báu vật, rất quý."
+      ],
+      [
+       "Minh",
+       "那家店卖的宝石都是手工做的吗？",
+       "Đá quý tiệm kia bán đều làm thủ công à?"
+      ],
+      [
+       "Lan",
+       "对，看门口的牌就知道了。店里还有很多手工的东西，比如一针一针做出来的衣服、小飞机模型。",
+       "Đúng, xem biển ở cửa là biết. Trong tiệm còn nhiều đồ thủ công, ví dụ quần áo khâu tay từng mũi kim, mô hình máy bay nhỏ."
+      ],
+      [
+       "Minh",
+       "我想买一个送给我妈妈。",
+       "Mình muốn mua một cái tặng mẹ."
+      ],
+      [
+       "Lan",
+       "好，我们去转一圈。别忘了带一卷{juǎn}纸，可以把东西包起来。",
+       "Được, mình đi dạo một vòng. Đừng quên mang một cuộn giấy, có thể gói đồ lại."
+      ]
+     ],
+     "w": "型玉"
+    },
+    {
+     "id": "h4-83",
+     "title": "Tin tức và người nổi tiếng",
+     "words": "采访 记载 来源 提供 提醒 标志 暗示 名人 著名",
+     "g": [
+      "根据 … 记载 · 提醒",
+      "记载 = ghi chép (trong sách sử). 来源 = nguồn: 信息来源. 提供 = cung cấp; 提醒 = nhắc nhở: 提醒我带伞. 采访 = phỏng vấn (báo chí). 标志 = biểu tượng, dấu hiệu; 暗示 = ám chỉ, gợi ý ngầm. 名人 = người nổi tiếng; 著名 = nổi tiếng (trang trọng).",
+      [
+       [
+        "根据书上的记载，这座桥有一千年的历史。",
+        "Theo ghi chép trong sách, cây cầu này có lịch sử một nghìn năm."
+       ],
+       [
+        "谢谢你提醒我！",
+        "Cảm ơn bạn đã nhắc mình!"
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "你今天采访了谁？",
+       "Hôm nay bạn phỏng vấn ai?"
+      ],
+      [
+       "Minh",
+       "一位著名的作家。他是我们城市的名人。",
+       "Một nhà văn nổi tiếng. Ông ấy là người nổi tiếng của thành phố mình."
+      ],
+      [
+       "Lan",
+       "他给你提供了什么新闻？",
+       "Ông ấy cung cấp cho bạn tin gì?"
+      ],
+      [
+       "Minh",
+       "他说他的新书很快就要出来了，还暗示书里有很多秘密。",
+       "Ông ấy nói sách mới sắp ra, còn úp mở rằng trong sách có nhiều bí mật."
+      ],
+      [
+       "Lan",
+       "这个信息来源可靠吗？",
+       "Nguồn tin này có đáng tin không?"
+      ],
+      [
+       "Minh",
+       "可靠，是他自己说的。你看他的名片上有一只鸟，那是他的标志。对了，你记得提醒我明天把文章写完！",
+       "Đáng tin, chính ông ấy nói. Bạn xem trên danh thiếp có một con chim, đó là biểu tượng của ông ấy. À, bạn nhắc mình mai viết xong bài nhé!"
+      ]
+     ],
+     "w": "载源"
+    }
+   ]
+  },
+  {
+   "id": "h4u15",
+   "title": "Thể thao & thử thách",
+   "goal": "Thi đấu, giải thưởng, cảm giác nhẹ nặng, các động tác, di chuyển và thay đổi.",
+   "lessons": [
+    {
+     "id": "h4-84",
+     "title": "Thi đấu",
+     "words": "运动会 运动员 亚运会 比分 打败 败 战胜 失败 赢得 获得",
+     "g": [
+      "A + 打败 / 战胜 + B · 输 / 败",
+      "打败 / 战胜 = đánh bại (A thắng B). 败 = thua (văn viết); 失败 = thất bại. 赢得 = giành được (chiến thắng, sự tôn trọng); 获得 = đạt được (giải, cơ hội). 比分 = tỉ số. 运动会 = đại hội thể thao; 运动员 = vận động viên; 亚运会 = Á vận hội.",
+      [
+       [
+        "我们队三比一战胜了对手。",
+        "Đội mình thắng đối thủ với tỉ số ba–một."
+       ],
+       [
+        "失败了不要紧，下次再来。",
+        "Thất bại không sao, lần sau làm lại."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "昨天的足球比赛比分是多少？",
+       "Tỉ số trận bóng đá hôm qua là bao nhiêu?"
+      ],
+      [
+       "Lan",
+       "二比一，越南队打败了对手！",
+       "Hai–một, đội Việt Nam đánh bại đối thủ!"
+      ],
+      [
+       "Minh",
+       "太好了！他们上次败了，这次终于赢了。",
+       "Tuyệt quá! Lần trước họ thua, lần này cuối cùng cũng thắng."
+      ],
+      [
+       "Lan",
+       "是啊。这些运动员都很年轻，下个月还要去参加亚运会。",
+       "Ừ. Các vận động viên này đều rất trẻ, tháng sau còn đi dự Á vận hội."
+      ],
+      [
+       "Minh",
+       "希望他们能获得金牌！",
+       "Mong họ giành được huy chương vàng!"
+      ],
+      [
+       "Lan",
+       "不管成功还是失败，他们都赢得了大家的支持。我们学校的运动会也快开始了，你参加吗？",
+       "Dù thành công hay thất bại, họ đều giành được sự ủng hộ của mọi người. Đại hội thể thao trường mình cũng sắp bắt đầu, bạn tham gia không?"
+      ]
+     ],
+     "w": "亚败"
+    },
+    {
+     "id": "h4-85",
+     "title": "Giải thưởng và thử thách",
+     "words": "奖 获奖 获 获取 挑战 关~guan2 率先 激烈",
+     "g": [
+      "获奖 · 接受挑战 · 过关",
+      "获奖 = đoạt giải; 奖 = giải thưởng: 一等奖. 获 / 获取 = đạt được, thu được (văn viết). 挑战 = thử thách, thách thức: 接受挑战. 关 = cửa ải, chặng: 过关 = vượt qua. 率先 = đi đầu, dẫn đầu. 激烈 = quyết liệt, gay gắt.",
+      [
+       [
+        "她的作品获了一等奖。",
+        "Tác phẩm của cô ấy đoạt giải nhất."
+       ],
+       [
+        "这次比赛很激烈，他率先完成了比赛。",
+        "Cuộc thi này rất quyết liệt, anh ấy là người đầu tiên hoàn thành."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "听说你参加的比赛获奖了！",
+       "Nghe nói cuộc thi bạn tham gia đoạt giải rồi!"
+      ],
+      [
+       "Minh",
+       "对，二等奖。比赛很激烈，一共有五关。",
+       "Đúng, giải nhì. Cuộc thi rất quyết liệt, tổng cộng có năm vòng."
+      ],
+      [
+       "Lan",
+       "最难的是哪一关？",
+       "Vòng nào khó nhất?"
+      ],
+      [
+       "Minh",
+       "最后一关。要在十分钟内获取信息，回答问题。别人都还在想，我率先回答了。",
+       "Vòng cuối. Phải thu thập thông tin trong mười phút, trả lời câu hỏi. Người khác còn đang nghĩ, mình trả lời đầu tiên."
+      ],
+      [
+       "Lan",
+       "真了不起！这是很大的挑战。",
+       "Giỏi thật! Đó là thử thách lớn."
+      ],
+      [
+       "Minh",
+       "我喜欢挑战。明年我还要参加，争取拿一等奖！",
+       "Mình thích thử thách. Năm sau mình còn tham gia, cố giành giải nhất!"
+      ]
+     ],
+     "w": "获战"
+    },
+    {
+     "id": "h4-86",
+     "title": "Nhẹ và nặng",
+     "words": "轻松 轻易 弱 透 透明 宽广 巨大 帅 松 沉",
+     "g": [
+      "轻松 / 轻易 · 透",
+      "轻松 = nhẹ nhàng, thoải mái; 轻易 = dễ dàng, tuỳ tiện: 不要轻易相信. 弱 = yếu; 沉 = nặng. 透 = thấm qua; (sau tính từ) cực kỳ: 湿透了 = ướt sũng. 透明 = trong suốt. 巨大 = to lớn; 宽广 = rộng lớn. 松 = lỏng. 帅 = đẹp trai.",
+      [
+       [
+        "别轻易相信别人的话。",
+        "Đừng dễ dàng tin lời người khác."
+       ],
+       [
+        "下了一场大雨，我的衣服都湿透了。",
+        "Mưa một trận to, quần áo mình ướt sũng."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "这个箱子真沉！里面是什么？",
+       "Cái thùng này nặng thật! Bên trong là gì vậy?"
+      ],
+      [
+       "Minh",
+       "是书。你拿那个小的吧，轻松一点儿。",
+       "Là sách. Bạn cầm cái nhỏ kia đi, nhẹ nhàng hơn."
+      ],
+      [
+       "Lan",
+       "我才不弱呢！别看我小，力气很大。",
+       "Mình không yếu đâu! Đừng thấy mình nhỏ, sức mình lớn lắm."
+      ],
+      [
+       "Minh",
+       "哈哈，好。你看，那个透明的袋子松了，东西要掉出来了。",
+       "Haha, được. Bạn xem, cái túi trong suốt kia lỏng rồi, đồ sắp rơi ra."
+      ],
+      [
+       "Lan",
+       "我来系{jì}好。新家真大！从阳台看出去，前面的湖好宽广！",
+       "Để mình buộc lại. Nhà mới rộng thật! Từ ban công nhìn ra, cái hồ phía trước mênh mông quá!"
+      ],
+      [
+       "Minh",
+       "搬一次家要用巨大的力气！以后真不能轻易搬了。你今天真帅，像个“搬家大哥”！",
+       "Chuyển nhà một lần tốn sức khủng khiếp! Sau này không dám chuyển tuỳ tiện nữa. Hôm nay bạn ngầu thật, như \"anh cả chuyển nhà\"!"
+      ]
+     ],
+     "w": "松弱"
+    },
+    {
+     "id": "h4-87",
+     "title": "Các động tác",
+     "words": "翻 抽 冲 投 贴 拉开 隔 隔开 挺~ting2 停下 并~bing2",
+     "g": [
+      "Động từ động tác tay",
+      "翻 = lật: 翻书; 抽 = rút: 抽出一张纸; 冲 = xông, lao: 冲进去; 投 = ném, bỏ vào: 投篮. 贴 = dán; 拉开 = kéo ra; 隔 / 隔开 = ngăn cách; 挺 = ưỡn thẳng: 挺起身体; 停下 = dừng lại. 并 = gộp lại, kề nhau: 并在一起.",
+      [
+       [
+        "请把书翻到第二十页。",
+        "Hãy lật sách đến trang hai mươi."
+       ],
+       [
+        "他把两张桌子并在一起。",
+        "Anh ấy ghép hai cái bàn lại với nhau."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "老师",
+       "大家把书翻到第五十页。",
+       "Mọi người lật sách đến trang năm mươi."
+      ],
+      [
+       "Lan",
+       "老师，我们要贴这些图片吗？",
+       "Thưa cô, bọn em phải dán những bức tranh này ạ?"
+      ],
+      [
+       "老师",
+       "对。先把桌子拉开，两张两张并在一起，中间隔开一点儿。",
+       "Đúng. Trước tiên kéo bàn ra, ghép từng hai cái lại, ở giữa cách ra một chút."
+      ],
+      [
+       "Minh",
+       "好。我先从包里抽出两张纸……啊，外边下雨了！我的自行车还在外边！",
+       "Vâng. Em rút trước hai tờ giấy trong cặp… Á, ngoài trời mưa rồi! Xe đạp của em còn ở ngoài!"
+      ],
+      [
+       "老师",
+       "别冲出去！停下，等雨小了再走。",
+       "Đừng lao ra ngoài! Dừng lại, đợi mưa nhỏ rồi hãy đi."
+      ],
+      [
+       "Lan",
+       "老师，做完了把作业投到这个箱子里吗？我们挺直身体站好，等您检查！",
+       "Thưa cô, làm xong bỏ bài vào thùng này ạ? Bọn em đứng ngay ngắn, thẳng lưng, chờ cô kiểm tra!"
+      ]
+     ],
+     "w": "翻抽"
+    },
+    {
+     "id": "h4-88",
+     "title": "Di chuyển và thay đổi",
+     "words": "移 移动 转动 转移 摆动 动摇 摆脱 被迫 引 引导",
+     "g": [
+      "移动 / 转移 · 被迫",
+      "移 / 移动 = di chuyển, dời. 转动 = xoay; 转移 = chuyển dời (sang chỗ khác, chủ đề khác). 摆动 = đung đưa; 动摇 = dao động, lung lay (cả nghĩa bóng). 摆脱 = thoát khỏi. 被迫 = bị ép, buộc phải. 引 / 引导 = dẫn, hướng dẫn.",
+      [
+       [
+        "大雨来了，村里的人被迫转移。",
+        "Mưa lớn đến, người trong làng buộc phải sơ tán."
+       ],
+       [
+        "他想摆脱压力，去旅行了。",
+        "Anh ấy muốn thoát khỏi áp lực, đi du lịch rồi."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "听说你们公司被迫移到别的城市了？",
+       "Nghe nói công ty bạn buộc phải dời sang thành phố khác?"
+      ],
+      [
+       "Lan",
+       "对，因为房租太贵了。大家都很不习惯。",
+       "Đúng, vì tiền thuê quá đắt. Mọi người đều không quen."
+      ],
+      [
+       "Minh",
+       "你想换工作吗？",
+       "Bạn muốn đổi việc không?"
+      ],
+      [
+       "Lan",
+       "有一点儿动摇。不过经理一直引导我们，我想再试试。",
+       "Hơi dao động. Nhưng quản lý luôn hướng dẫn bọn mình, mình muốn thử thêm."
+      ],
+      [
+       "Minh",
+       "那就好。别想太多，把注意力转移一下，周末去公园走走。",
+       "Thế thì tốt. Đừng nghĩ nhiều, chuyển sự chú ý đi chút, cuối tuần đi công viên dạo."
+      ],
+      [
+       "Lan",
+       "好主意。看树在风里摆动，能让我摆脱压力。",
+       "Ý hay. Nhìn cây đung đưa trong gió có thể giúp mình thoát khỏi áp lực."
+      ]
+     ],
+     "w": "移摇"
+    }
+   ]
+  },
+  {
+   "id": "h4u16",
+   "title": "Xã hội & pháp luật",
+   "goal": "Pháp luật và quyền lợi, chính trị và chính quyền, chiến tranh và hoà bình, địa vị xã hội, kết nối, các ngành nghề.",
+   "lessons": [
+    {
+     "id": "h4-89",
+     "title": "Pháp luật",
+     "words": "法 法律 法院 法官 权利 义务 诚信 措施 实施",
+     "g": [
+      "依法 · 权利 / 义务",
+      "法 / 法律 = pháp luật; 法院 = toà án; 法官 = thẩm phán. 权利 = quyền lợi; 义务 = nghĩa vụ (义务工作 = việc tình nguyện). 诚信 = chữ tín. 措施 = biện pháp; 实施 = thực thi: 实施新法律.",
+      [
+       [
+        "每个公民都有权利，也有义务。",
+        "Mỗi công dân đều có quyền lợi, cũng có nghĩa vụ."
+       ],
+       [
+        "城市采取了很多措施保护环境。",
+        "Thành phố đã áp dụng nhiều biện pháp bảo vệ môi trường."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "我想学法律，以后当法官。",
+       "Mình muốn học luật, sau này làm thẩm phán."
+      ],
+      [
+       "Minh",
+       "法官要很公平，还要讲诚信。",
+       "Thẩm phán phải rất công bằng, còn phải giữ chữ tín."
+      ],
+      [
+       "Lan",
+       "对。上个月我去法院看了一次，很有意思。",
+       "Đúng. Tháng trước mình đến toà án xem một lần, rất thú vị."
+      ],
+      [
+       "Minh",
+       "听说下个月开始实施新的交通法？",
+       "Nghe nói tháng sau bắt đầu thực thi luật giao thông mới?"
+      ],
+      [
+       "Lan",
+       "是。开车的时候不能打电话。这是保护大家安全的措施。",
+       "Ừ. Khi lái xe không được gọi điện thoại. Đây là biện pháp bảo vệ an toàn cho mọi người."
+      ],
+      [
+       "Minh",
+       "按照法律做事是每个人的义务。",
+       "Làm việc theo pháp luật là nghĩa vụ của mỗi người."
+      ]
+     ],
+     "w": "官权"
+    },
+    {
+     "id": "h4-90",
+     "title": "Chính trị và chính quyền",
+     "words": "政府 政治 总统 总理 官 官方 地方~difang2 外交官 统一 方针",
+     "g": [
+      "中央 / 地方 (dìfāng)",
+      "地方 đọc dìfāng (thanh 1) khi nghĩa là \"địa phương\" (đối lập trung ương): 地方政府; đọc dìfang khi là \"chỗ, nơi\". 政府 = chính phủ; 政治 = chính trị; 总统 = tổng thống; 总理 = thủ tướng; 官 = quan chức; 官方 = chính thức; 外交官 = nhà ngoại giao. 统一 = thống nhất; 方针 = phương châm.",
+      [
+       [
+        "这是官方的消息。",
+        "Đây là tin chính thức."
+       ],
+       [
+        "越南在1975年统一。",
+        "Việt Nam thống nhất năm 1975."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你关心政治吗？",
+       "Bạn có quan tâm chính trị không?"
+      ],
+      [
+       "Lan",
+       "有一点儿。我的叔叔是外交官，常常跟我说国际新闻。",
+       "Có một chút. Chú mình là nhà ngoại giao, hay kể tin quốc tế cho mình."
+      ],
+      [
+       "Minh",
+       "越南有总统吗？",
+       "Việt Nam có tổng thống không?"
+      ],
+      [
+       "Lan",
+       "越南有国家主席和总理。国家定方针，地方政府去实施。",
+       "Việt Nam có Chủ tịch nước và Thủ tướng. Nhà nước đặt phương châm, chính quyền địa phương thực hiện."
+      ],
+      [
+       "Minh",
+       "你叔叔是大官吗？",
+       "Chú bạn là quan lớn à?"
+      ],
+      [
+       "Lan",
+       "哈哈，不是。他说做外交官要先了解每个地方{dìfang}的文化。说官方的|话要很小心。",
+       "Haha, không phải. Chú bảo làm ngoại giao trước hết phải hiểu văn hoá từng nơi. Phát biểu chính thức thì phải hết sức cẩn thận."
+      ]
+     ],
+     "w": "政府"
+    },
+    {
+     "id": "h4-91",
+     "title": "Chiến tranh và hoà bình",
+     "words": "战争 战斗 战士 士兵 兵 敌人 指挥 征服 爱国 独立",
+     "g": [
+      "爱国 · 独立 · 战胜",
+      "战争 = chiến tranh; 战斗 = chiến đấu; 战士 / 士兵 / 兵 = chiến sĩ, binh lính; 敌人 = kẻ thù; 指挥 = chỉ huy; 征服 = chinh phục. 爱国 = yêu nước; 独立 = độc lập.",
+      [
+       [
+        "越南人民为了国家独立，战斗了很多年。",
+        "Nhân dân Việt Nam đã chiến đấu nhiều năm vì độc lập dân tộc."
+       ],
+       [
+        "和平比战争好一万倍。",
+        "Hoà bình tốt hơn chiến tranh vạn lần."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你爷爷当过兵吗？",
+       "Ông bạn từng đi lính không?"
+      ],
+      [
+       "Lan",
+       "当过。他年轻的时候是战士，参加过战争。",
+       "Từng đi. Hồi trẻ ông là chiến sĩ, từng tham gia chiến tranh."
+      ],
+      [
+       "Minh",
+       "他一定很爱国。",
+       "Ông chắc rất yêu nước."
+      ],
+      [
+       "Lan",
+       "是的。他说那时候士兵们都很勇敢，指挥他们的人也很了不起。",
+       "Đúng vậy. Ông nói hồi đó binh lính đều rất dũng cảm, người chỉ huy họ cũng rất phi thường."
+      ],
+      [
+       "Minh",
+       "敌人很强大吗？",
+       "Kẻ thù có mạnh không?"
+      ],
+      [
+       "Lan",
+       "很强大，可是没能征服越南。爷爷说，现在独立了、和平了，最重要的是好好生活。",
+       "Rất mạnh, nhưng không chinh phục được Việt Nam. Ông nói, giờ đã độc lập, hoà bình, quan trọng nhất là sống cho tốt."
+      ]
+     ],
+     "w": "斗兵"
+    },
+    {
+     "id": "h4-92",
+     "title": "Địa vị xã hội",
+     "words": "大众 地位 身份 移民 穷 穷人 机构 爱护 维护",
+     "g": [
+      "身份 · 地位 · 维护 / 爱护",
+      "身份 = thân phận, danh tính: 身份证. 地位 = địa vị. 大众 = đại chúng. 穷 / 穷人 = nghèo / người nghèo. 移民 = di cư, người di cư. 机构 = cơ quan, tổ chức. 维护 = bảo vệ, giữ gìn (quyền lợi, trật tự); 爱护 = yêu quý giữ gìn (đồ vật, trẻ em).",
+      [
+       [
+        "请给我看一下您的身份证。",
+        "Xin cho tôi xem chứng minh thư của anh."
+       ],
+       [
+        "我们要爱护公共的东西。",
+        "Chúng ta phải giữ gìn đồ dùng công cộng."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "你在什么机构工作？",
+       "Bạn làm ở tổ chức nào?"
+      ],
+      [
+       "Minh",
+       "一个帮助新移民的机构。很多人刚从别的国家来，语言不通，找不到工作，生活很穷。",
+       "Một tổ chức giúp người nhập cư mới. Nhiều người vừa từ nước khác đến, bất đồng ngôn ngữ, không tìm được việc, cuộc sống rất nghèo."
+      ],
+      [
+       "Lan",
+       "他们的地位很低吧？",
+       "Địa vị của họ chắc thấp lắm nhỉ?"
+      ],
+      [
+       "Minh",
+       "是。我们的工作就是维护穷人的权利。",
+       "Ừ. Công việc của bọn mình là bảo vệ quyền lợi người nghèo."
+      ],
+      [
+       "Lan",
+       "大众知道你们的工作吗？",
+       "Đại chúng có biết công việc của các bạn không?"
+      ],
+      [
+       "Minh",
+       "越来越多的人知道了。我们也教孩子们爱护环境、爱护别人。",
+       "Ngày càng nhiều người biết. Bọn mình cũng dạy trẻ em yêu quý môi trường, yêu thương người khác."
+      ]
+     ],
+     "w": "穷维"
+    },
+    {
+     "id": "h4-93",
+     "title": "Kết nối",
+     "words": "加入 参与 交换 交际 紧密 密切 深厚 依靠 离不开 支~zhi2",
+     "g": [
+      "跟 … 交换 · 依靠 · 离不开",
+      "交换 = trao đổi: 交换意见. 交际 = giao tiếp xã hội. 加入 = gia nhập; 参与 = tham gia (vào việc). 紧密 / 密切 = chặt chẽ, mật thiết. 深厚 = sâu đậm: 深厚的友谊. 依靠 = dựa vào; 离不开 = không thể thiếu. 支 = chống đỡ, chi: 支出.",
+      [
+       [
+        "我们交换了电话号码。",
+        "Bọn mình đã trao đổi số điện thoại."
+       ],
+       [
+        "两国的关系越来越密切。",
+        "Quan hệ hai nước ngày càng mật thiết."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "你加入学校的中文小组了吗？",
+       "Bạn đã vào nhóm tiếng Trung của trường chưa?"
+      ],
+      [
+       "Minh",
+       "加入了。我们常常和中国学生互相学习，他们教我汉语，我教他们越南话。",
+       "Vào rồi. Bọn mình hay học hỏi lẫn nhau với sinh viên Trung Quốc, họ dạy mình tiếng Trung, mình dạy họ tiếng Việt."
+      ],
+      [
+       "Lan",
+       "真好！这样可以提高交际能力。",
+       "Hay thật! Như vậy có thể nâng cao khả năng giao tiếp."
+      ],
+      [
+       "Minh",
+       "是。现在我们的感情很深厚，联系也很紧密。",
+       "Ừ. Giờ tình bạn bọn mình rất sâu đậm, liên lạc cũng rất chặt chẽ."
+      ],
+      [
+       "Lan",
+       "我也想参与。",
+       "Mình cũng muốn tham gia."
+      ],
+      [
+       "Minh",
+       "欢迎！学语言不能只依靠书，也离不开朋友。小组的钱由大家一起出，每个月五十块，买书的钱就从这里支。",
+       "Hoan nghênh! Học ngôn ngữ không thể chỉ dựa vào sách, cũng không thể thiếu bạn bè. Tiền của nhóm do mọi người cùng góp, mỗi tháng năm mươi tệ, tiền mua sách thì chi từ đây."
+      ]
+     ],
+     "w": "与厚"
+    },
+    {
+     "id": "h4-94",
+     "title": "Các ngành nghề",
+     "words": "行业 工程 个体 个别 各个 局 收获 赞助 投诉",
+     "g": [
+      "行业 · 个体 · 投诉",
+      "行业 = ngành nghề: 服务行业. 工程 = công trình. 个体 = cá thể, hộ kinh doanh cá thể. 个别 = cá biệt; 各个 = từng, các. 局 = cục, sở: 邮局, 公安局. 收获 = thu hoạch, thành quả; 赞助 = tài trợ; 投诉 = khiếu nại.",
+      [
+       [
+        "他在服务行业工作了十年。",
+        "Anh ấy làm trong ngành dịch vụ mười năm."
+       ],
+       [
+        "顾客投诉了这家饭馆。",
+        "Khách hàng đã khiếu nại nhà hàng này."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你家是做什么行业的？",
+       "Nhà bạn làm ngành gì?"
+      ],
+      [
+       "Lan",
+       "我爸爸是工程师，在一个大工程上工作。我妈妈做个体生意，开了一家小店。",
+       "Bố mình là kỹ sư, làm ở một công trình lớn. Mẹ mình kinh doanh cá thể, mở một cửa hàng nhỏ."
+      ],
+      [
+       "Minh",
+       "小店生意好吗？",
+       "Cửa hàng làm ăn tốt không?"
+      ],
+      [
+       "Lan",
+       "不错。各个方面都很好，只有个别顾客投诉过。",
+       "Khá tốt. Mọi mặt đều ổn, chỉ có cá biệt vài khách từng khiếu nại."
+      ],
+      [
+       "Minh",
+       "我们学校的晚会需要赞助，你妈妈愿意赞助吗？",
+       "Dạ hội trường mình cần tài trợ, mẹ bạn có muốn tài trợ không?"
+      ],
+      [
+       "Lan",
+       "我问问她。这一年她的收获很大，应该愿意。你可以去区里的文化局问问，也许他们也能帮忙。",
+       "Để mình hỏi mẹ. Năm nay mẹ mình thu được nhiều, chắc sẽ đồng ý. Bạn có thể đến sở văn hoá quận hỏi, có lẽ họ cũng giúp được."
+      ]
+     ],
+     "w": "局投"
+    }
+   ]
+  },
+  {
+   "id": "h4u17",
+   "title": "Nêu ý kiến & nhìn về tương lai",
+   "goal": "Nêu quan điểm, so sánh và kết luận, các mốc thời gian, tương lai và xu hướng, khẩu ngữ tự nhiên.",
+   "lessons": [
+    {
+     "id": "h4-95",
+     "title": "Nêu quan điểm",
+     "words": "保守 反映 针对 严重 究竟 一般来说 感兴趣 兴趣 吸引",
+     "g": [
+      "对 … 感兴趣 · 针对 · 究竟",
+      "对 … 感兴趣 = có hứng thú với; 兴趣 = hứng thú. 吸引 = thu hút. 针对 = nhắm vào, đối với (vấn đề cụ thể). 反映 = phản ánh: 反映问题. 严重 = nghiêm trọng. 保守 = bảo thủ. 究竟 = rốt cuộc (câu hỏi). 一般来说 = nói chung.",
+      [
+       [
+        "我对中国文化很感兴趣。",
+        "Mình rất có hứng thú với văn hoá Trung Quốc."
+       ],
+       [
+        "你究竟想不想去？",
+        "Rốt cuộc bạn có muốn đi không?"
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你觉得这本书究竟想说什么？",
+       "Bạn thấy cuốn sách này rốt cuộc muốn nói gì?"
+      ],
+      [
+       "Lan",
+       "一般来说，这样的书反映社会问题。这本书针对的是城市的环境问题。",
+       "Nói chung, loại sách này phản ánh vấn đề xã hội. Cuốn này nhắm vào vấn đề môi trường đô thị."
+      ],
+      [
+       "Minh",
+       "问题很严重吗？",
+       "Vấn đề có nghiêm trọng không?"
+      ],
+      [
+       "Lan",
+       "很严重。作者的看法很新，一点儿也不保守，所以吸引了很多年轻读者。",
+       "Rất nghiêm trọng. Quan điểm của tác giả rất mới, chẳng bảo thủ chút nào, nên thu hút nhiều độc giả trẻ."
+      ],
+      [
+       "Minh",
+       "我对这个问题也很感兴趣。",
+       "Mình cũng rất hứng thú với vấn đề này."
+      ],
+      [
+       "Lan",
+       "那我借给你看吧！看完我们交换一下看法。",
+       "Vậy mình cho bạn mượn đọc! Đọc xong mình trao đổi suy nghĩ với nhau."
+      ]
+     ],
+     "w": "守映"
+    },
+    {
+     "id": "h4-96",
+     "title": "So sánh và kết luận",
+     "words": "结论 对比 综合 结 在于 事物 情景 空间 内部",
+     "g": [
+      "对比 · 在于 · 得出结论",
+      "对比 = so sánh đối chiếu. 在于 = nằm ở, ở chỗ: 问题在于时间. 结论 = kết luận: 得出结论. 综合 = tổng hợp. 事物 = sự vật; 情景 = cảnh tượng, tình huống; 空间 = không gian; 内部 = nội bộ, bên trong. 结 = thắt, buộc: 结了一个结.",
+      [
+       [
+        "成功的原因在于坚持。",
+        "Nguyên nhân thành công nằm ở sự kiên trì."
+       ],
+       [
+        "我们综合大家的意见，得出了结论。",
+        "Chúng tôi tổng hợp ý kiến mọi người, rút ra kết luận."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "老师",
+       "今天我们对比一下城市和农村的生活。",
+       "Hôm nay chúng ta so sánh cuộc sống thành phố và nông thôn."
+      ],
+      [
+       "Lan",
+       "城市的空间很小，房子很贵；农村的空间大，可是机会少。",
+       "Thành phố không gian nhỏ, nhà đắt; nông thôn không gian rộng nhưng ít cơ hội."
+      ],
+      [
+       "Minh",
+       "我觉得问题在于工作。年轻人都想去城市找工作。",
+       "Em thấy vấn đề nằm ở việc làm. Người trẻ đều muốn lên thành phố tìm việc."
+      ],
+      [
+       "老师",
+       "很好。看事物要从内部看，也要从外部看。",
+       "Rất tốt. Nhìn sự vật phải nhìn từ bên trong, cũng phải nhìn từ bên ngoài."
+      ],
+      [
+       "Lan",
+       "我还记得小时候在农村的情景，很快乐。",
+       "Em vẫn nhớ cảnh hồi nhỏ ở nông thôn, rất vui."
+      ],
+      [
+       "老师",
+       "最后请大家综合今天的讨论，写一个结论。",
+       "Cuối cùng mời mọi người tổng hợp buổi thảo luận hôm nay, viết một kết luận."
+      ]
+     ],
+     "w": "综"
+    },
+    {
+     "id": "h4-97",
+     "title": "Các mốc thời gian",
+     "words": "期间 期限 期待 阶段 度过 上个月 下个月 月底 日历 末 底",
+     "g": [
+      "期间 · 期限 · 月底 / 月末",
+      "期间 = trong khoảng thời gian: 春节期间. 期限 = thời hạn. 阶段 = giai đoạn. 度过 = trải qua: 度过了快乐的童年. 期待 = mong đợi. 上个月 / 下个月 = tháng trước / tháng sau; 月底 / 月末 = cuối tháng; 底 = cuối; 末 = cuối: 周末. 日历 = lịch.",
+      [
+       [
+        "春节期间，商店都关门了。",
+        "Trong dịp Tết, cửa hàng đều đóng cửa."
+       ],
+       [
+        "我很期待下个月的旅行。",
+        "Mình rất mong chuyến du lịch tháng sau."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "这个项目的期限是什么时候？",
+       "Thời hạn của dự án này là khi nào?"
+      ],
+      [
+       "Minh",
+       "这个月底。现在是最后一个阶段了。",
+       "Cuối tháng này. Giờ là giai đoạn cuối cùng rồi."
+      ],
+      [
+       "Lan",
+       "上个月我们加了很多班，真不容易。",
+       "Tháng trước bọn mình tăng ca nhiều, thật không dễ."
+      ],
+      [
+       "Minh",
+       "是啊。项目期间大家都很累。我在日历上写了：月末交报告。",
+       "Ừ. Trong thời gian dự án ai cũng mệt. Mình đã ghi trên lịch: cuối tháng nộp báo cáo."
+      ],
+      [
+       "Lan",
+       "做完以后，下个月我们一起去旅行，好好度过一个假期！",
+       "Làm xong thì tháng sau mình cùng đi du lịch, tận hưởng một kỳ nghỉ cho đã!"
+      ],
+      [
+       "Minh",
+       "好！我很期待。年底公司还有晚会呢。",
+       "Được! Mình rất mong. Cuối năm công ty còn có dạ hội nữa."
+      ]
+     ],
+     "w": ""
+    },
+    {
+     "id": "h4-98",
+     "title": "Tương lai và xu hướng",
+     "words": "未来 前途 趋势 形势 预测 机遇 追求 奋斗 面临 迫切 处于",
+     "g": [
+      "面临 · 处于 · 趋势",
+      "面临 = đối mặt với: 面临困难. 处于 = ở vào (trạng thái): 处于发展阶段. 趋势 = xu thế; 形势 = tình hình; 预测 = dự đoán. 未来 = tương lai; 前途 = tiền đồ. 机遇 = cơ hội (lớn); 追求 = theo đuổi; 奋斗 = phấn đấu. 迫切 = cấp bách.",
+      [
+       [
+        "公司正面临很大的困难。",
+        "Công ty đang đối mặt với khó khăn lớn."
+       ],
+       [
+        "越南经济处于快速发展的阶段。",
+        "Kinh tế Việt Nam đang ở giai đoạn phát triển nhanh."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你觉得学汉语有前途吗？",
+       "Bạn thấy học tiếng Trung có tương lai không?"
+      ],
+      [
+       "Lan",
+       "当然有。现在中越两国合作越来越多，这是一个趋势。",
+       "Đương nhiên có. Bây giờ hợp tác Trung–Việt ngày càng nhiều, đó là một xu thế."
+      ],
+      [
+       "Minh",
+       "专家预测，未来十年需要很多会汉语的人。",
+       "Chuyên gia dự đoán, mười năm tới cần rất nhiều người biết tiếng Trung."
+      ],
+      [
+       "Lan",
+       "这是很好的机遇。不过我们也面临很多挑战，形势变化很快。",
+       "Đây là cơ hội rất tốt. Nhưng chúng ta cũng đối mặt nhiều thử thách, tình hình thay đổi rất nhanh."
+      ],
+      [
+       "Minh",
+       "对。我现在处于找工作的阶段，最迫切的是提高口语。",
+       "Đúng. Giờ mình đang trong giai đoạn tìm việc, cấp bách nhất là nâng cao khả năng nói."
+      ],
+      [
+       "Lan",
+       "追求梦想就要奋斗。加油！",
+       "Theo đuổi ước mơ thì phải phấn đấu. Cố lên!"
+      ]
+     ],
+     "w": "趋迫"
+    },
+    {
+     "id": "h4-99",
+     "title": "Khẩu ngữ tự nhiên",
+     "words": "啊~a2 呀 哪~na2 人家 似的 眼里 手里 随手 好~hao3 火~huo2 得~de3",
+     "g": [
+      "Trợ từ cuối câu 啊 / 呀 / 哪 · 人家 · 似的",
+      "啊 sau âm cuối a, e, i, o, ü đọc thành 呀; sau -n thành 哪 (na): 天哪! 啊 (ā) đứng đầu câu = ồ, a (ngạc nhiên). 人家 = người ta (cũng dùng tự chỉ mình khi làm nũng). 像 … 似的 = giống như. 好 (hào) = thích: 好学. 火 = đắt khách, nổi: 这家店很火. 随手 = tiện tay. 眼里 / 手里 = trong mắt / trong tay. Trợ từ 得 (de): 跑得快.",
+      [
+       [
+        "天哪{na}！你怎么来了？",
+        "Trời ơi! Sao bạn lại đến?"
+       ],
+       [
+        "他好{hào}学，什么都想知道。",
+        "Anh ấy ham học, cái gì cũng muốn biết."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "啊！你看，这家奶茶店好火呀！",
+       "A! Bạn xem, quán trà sữa này đông khách quá!"
+      ],
+      [
+       "Minh",
+       "是啊{a}，排了好长的队，像过{guò}节似的。",
+       "Ừ, xếp hàng dài thật, như ngày hội vậy."
+      ],
+      [
+       "Lan",
+       "人家都排队，我们也排吧。",
+       "Người ta đều xếp hàng, mình cũng xếp đi."
+      ],
+      [
+       "Minh",
+       "好吧。你手里拿的是什么？",
+       "Được thôi. Trong tay bạn cầm gì vậy?"
+      ],
+      [
+       "Lan",
+       "一本书，在路上随手买的。在我眼里，这家店的奶茶是最好喝的！",
+       "Một quyển sách, tiện tay mua trên đường. Trong mắt mình, trà sữa quán này ngon nhất!"
+      ],
+      [
+       "Minh",
+       "你跑得真快，已经排到前边了。天哪{na}，我们终于可以买了！",
+       "Bạn chạy nhanh thật, đã xếp lên phía trước rồi. Trời ơi, cuối cùng cũng mua được rồi!"
+      ]
+     ],
+     "w": "呀"
+    }
+   ]
+  }
+ ]
+}

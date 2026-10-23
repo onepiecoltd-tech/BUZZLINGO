@@ -1,0 +1,17 @@
+{
+  "name": "buzzlingo",
+  "private": true,
+  "description": "BuzzLingo: học tiếng Trung cho người Việt (prototype HTML/CSS/JS, không cần build).",
+  "scripts": {
+    "test": "node --test tests/core.test.js tests/content.test.js tests/curriculum.test.mjs tests/coach.test.mjs tests/eval.test.mjs tests/cloud.test.mjs",
+    "build:content": "node tools/build-content.mjs",
+    "eval:mock": "node eval/run-eval.mjs --mock good",
+    "eval:compare": "node eval/compare.mjs",
+    "eval": "node eval/run-eval.mjs",
+    "test:e2e": "node tests/e2e.cjs",
+    "test:e2e:ai": "node tests/e2e-ai.cjs",
+    "serve": "npx --yes http-server dist -p 8080 -c-1",
+    "test:e2e:cloud": "node tests/e2e-cloud.cjs",
+    "set-supabase": "node tools/set-supabase.mjs"
+  }
+}

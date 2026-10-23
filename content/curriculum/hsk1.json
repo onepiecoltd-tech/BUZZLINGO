@@ -1,0 +1,3394 @@
+{
+ "level": 1,
+ "title": "HSK 1 · Giao tiếp nền tảng",
+ "complete": true,
+ "units": [
+  {
+   "id": "h1u1",
+   "title": "Chào hỏi",
+   "goal": "Chào, cảm ơn, xin lỗi, giới thiệu “tôi là…”.",
+   "lessons": [
+    "l1-nihao",
+    "l2-woshi",
+    "l3-xiexie"
+   ]
+  },
+  {
+   "id": "h1u2",
+   "title": "Làm quen",
+   "goal": "Hỏi tên, quốc tịch, nghề nghiệp; giới thiệu bạn bè và gia đình.",
+   "lessons": [
+    {
+     "id": "h1-01",
+     "title": "Bạn tên là gì?",
+     "words": "叫 名字 什么 您 他 她 呢",
+     "g": [
+      "Hỏi tên với 什么 và 呢",
+      "什么 (gì) đứng đúng vị trí của thông tin cần hỏi, không đảo lên đầu câu như tiếng Anh. 呢 ở cuối một cụm ngắn nghĩa là “còn … thì sao?”. Dùng 您 để nói lịch sự với người lớn tuổi.",
+      [
+       [
+        "你叫什么名字？",
+        "Bạn tên là gì?"
+       ],
+       [
+        "我叫 Lan，你呢？",
+        "Mình tên Lan, còn bạn?"
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lý",
+       "你好！我叫李 Míng。你叫什么名字？",
+       "Chào bạn! Mình tên Lý Minh. Bạn tên gì?"
+      ],
+      [
+       "Blu",
+       "我叫 Blu。",
+       "Mình tên Blu."
+      ],
+      [
+       "Lý",
+       "她呢？她叫什么名字？",
+       "Còn chị ấy? Chị ấy tên gì?"
+      ],
+      [
+       "Blu",
+       "她叫 Bắp。",
+       "Chị ấy tên Bắp."
+      ],
+      [
+       "Bắp",
+       "您好！您叫什么名字？",
+       "Cháu chào bác! Bác tên là gì ạ?"
+      ],
+      [
+       "Bác bảo vệ",
+       "我叫王 Shān。他呢？",
+       "Bác tên là Vương Sơn. Còn cậu này?"
+      ],
+      [
+       "Bắp",
+       "他叫 Blu。",
+       "Em ấy tên Blu ạ."
+      ]
+     ],
+     "w": "叫"
+    },
+    {
+     "id": "h1-02",
+     "title": "Bạn là người nước nào?",
+     "words": "人 国 中国 哪 也 们 我们 你们 他们 她们",
+     "extra": "越南",
+     "g": [
+      "哪国人? · 也 · 们",
+      "Hỏi quốc tịch: 你是哪国人？ Trả lời: 我是 + tên nước + 人. 也 (cũng) luôn đứng trước động từ: 我也是越南人, không nói 也我是. 们 thêm sau đại từ để chỉ số nhiều: 我们, 你们, 他们, 她们.",
+      [
+       [
+        "我也是越南人。",
+        "Mình cũng là người Việt Nam."
+       ],
+       [
+        "她们是中国人。",
+        "Họ (các cô ấy) là người Trung Quốc."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lý",
+       "Blu，你是哪国人？",
+       "Blu, bạn là người nước nào?"
+      ],
+      [
+       "Blu",
+       "我是越南人。你呢？",
+       "Mình là người Việt Nam. Còn bạn?"
+      ],
+      [
+       "Lý",
+       "我是中国人。她也是越南人吗？",
+       "Mình là người Trung Quốc. Chị ấy cũng là người Việt Nam à?"
+      ],
+      [
+       "Blu",
+       "是，她叫 Bắp。我们是越南人。",
+       "Ừ, chị ấy tên Bắp. Bọn mình là người Việt Nam."
+      ],
+      [
+       "Lý",
+       "他们也是越南人吗？",
+       "Họ cũng là người Việt Nam à?"
+      ],
+      [
+       "Bắp",
+       "不是，他们是中国人。",
+       "Không, họ là người Trung Quốc."
+      ],
+      [
+       "Lý",
+       "你们好！",
+       "Chào hai chị em!"
+      ]
+     ],
+     "w": "人国"
+    },
+    {
+     "id": "h1-03",
+     "title": "Bạn làm nghề gì?",
+     "words": "学生 老师 医生 工作 做 同学 都",
+     "g": [
+      "做什么工作？ · 都",
+      "Hỏi nghề nghiệp: 你做什么工作？ Trả lời: 我是 + nghề. 都 (đều) đứng sau chủ ngữ, trước động từ, và chủ ngữ là số nhiều: 我们都是学生.",
+      [
+       [
+        "我们都是老师。",
+        "Chúng tôi đều là giáo viên."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lý",
+       "Bắp，你做什么工作？",
+       "Chị Bắp làm nghề gì ạ?"
+      ],
+      [
+       "Bắp",
+       "我是老师。你们呢？",
+       "Chị là giáo viên. Còn các em?"
+      ],
+      [
+       "Lý",
+       "我们都是学生。Blu 是我同学。",
+       "Bọn em đều là sinh viên. Blu là bạn học của em."
+      ],
+      [
+       "Bắp",
+       "他也是学生吗？",
+       "Cậu kia cũng là sinh viên à?"
+      ],
+      [
+       "Lý",
+       "不是，他是医生。",
+       "Không ạ, anh ấy là bác sĩ."
+      ],
+      [
+       "Blu",
+       "她是老师，我是学生！",
+       "Chị ấy là giáo viên, em là sinh viên!"
+      ]
+     ],
+     "w": "生"
+    },
+    {
+     "id": "h1-04",
+     "title": "Rất vui được quen bạn",
+     "words": "认识 很 高兴 介绍 朋友 这 那 谁",
+     "g": [
+      "很 + tính từ · 这 / 那 · 谁",
+      "Tính từ làm vị ngữ thường có 很 đứng trước: 我很高兴 (không dùng 是: 我是高兴 là sai). 这 (đây, này) chỉ gần, 那 (kia, đó) chỉ xa. 谁 (ai) đứng đúng chỗ thông tin cần hỏi: 他是谁？",
+      [
+       [
+        "我很高兴。",
+        "Tôi rất vui."
+       ],
+       [
+        "他是谁？",
+        "Anh ấy là ai?"
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Blu",
+       "Bắp，这是我朋友 Lý。",
+       "Chị Bắp, đây là bạn em, Lý."
+      ],
+      [
+       "Lý",
+       "你好！认识你很高兴。",
+       "Chào chị! Rất vui được quen chị."
+      ],
+      [
+       "Bắp",
+       "认识你我也很高兴！",
+       "Chị cũng rất vui được quen em!"
+      ],
+      [
+       "Lý",
+       "那是谁？",
+       "Kia là ai ạ?"
+      ],
+      [
+       "Bắp",
+       "那是我朋友 Hoa。她也是老师。我介绍你们认识！",
+       "Đó là bạn chị, Hoa. Chị ấy cũng là giáo viên. Để chị giới thiệu các em làm quen!"
+      ],
+      [
+       "Hoa",
+       "你们好！",
+       "Chào các em!"
+      ]
+     ],
+     "w": "很"
+    },
+    {
+     "id": "h1-05",
+     "title": "Gia đình tôi",
+     "words": "家 爸爸 妈妈 哥哥 姐姐 弟弟 妹妹 的",
+     "g": [
+      "的: của",
+      "的 nối người sở hữu với vật: 我的家 (nhà của tôi). Với người thân, bạn bè có thể bỏ 的: 我爸爸, 我朋友. Thứ tự ngược với tiếng Việt: 我的家 = nhà (của) tôi.",
+      [
+       [
+        "这是我的家。",
+        "Đây là nhà của tôi."
+       ],
+       [
+        "他是我哥哥。",
+        "Anh ấy là anh trai tôi."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lý",
+       "这是你们的家吗？",
+       "Đây là nhà của hai chị em à?"
+      ],
+      [
+       "Blu",
+       "是。这是我爸爸，这是我妈妈。",
+       "Ừ. Đây là bố mình, đây là mẹ mình."
+      ],
+      [
+       "Lý",
+       "她是谁？是你妹妹吗？",
+       "Đây là ai? Em gái bạn à?"
+      ],
+      [
+       "Blu",
+       "不是，她是我姐姐 Bắp！",
+       "Không, đó là chị gái mình, chị Bắp!"
+      ],
+      [
+       "Lý",
+       "那是你哥哥吗？",
+       "Kia là anh trai bạn à?"
+      ],
+      [
+       "Blu",
+       "那是我弟弟。他是学生。",
+       "Đó là em trai mình. Nó là học sinh."
+      ]
+     ],
+     "w": "家"
+    }
+   ]
+  },
+  {
+   "id": "h1u3",
+   "title": "Số đếm và gia đình",
+   "goal": "Đếm, nói tuổi, kể về gia đình, cho số điện thoại.",
+   "lessons": [
+    {
+     "id": "h1-06",
+     "title": "Số từ 1 đến 10",
+     "words": "一 二 三 四 五 六 七 八 九 十",
+     "g": [
+      "Số đếm 1–10",
+      "一 yī, 二 èr, 三 sān, 四 sì, 五 wǔ, 六 liù, 七 qī, 八 bā, 九 jiǔ, 十 shí. Số 11–99 ghép giống tiếng Việt: 十一 (11), 二十 (20), 二十五 (25).",
+      [
+       [
+        "十一、十二、二十",
+        "11, 12, 20"
+       ],
+       [
+        "三十五",
+        "35"
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Bắp",
+       "一、二、三！",
+       "Một, hai, ba!"
+      ],
+      [
+       "Blu",
+       "四、五、六！",
+       "Bốn, năm, sáu!"
+      ],
+      [
+       "Bắp",
+       "七、八、九、十！",
+       "Bảy, tám, chín, mười!"
+      ],
+      [
+       "Blu",
+       "十、九、八、七……",
+       "Mười, chín, tám, bảy…"
+      ],
+      [
+       "Bắp",
+       "很好！",
+       "Giỏi lắm!"
+      ]
+     ],
+     "w": "四八"
+    },
+    {
+     "id": "h1-07",
+     "title": "Nhà bạn có mấy người?",
+     "words": "有 没有 几 口 个 两 和",
+     "g": [
+      "有 / 没有 · 几 + lượng từ · 两",
+      "有 = có; phủ định là 没有 (không nói 不有). Hỏi số lượng nhỏ dùng 几 + lượng từ: 几个, 几口人. Trước lượng từ, số 2 là 两 chứ không phải 二: 两个人.",
+      [
+       [
+        "我有两个哥哥。",
+        "Tôi có hai anh trai."
+       ],
+       [
+        "他没有妹妹。",
+        "Anh ấy không có em gái."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lý",
+       "Blu，你家有几口人？",
+       "Blu, nhà bạn có mấy người?"
+      ],
+      [
+       "Blu",
+       "我家有五口人：爸爸、妈妈、姐姐、弟弟和我。",
+       "Nhà mình có năm người: bố, mẹ, chị gái, em trai và mình."
+      ],
+      [
+       "Lý",
+       "你有哥哥吗？",
+       "Bạn có anh trai không?"
+      ],
+      [
+       "Blu",
+       "没有。你有姐姐吗？",
+       "Không có. Bạn có chị gái không?"
+      ],
+      [
+       "Lý",
+       "我没有姐姐，有两个弟弟。",
+       "Mình không có chị gái, có hai em trai."
+      ],
+      [
+       "Bắp",
+       "两个弟弟？你家很好！",
+       "Hai em trai à? Nhà em vui nhỉ!"
+      ]
+     ],
+     "w": "口"
+    },
+    {
+     "id": "h1-08",
+     "title": "Bạn bao nhiêu tuổi?",
+     "words": "岁 多 大 小 今年 了",
+     "g": [
+      "Hỏi tuổi: 几岁 / 多大",
+      "Hỏi trẻ em: 你几岁了？ Hỏi người lớn: 你多大了？ 了 cuối câu cho biết “đã đến mức đó rồi”: 他五十岁了. Nói tuổi không cần 是: 我二十岁.",
+      [
+       [
+        "你几岁了？",
+        "Cháu mấy tuổi rồi?"
+       ],
+       [
+        "我今年二十岁。",
+        "Năm nay tôi hai mươi tuổi."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lý",
+       "Blu，你今年多大了？",
+       "Blu, năm nay bạn bao nhiêu tuổi?"
+      ],
+      [
+       "Blu",
+       "我今年十九岁。你呢？",
+       "Năm nay mình mười chín tuổi. Còn bạn?"
+      ],
+      [
+       "Lý",
+       "我二十岁。Bắp，你今年多大了？",
+       "Mình hai mươi. Chị Bắp năm nay bao nhiêu tuổi ạ?"
+      ],
+      [
+       "Bắp",
+       "这个……我很小！",
+       "Cái này… chị còn trẻ lắm!"
+      ],
+      [
+       "Blu",
+       "她今年二十五岁了！",
+       "Chị ấy năm nay hai mươi lăm tuổi rồi!"
+      ],
+      [
+       "Lý",
+       "你弟弟几岁了？",
+       "Em trai bạn mấy tuổi rồi?"
+      ],
+      [
+       "Blu",
+       "他很小，今年八岁。",
+       "Nó còn nhỏ, năm nay tám tuổi."
+      ]
+     ],
+     "w": "大小"
+    },
+    {
+     "id": "h1-09",
+     "title": "Ông bà và con cái",
+     "words": "爷爷 奶奶 儿子 女儿 孩子 家人 老人 小孩儿",
+     "g": [
+      "Số + lượng từ + danh từ",
+      "一个儿子, 两个孩子: 个 là lượng từ dùng nhiều nhất cho người và vật. Khi đã rõ, có thể lược danh từ: 儿子七岁，女儿五岁.",
+      [
+       [
+        "他们是我的家人。",
+        "Họ là người nhà tôi."
+       ],
+       [
+        "我家有两个老人。",
+        "Nhà tôi có hai người già."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lý",
+       "这是你爷爷和奶奶吗？",
+       "Đây là ông bà nội bạn à?"
+      ],
+      [
+       "Blu",
+       "是。我爷爷今年八十岁了，奶奶七十八岁。",
+       "Ừ. Ông nội mình năm nay tám mươi tuổi, bà bảy mươi tám."
+      ],
+      [
+       "Lý",
+       "你家人很多！",
+       "Nhà bạn đông người thật!"
+      ],
+      [
+       "Bắp",
+       "是。爷爷奶奶有三个孩子：两个儿子，一个女儿。",
+       "Đúng vậy. Ông bà có ba người con: hai con trai, một con gái."
+      ],
+      [
+       "Lý",
+       "那个小孩儿是谁？",
+       "Đứa bé kia là ai?"
+      ],
+      [
+       "Blu",
+       "他是我们的弟弟，今年八岁。",
+       "Đó là em trai bọn mình, năm nay tám tuổi."
+      ]
+     ],
+     "w": "子"
+    },
+    {
+     "id": "h1-10",
+     "title": "Nam và nữ",
+     "words": "男 女 男人 女人 男孩儿 女孩儿 男生 女生",
+     "g": [
+      "这个 / 那个 · 男的 / 女的",
+      "这 / 那 + lượng từ + danh từ: 这个女人 (người phụ nữ này), 那个男孩儿 (cậu bé kia). Nói giới tính bằng 男的 / 女的: 我们老师是女的.",
+      [
+       [
+        "那个男人是医生。",
+        "Người đàn ông kia là bác sĩ."
+       ],
+       [
+        "我们老师是女的。",
+        "Giáo viên của chúng tôi là nữ."
+       ],
+       [
+        "她有一个女孩儿。",
+        "Chị ấy có một bé gái."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Bắp",
+       "Blu，这是你的同学吗？",
+       "Blu, đây là các bạn học của em à?"
+      ],
+      [
+       "Blu",
+       "是。我有十个同学：六个男生，四个女生。",
+       "Vâng. Em có mười bạn học: sáu bạn nam, bốn bạn nữ."
+      ],
+      [
+       "Bắp",
+       "那个男孩儿是谁？",
+       "Cậu bé kia là ai?"
+      ],
+      [
+       "Blu",
+       "他是 Lý！",
+       "Đó là Lý!"
+      ],
+      [
+       "Bắp",
+       "这个女人是你们的老师吗？",
+       "Người phụ nữ này là cô giáo các em à?"
+      ],
+      [
+       "Blu",
+       "不是，她是 Lý 的妈妈。",
+       "Không ạ, đó là mẹ của Lý."
+      ]
+     ],
+     "w": "女男"
+    },
+    {
+     "id": "h1-11",
+     "title": "Số điện thoại của bạn là gì?",
+     "words": "电话 手机 号 多少 打电话 打 电 零",
+     "g": [
+      "Đọc số điện thoại · 多少",
+      "Số điện thoại đọc từng chữ số. Số 1 trong số điện thoại thường đọc là yāo để khỏi nhầm với 七 qī. 零 (líng) = số 0. 多少 dùng cho số lớn hoặc chưa biết, 几 cho số nhỏ.",
+      [
+       [
+        "我的电话是一{yāo}三九零零。",
+        "Số điện thoại của tôi là 13900."
+       ],
+       [
+        "多少人？",
+        "Bao nhiêu người?"
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lý",
+       "Blu，你的手机号是多少？",
+       "Blu, số di động của bạn là bao nhiêu?"
+      ],
+      [
+       "Blu",
+       "一{yāo}三九，零二八七，六五四三。",
+       "1-3-9, 0-2-8-7, 6-5-4-3."
+      ],
+      [
+       "Lý",
+       "你家有电话吗？",
+       "Nhà bạn có điện thoại bàn không?"
+      ],
+      [
+       "Blu",
+       "没有。你打我的手机。",
+       "Không có. Bạn gọi vào di động của mình nhé."
+      ],
+      [
+       "Lý",
+       "好，我打电话。",
+       "Được, mình gọi ngay đây."
+      ]
+     ],
+     "w": "电"
+    }
+   ]
+  },
+  {
+   "id": "h1u4",
+   "title": "Ở đâu, đi đâu",
+   "goal": "Nói nơi ở, hỏi chỗ, rủ đi, xin lỗi và đáp lời.",
+   "lessons": [
+    {
+     "id": "h1-12",
+     "title": "Bạn sống ở đâu?",
+     "words": "在 哪儿 这儿 那儿 住 学校 家里",
+     "g": [
+      "在: ở · 住在",
+      "在 + nơi chốn = ở đâu: 我在家里. 住在 + nơi chốn = sống ở: 我住在这儿. Hỏi: … 在哪儿？ 这儿 (ở đây), 那儿 (ở đó).",
+      [
+       [
+        "老师在学校。",
+        "Cô giáo ở trường."
+       ],
+       [
+        "你住在哪儿？",
+        "Bạn sống ở đâu?"
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "你住在哪儿？",
+       "Bạn sống ở đâu?"
+      ],
+      [
+       "Minh",
+       "我住在这儿。你呢？",
+       "Mình sống ở đây. Còn bạn?"
+      ],
+      [
+       "Lan",
+       "我家在那儿。",
+       "Nhà mình ở đằng kia."
+      ],
+      [
+       "Minh",
+       "你爸爸妈妈在家里吗？",
+       "Bố mẹ bạn có ở nhà không?"
+      ],
+      [
+       "Lan",
+       "我爸爸在家里，我妈妈在学校。她是老师。",
+       "Bố mình ở nhà, mẹ mình ở trường. Mẹ là giáo viên."
+      ]
+     ],
+     "w": "在"
+    },
+    {
+     "id": "h1-13",
+     "title": "Bạn đi đâu đấy?",
+     "words": "去 来 回 回家 医院 商店 饭店 吧",
+     "g": [
+      "去 / 来 · 吧",
+      "去 = đi (xa khỏi người nói), 来 = đến (về phía người nói). 去 + nơi chốn: 我去商店 (không cần giới từ). 吧 cuối câu làm lời đề nghị nhẹ nhàng: 你来吧！",
+      [
+       [
+        "我们回家吧。",
+        "Chúng ta về nhà đi."
+       ],
+       [
+        "他来我家。",
+        "Anh ấy đến nhà tôi."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你去哪儿？",
+       "Bạn đi đâu đấy?"
+      ],
+      [
+       "Lan",
+       "我去商店。你呢？",
+       "Mình đi cửa hàng. Còn bạn?"
+      ],
+      [
+       "Minh",
+       "我去医院，我妈妈在医院工作。",
+       "Mình đi bệnh viện, mẹ mình làm ở bệnh viện."
+      ],
+      [
+       "Lan",
+       "你回家吗？",
+       "Bạn có về nhà không?"
+      ],
+      [
+       "Minh",
+       "不回家。我去饭店，你来吧！",
+       "Không về. Mình đến nhà hàng, bạn đến đi!"
+      ],
+      [
+       "Lan",
+       "好，我来！",
+       "Được, mình tới!"
+      ]
+     ],
+     "w": "去"
+    },
+    {
+     "id": "h1-14",
+     "title": "Xin hỏi, … ở đâu?",
+     "words": "这里 那里 哪里 书店 图书馆 洗手间 请问",
+     "g": [
+      "请问 · Ở đây có … không?",
+      "Mở đầu câu hỏi lịch sự bằng 请问 (xin hỏi). Hỏi vị trí: A 在哪里？ Hỏi có hay không: 这里有 A 吗？ 这里 / 那里 / 哪里 giống 这儿 / 那儿 / 哪儿 nhưng trang trọng hơn một chút.",
+      [
+       [
+        "请问，图书馆在哪里？",
+        "Xin hỏi, thư viện ở đâu?"
+       ],
+       [
+        "那里有一个书店。",
+        "Ở đó có một hiệu sách."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "请问，洗手间在哪里？",
+       "Xin hỏi, nhà vệ sinh ở đâu ạ?"
+      ],
+      [
+       "Bác bảo vệ",
+       "在那里。",
+       "Ở đằng kia."
+      ],
+      [
+       "Lan",
+       "谢谢！请问，这里有书店吗？",
+       "Cảm ơn ạ! Xin hỏi, ở đây có hiệu sách không ạ?"
+      ],
+      [
+       "Bác bảo vệ",
+       "这里没有书店。图书馆在那儿。",
+       "Ở đây không có hiệu sách. Thư viện ở đằng kia."
+      ],
+      [
+       "Lan",
+       "好，我去图书馆。谢谢您！",
+       "Vâng, cháu đi thư viện. Cảm ơn bác!"
+      ],
+      [
+       "Bác bảo vệ",
+       "不客气。",
+       "Không có gì."
+      ]
+     ],
+     "w": "里"
+    },
+    {
+     "id": "h1-15",
+     "title": "Cùng đi nhé",
+     "words": "想 要 一起 现在 走 来到",
+     "g": [
+      "想 / 要: muốn, cần",
+      "想 + động từ = muốn (nhẹ nhàng): 我想去. 要 + động từ = muốn / cần / sắp làm (chắc chắn hơn): 我要回家. Phủ định thường dùng 不想: 我不想去. 一起 (cùng nhau) đứng trước động từ: 一起走.",
+      [
+       [
+        "我们来到中国了。",
+        "Chúng tôi đã đến Trung Quốc."
+       ],
+       [
+        "我想回家。",
+        "Tôi muốn về nhà."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你现在去哪儿？",
+       "Bây giờ bạn đi đâu?"
+      ],
+      [
+       "Lan",
+       "我想去饭店。你要一起去吗？",
+       "Mình muốn đi nhà hàng. Bạn có muốn đi cùng không?"
+      ],
+      [
+       "Minh",
+       "我现在不想去，我要回家。",
+       "Bây giờ mình không muốn đi, mình phải về nhà."
+      ],
+      [
+       "Lan",
+       "好吧。那我走了！再见！",
+       "Thôi được. Vậy mình đi đây! Tạm biệt!"
+      ],
+      [
+       "Minh",
+       "再见！",
+       "Tạm biệt!"
+      ]
+     ],
+     "w": "走"
+    },
+    {
+     "id": "h1-16",
+     "title": "Xin lỗi, không sao",
+     "words": "对不起 没关系 对 不对 错 没什么 没事儿",
+     "g": [
+      "Xin lỗi và đáp lại",
+      "Xin lỗi: 对不起. Đáp: 没关系 / 没事儿 (không sao). Được cảm ơn có thể đáp 不客气 hoặc 没什么. Xác nhận: 对 (đúng) / 不对 (không đúng). 我错了 = tôi sai rồi, tôi nhầm rồi.",
+      [
+       [
+        "对，我是学生。",
+        "Đúng, tôi là học sinh."
+       ],
+       [
+        "这个不对。",
+        "Cái này không đúng."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你好！你是 Hoa 吗？",
+       "Chào bạn! Bạn là Hoa phải không?"
+      ],
+      [
+       "Lan",
+       "不对，我不是 Hoa，我是 Lan。",
+       "Không phải, mình không phải Hoa, mình là Lan."
+      ],
+      [
+       "Minh",
+       "对不起！我错了。",
+       "Xin lỗi! Mình nhầm rồi."
+      ],
+      [
+       "Lan",
+       "没关系！没事儿。",
+       "Không sao! Không có gì đâu."
+      ],
+      [
+       "Minh",
+       "谢谢你！",
+       "Cảm ơn bạn!"
+      ],
+      [
+       "Lan",
+       "没什么。",
+       "Có gì đâu."
+      ]
+     ],
+     "w": "对"
+    }
+   ]
+  },
+  {
+   "id": "h1u5",
+   "title": "Thời gian",
+   "goal": "Nói thứ, ngày, giờ và lịch sinh hoạt hằng ngày.",
+   "lessons": [
+    {
+     "id": "h1-17",
+     "title": "Hôm nay thứ mấy?",
+     "words": "今天 明天 昨天 星期 星期天 星期日 月 日",
+     "g": [
+      "Thứ, ngày, tháng",
+      "Thứ: 星期一 (thứ hai) … 星期六 (thứ bảy); chủ nhật là 星期天 hoặc 星期日. Ngày tháng nói từ lớn đến nhỏ: 十月十六号 (ngày 16 tháng 10). Văn nói dùng 号, văn viết dùng 日. Hỏi: 今天星期几？ 今天几月几号？",
+      [
+       [
+        "星期日是星期天。",
+        "“星期日” cũng là chủ nhật."
+       ],
+       [
+        "十月一日",
+        "Ngày 1 tháng 10"
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "今天星期几？",
+       "Hôm nay thứ mấy?"
+      ],
+      [
+       "Minh",
+       "今天星期五。",
+       "Hôm nay thứ sáu."
+      ],
+      [
+       "Lan",
+       "明天是星期六，我们去饭店吧！",
+       "Mai là thứ bảy, mình đi nhà hàng nhé!"
+      ],
+      [
+       "Minh",
+       "我星期六要工作，星期天去吧。",
+       "Thứ bảy mình phải làm, chủ nhật đi nhé."
+      ],
+      [
+       "Lan",
+       "好！今天几月几号？",
+       "Được! Hôm nay ngày bao nhiêu tháng mấy?"
+      ],
+      [
+       "Minh",
+       "今天十月十六号，昨天是十五号。",
+       "Hôm nay ngày 16 tháng 10, hôm qua là ngày 15."
+      ]
+     ],
+     "w": "日月"
+    },
+    {
+     "id": "h1-18",
+     "title": "Mấy giờ rồi?",
+     "words": "点 分 半 差 时间 小时",
+     "g": [
+      "Giờ giấc",
+      "点 = giờ, 分 = phút, 半 = rưỡi: 八点半 (8:30), 九点十分 (9:10). 差 + số phút + giờ = giờ kém: 差十分九点 (9 giờ kém 10). 点 là thời điểm, 小时 là khoảng thời gian: 两个小时 (hai tiếng).",
+      [
+       [
+        "我九点十分去学校。",
+        "Tôi đến trường lúc 9:10."
+       ],
+       [
+        "我有两个小时。",
+        "Tôi có hai tiếng."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "现在几点？",
+       "Bây giờ mấy giờ?"
+      ],
+      [
+       "Lan",
+       "现在八点半。",
+       "Bây giờ tám giờ rưỡi."
+      ],
+      [
+       "Minh",
+       "你几点去学校？",
+       "Mấy giờ bạn đến trường?"
+      ],
+      [
+       "Lan",
+       "差十分九点。你有时间吗？",
+       "Chín giờ kém mười. Bạn có thời gian không?"
+      ],
+      [
+       "Minh",
+       "有，我有一个小时。",
+       "Có, mình có một tiếng."
+      ]
+     ],
+     "w": "点"
+    },
+    {
+     "id": "h1-19",
+     "title": "Một ngày của tôi",
+     "words": "早上 上午 中午 下午 晚上 起床 睡觉",
+     "g": [
+      "Thời gian đứng trước động từ",
+      "Từ chỉ thời gian đứng trước động từ (sau chủ ngữ hoặc đầu câu): 我六点半起床, 上午我去学校. Khác tiếng Việt hay nói cuối câu (“mình dậy lúc sáu rưỡi”).",
+      [
+       [
+        "我晚上十一点睡觉。",
+        "Tôi đi ngủ lúc 11 giờ tối."
+       ],
+       [
+        "下午我工作。",
+        "Buổi chiều tôi làm việc."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "你早上几点起床？",
+       "Buổi sáng bạn dậy lúc mấy giờ?"
+      ],
+      [
+       "Minh",
+       "我六点半起床。上午我去学校，下午我工作。",
+       "Mình dậy lúc sáu rưỡi. Buổi sáng mình đi học, buổi chiều đi làm."
+      ],
+      [
+       "Lan",
+       "中午你回家吗？",
+       "Buổi trưa bạn có về nhà không?"
+      ],
+      [
+       "Minh",
+       "不回家，我在学校。",
+       "Không, mình ở lại trường."
+      ],
+      [
+       "Lan",
+       "你晚上几点睡觉？",
+       "Buổi tối mấy giờ bạn đi ngủ?"
+      ],
+      [
+       "Minh",
+       "十一点。",
+       "Mười một giờ."
+      ]
+     ],
+     "w": "午"
+    },
+    {
+     "id": "h1-20",
+     "title": "Sinh nhật bạn là khi nào?",
+     "words": "年 去年 明年 前天 后天 生日 时候",
+     "g": [
+      "什么时候 · Năm",
+      "Hỏi thời điểm: 什么时候 (khi nào): 你什么时候回家？ Năm đọc từng chữ số: 二零二六年 (năm 2026). 去年, 今年, 明年; 前天 (hôm kia), 昨天, 今天, 明天, 后天 (ngày kia).",
+      [
+       [
+        "二零二六年",
+        "Năm 2026"
+       ],
+       [
+        "前天是星期三。",
+        "Hôm kia là thứ tư."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你的生日是几月几号？",
+       "Sinh nhật bạn là ngày nào?"
+      ],
+      [
+       "Lan",
+       "五月八号。你呢？",
+       "Ngày 8 tháng 5. Còn bạn?"
+      ],
+      [
+       "Minh",
+       "我的生日是后天！",
+       "Sinh nhật mình là ngày kia!"
+      ],
+      [
+       "Lan",
+       "是吗？你今年多大了？",
+       "Thế à? Năm nay bạn bao nhiêu tuổi?"
+      ],
+      [
+       "Minh",
+       "二十一岁。去年的生日我在中国，明年我想在家里。",
+       "Hai mốt tuổi. Sinh nhật năm ngoái mình ở Trung Quốc, năm sau mình muốn ở nhà."
+      ],
+      [
+       "Lan",
+       "你什么时候回家？",
+       "Khi nào bạn về nhà?"
+      ],
+      [
+       "Minh",
+       "明天回家。",
+       "Mai mình về."
+      ]
+     ],
+     "w": "年"
+    },
+    {
+     "id": "h1-21",
+     "title": "Đợi một chút",
+     "words": "等 一会儿 一下儿 马上 先 快 慢 早 晚",
+     "g": [
+      "等一下儿 · 先 … 再 …",
+      "等一下儿 / 等一会儿 = đợi một chút. 一下儿 sau động từ làm hành động nhẹ, ngắn: 等一下儿. 先 … 再 … = trước … rồi mới …: 你先走，我一会儿再来. 马上 = ngay lập tức.",
+      [
+       [
+        "我们慢慢走。",
+        "Chúng ta đi từ từ thôi."
+       ],
+       [
+        "明天我很早起床。",
+        "Mai tôi dậy rất sớm."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "你|好了吗？我们走吧！",
+       "Bạn xong chưa? Mình đi thôi!"
+      ],
+      [
+       "Minh",
+       "等一下儿！我马上好。",
+       "Đợi chút! Mình xong ngay đây."
+      ],
+      [
+       "Lan",
+       "快！现在很晚了。",
+       "Nhanh lên! Muộn lắm rồi."
+      ],
+      [
+       "Minh",
+       "你先走吧，我一会儿再来。",
+       "Bạn đi trước đi, lát nữa mình tới."
+      ],
+      [
+       "Lan",
+       "不，我等你。",
+       "Không, mình đợi bạn."
+      ],
+      [
+       "Minh",
+       "好了！走吧！",
+       "Xong rồi! Đi thôi!"
+      ]
+     ],
+     "w": "先"
+    },
+    {
+     "id": "h1-22",
+     "title": "Bạn có hay … không?",
+     "words": "有时候 常常 常 白天 半天 半年 日期",
+     "g": [
+      "Tần suất · thời lượng",
+      "常常 / 常 (thường xuyên), 有时候 (đôi khi) đứng trước động từ: 我常常去. Câu trả lời ngắn có thể chỉ dùng động từ: 常去. Thời lượng đứng sau động từ + 了: 住了半年 (đã sống nửa năm).",
+      [
+       [
+        "我等了你半天。",
+        "Tôi đợi bạn mãi."
+       ],
+       [
+        "今天的日期是十月十六号。",
+        "Ngày hôm nay là 16 tháng 10."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "你常常去图书馆吗？",
+       "Bạn có hay đi thư viện không?"
+      ],
+      [
+       "Minh",
+       "常去。白天我工作，晚上去图书馆。",
+       "Hay đi. Ban ngày mình làm việc, buổi tối đi thư viện."
+      ],
+      [
+       "Lan",
+       "你星期天也去吗？",
+       "Chủ nhật bạn cũng đi à?"
+      ],
+      [
+       "Minh",
+       "有时候去，有时候在家里。你呢？",
+       "Có lúc đi, có lúc ở nhà. Còn bạn?"
+      ],
+      [
+       "Lan",
+       "我不常去。我在中国住了半年，常常在家里。",
+       "Mình không hay đi. Mình sống ở Trung Quốc nửa năm, thường ở nhà."
+      ]
+     ],
+     "w": "半"
+    }
+   ]
+  },
+  {
+   "id": "h1u6",
+   "title": "Ăn uống",
+   "goal": "Gọi món, nói món mình thích, đói và khát.",
+   "lessons": [
+    {
+     "id": "h1-23",
+     "title": "Bạn muốn ăn gì?",
+     "words": "吃 喝 吃饭 饭 米饭 面条儿 水 茶",
+     "g": [
+      "吃什么？喝什么？",
+      "Động từ + 什么: 吃什么 (ăn gì), 喝什么 (uống gì). Gọi món dùng 要: 我要米饭. Người Trung cũng hay chào thân mật: 你吃饭了吗？ — giống người Việt hỏi “ăn cơm chưa”.",
+      [
+       [
+        "你吃饭了吗？",
+        "Bạn ăn cơm chưa?"
+       ],
+       [
+        "我要两个米饭。",
+        "Cho tôi hai (bát) cơm."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "中午了，我们去吃饭吧！",
+       "Trưa rồi, mình đi ăn cơm nhé!"
+      ],
+      [
+       "Minh",
+       "好！你想吃什么？",
+       "Được! Bạn muốn ăn gì?"
+      ],
+      [
+       "Lan",
+       "我想吃面条儿。你呢？",
+       "Mình muốn ăn mì. Còn bạn?"
+      ],
+      [
+       "Minh",
+       "我要米饭。你喝什么？",
+       "Mình gọi cơm. Bạn uống gì?"
+      ],
+      [
+       "Lan",
+       "我喝茶。",
+       "Mình uống trà."
+      ],
+      [
+       "Minh",
+       "我不喝茶，我喝水。",
+       "Mình không uống trà, mình uống nước."
+      ]
+     ],
+     "w": "吃"
+    },
+    {
+     "id": "h1-24",
+     "title": "Bữa sáng",
+     "words": "早饭 午饭 晚饭 面包 鸡蛋 牛奶 奶 包子",
+     "g": [
+      "Bữa ăn · 在 + nơi + động từ",
+      "早饭 (bữa sáng), 午饭 (bữa trưa), 晚饭 (bữa tối). Nơi chốn đứng trước động từ: 在学校吃 (ăn ở trường), không nói 吃在学校. 和 nối hai danh từ: 面包和鸡蛋.",
+      [
+       [
+        "我的孩子要喝奶。",
+        "Con tôi cần uống sữa."
+       ],
+       [
+        "我们在家里吃晚饭。",
+        "Chúng tôi ăn tối ở nhà."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你早饭吃什么？",
+       "Bữa sáng bạn ăn gì?"
+      ],
+      [
+       "Lan",
+       "我吃面包和鸡蛋，喝牛奶。你呢？",
+       "Mình ăn bánh mì với trứng, uống sữa. Còn bạn?"
+      ],
+      [
+       "Minh",
+       "我吃两个包子。",
+       "Mình ăn hai cái bánh bao."
+      ],
+      [
+       "Lan",
+       "你午饭在哪儿吃？",
+       "Bữa trưa bạn ăn ở đâu?"
+      ],
+      [
+       "Minh",
+       "在学校吃。晚饭在家里吃。",
+       "Ăn ở trường. Bữa tối ăn ở nhà."
+      ]
+     ],
+     "w": "奶"
+    },
+    {
+     "id": "h1-25",
+     "title": "Ngon quá!",
+     "words": "好吃 菜 肉 水果 太 非常 最",
+     "g": [
+      "太 … 了 · 非常 · 最",
+      "太 + tính từ + 了 = … quá: 太好吃了！ 非常 + tính từ = vô cùng: 非常好吃. 最 + tính từ = … nhất: 最好吃. Cả ba đều đứng trước tính từ.",
+      [
+       [
+        "今天太晚了。",
+        "Hôm nay muộn quá rồi."
+       ],
+       [
+        "这个菜最好吃。",
+        "Món này ngon nhất."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "这个菜非常好吃！",
+       "Món này ngon cực kỳ!"
+      ],
+      [
+       "Minh",
+       "是吗？我不吃肉。",
+       "Thế à? Mình không ăn thịt."
+      ],
+      [
+       "Lan",
+       "这个菜没有肉。你吃吧！",
+       "Món này không có thịt. Bạn ăn đi!"
+      ],
+      [
+       "Minh",
+       "太好吃了！",
+       "Ngon quá đi!"
+      ],
+      [
+       "Lan",
+       "我们吃水果吧。",
+       "Mình ăn hoa quả đi."
+      ],
+      [
+       "Minh",
+       "好。中国的水果最好吃！",
+       "Được. Hoa quả Trung Quốc ngon nhất!"
+      ]
+     ],
+     "w": "肉"
+    },
+    {
+     "id": "h1-26",
+     "title": "Đói và khát",
+     "words": "饿 渴 杯 杯子 一点儿 一些 别的",
+     "g": [
+      "一杯 · 一点儿 · 一些",
+      "一杯茶 (một cốc trà), 两杯水: 杯 là lượng từ, còn 杯子 là “cái cốc”. 一点儿 (một chút) đứng sau động từ hoặc trước danh từ: 吃一点儿, 一点儿水. 一些 = một ít, một số: 一些水果.",
+      [
+       [
+        "这是我的杯子。",
+        "Đây là cốc của tôi."
+       ],
+       [
+        "你要别的吗？",
+        "Bạn có cần thứ khác không?"
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你饿吗？",
+       "Bạn đói không?"
+      ],
+      [
+       "Lan",
+       "不饿，我很渴。",
+       "Không đói, mình khát lắm."
+      ],
+      [
+       "Minh",
+       "你喝一杯茶吧！",
+       "Bạn uống một cốc trà đi!"
+      ],
+      [
+       "Lan",
+       "好，谢谢。我要一杯水。",
+       "Được, cảm ơn. Mình lấy một cốc nước."
+      ],
+      [
+       "Minh",
+       "你要吃一些水果吗？",
+       "Bạn có muốn ăn ít hoa quả không?"
+      ],
+      [
+       "Lan",
+       "我吃一点儿。",
+       "Mình ăn một chút."
+      ]
+     ],
+     "w": "杯"
+    },
+    {
+     "id": "h1-27",
+     "title": "Ở nhà hàng",
+     "words": "请 请坐 请进 先生 小姐 还 还是 还有",
+     "g": [
+      "… 还是 …？ · 还 · 请",
+      "Câu hỏi lựa chọn: A 还是 B？ (A hay B?) — không thêm 吗: 你要面条儿还是米饭？ 还 = còn, nữa: 您还要别的吗？ 还有 = còn nữa (khi kể thêm). 请 + động từ = xin mời: 请进, 请坐. Gọi phụ nữ trẻ là 小姐 nay ít dùng trong nhà hàng; dùng kèm họ thì lịch sự: 王小姐.",
+      [
+       [
+        "请喝茶。",
+        "Mời uống trà."
+       ],
+       [
+        "王小姐，你好！",
+        "Chào cô Vương!"
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Phục vụ",
+       "您好！请进，请坐。",
+       "Chào anh! Mời vào, mời ngồi."
+      ],
+      [
+       "Minh",
+       "谢谢！请问，你们有面条儿吗？",
+       "Cảm ơn! Xin hỏi, quán có mì không?"
+      ],
+      [
+       "Phục vụ",
+       "有。先生，您要面条儿还是米饭？",
+       "Có ạ. Anh dùng mì hay cơm?"
+      ],
+      [
+       "Minh",
+       "我要面条儿。还有，我要一杯茶。",
+       "Tôi lấy mì. Còn nữa, cho tôi một cốc trà."
+      ],
+      [
+       "Phục vụ",
+       "好。您还要别的吗？",
+       "Vâng. Anh còn cần gì nữa không ạ?"
+      ],
+      [
+       "Minh",
+       "不要了，谢谢。",
+       "Không cần nữa, cảm ơn."
+      ]
+     ],
+     "w": "请"
+    }
+   ]
+  },
+  {
+   "id": "h1u7",
+   "title": "Mua sắm",
+   "goal": "Hỏi giá, trả giá, mua quần áo, so sánh hàng.",
+   "lessons": [
+    {
+     "id": "h1-28",
+     "title": "Bao nhiêu tiền?",
+     "words": "买 钱 块 元 毛 贵 百",
+     "g": [
+      "Hỏi giá · 块 / 毛 / 元",
+      "Hỏi giá: 多少钱？ Văn nói dùng 块 (đồng) và 毛 (hào = 1/10 đồng); văn viết, giá niêm yết dùng 元: 三块五毛 = 3,5 元. 百 = trăm: 一百块. Trả giá: 太贵了！… 吧.",
+      [
+       [
+        "一百元",
+        "Một trăm tệ"
+       ],
+       [
+        "这个三块五毛。",
+        "Cái này 3,5 đồng."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "你好！这个多少钱？",
+       "Chào anh! Cái này bao nhiêu tiền?"
+      ],
+      [
+       "Người bán",
+       "二十五块。",
+       "Hai mươi lăm đồng."
+      ],
+      [
+       "Lan",
+       "太贵了！二十块吧。",
+       "Đắt quá! Hai mươi đồng nhé."
+      ],
+      [
+       "Người bán",
+       "不贵！好，二十块。",
+       "Không đắt đâu! Thôi được, hai mươi đồng."
+      ],
+      [
+       "Lan",
+       "我买两个，四十块。",
+       "Tôi mua hai cái, bốn mươi đồng."
+      ],
+      [
+       "Người bán",
+       "好，谢谢！",
+       "Được, cảm ơn!"
+      ]
+     ],
+     "w": "买"
+    },
+    {
+     "id": "h1-29",
+     "title": "Mua quần áo",
+     "words": "衣服 穿 新 白 好看 一样 试 看",
+     "g": [
+      "Tính từ + 的 · 试一下儿",
+      "Tính từ + 的 có thể thay cho danh từ đã rõ: 白的 (cái màu trắng), 新的 (cái mới). 试一下儿 = thử một chút. 穿 dùng cho quần áo và giày: 穿衣服.",
+      [
+       [
+        "我们的衣服一样。",
+        "Quần áo của chúng ta giống nhau."
+       ],
+       [
+        "你看一下儿。",
+        "Bạn xem thử đi."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "我想买衣服。",
+       "Mình muốn mua quần áo."
+      ],
+      [
+       "Người bán",
+       "这个白的很好看，你试一下儿吧。",
+       "Cái màu trắng này đẹp lắm, bạn mặc thử đi."
+      ],
+      [
+       "Lan",
+       "你看，好看吗？",
+       "Bạn xem, đẹp không?"
+      ],
+      [
+       "Minh",
+       "很好看！你穿白的很好看。",
+       "Đẹp lắm! Bạn mặc màu trắng đẹp lắm."
+      ],
+      [
+       "Lan",
+       "这个衣服是新的吗？",
+       "Bộ này là hàng mới à?"
+      ],
+      [
+       "Người bán",
+       "是新的。我们这儿的衣服都是新的。",
+       "Mới ạ. Quần áo chỗ chúng tôi đều là hàng mới."
+      ]
+     ],
+     "w": "白"
+    },
+    {
+     "id": "h1-30",
+     "title": "Ở trung tâm thương mại",
+     "words": "商场 东西 钱包 拿 给 找 找到 包",
+     "g": [
+      "给 · 找",
+      "给 + người + vật: 给你一百块 (đưa bạn một trăm). 找 có hai nghĩa: tìm (找钱包) và trả lại tiền thừa (找你二十块). 找到 = tìm thấy. 拿好 = cầm chắc, cầm cẩn thận.",
+      [
+       [
+        "我找到我的钱包了。",
+        "Tôi tìm thấy ví rồi."
+       ],
+       [
+        "我的包在哪儿？",
+        "Túi của tôi đâu rồi?"
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你去商场买什么东西？",
+       "Bạn đi trung tâm thương mại mua gì?"
+      ],
+      [
+       "Lan",
+       "我想买一个钱包。",
+       "Mình muốn mua một cái ví."
+      ],
+      [
+       "Người bán",
+       "这个钱包很好看。",
+       "Cái ví này đẹp lắm."
+      ],
+      [
+       "Lan",
+       "多少钱？",
+       "Bao nhiêu tiền?"
+      ],
+      [
+       "Người bán",
+       "八十块。",
+       "Tám mươi đồng."
+      ],
+      [
+       "Lan",
+       "给你一百块。",
+       "Gửi anh một trăm."
+      ],
+      [
+       "Người bán",
+       "找你二十块。您拿好！",
+       "Trả lại chị hai mươi. Chị cầm cẩn thận nhé!"
+      ]
+     ],
+     "w": "给"
+    },
+    {
+     "id": "h1-31",
+     "title": "Bên này hay bên kia?",
+     "words": "这些 那些 哪些 这边 那边 有的 有些 比",
+     "g": [
+      "So sánh với 比",
+      "A 比 B + tính từ: 那边的比这边的好 (bên kia tốt hơn bên này). Không thêm 很 trước tính từ trong câu so sánh. 这些 / 那些 / 哪些 = những … này / kia / nào. 有的 … 有的 … = có cái … có cái ….",
+      [
+       [
+        "他比我大。",
+        "Anh ấy lớn tuổi hơn tôi."
+       ],
+       [
+        "这些是我的。",
+        "Những cái này là của tôi."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "这些水果多少钱？",
+       "Chỗ hoa quả này bao nhiêu tiền?"
+      ],
+      [
+       "Người bán",
+       "这边的十块，那边的八块。",
+       "Bên này mười đồng, bên kia tám đồng."
+      ],
+      [
+       "Lan",
+       "有的很好，有些不太好。",
+       "Có quả ngon, có quả không ngon lắm."
+      ],
+      [
+       "Người bán",
+       "你要哪些？",
+       "Chị lấy những quả nào?"
+      ],
+      [
+       "Lan",
+       "我要那些，那边的比这边的好。",
+       "Tôi lấy chỗ kia, bên kia ngon hơn bên này."
+      ]
+     ],
+     "w": "比"
+    },
+    {
+     "id": "h1-32",
+     "title": "Không cần đâu",
+     "words": "少 别 不用 不大 用 有用 别人",
+     "g": [
+      "别 · 不用 · 用",
+      "别 + động từ = đừng: 别看了 (đừng xem nữa). 不用 = không cần: 不用，谢谢. 不大 = không … lắm. 用 + công cụ + động từ: 我用手机买东西.",
+      [
+       [
+        "我用手机买东西。",
+        "Tôi dùng điện thoại để mua đồ."
+       ],
+       [
+        "我的钱很少。",
+        "Tôi có rất ít tiền."
+       ],
+       [
+        "这个不大。",
+        "Cái này không to lắm."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Người bán",
+       "你要包吗？",
+       "Chị cần túi không?"
+      ],
+      [
+       "Lan",
+       "不用，谢谢。我有包。",
+       "Không cần đâu, cảm ơn. Tôi có túi rồi."
+      ],
+      [
+       "Minh",
+       "你买的东西很多！",
+       "Bạn mua nhiều đồ quá!"
+      ],
+      [
+       "Lan",
+       "不多，这些是给别人的。",
+       "Không nhiều đâu, mấy cái này là cho người khác."
+      ],
+      [
+       "Minh",
+       "这个东西有用吗？",
+       "Cái này có ích không?"
+      ],
+      [
+       "Lan",
+       "很有用！你别看了，我们走吧。",
+       "Có ích lắm! Bạn đừng xem nữa, mình đi thôi."
+      ]
+     ],
+     "w": "少"
+    }
+   ]
+  },
+  {
+   "id": "h1u8",
+   "title": "Sở thích",
+   "goal": "Nói sở thích, rủ đi chơi thể thao, xem phim, kết bạn.",
+   "lessons": [
+    {
+     "id": "h1-33",
+     "title": "Bạn thích làm gì?",
+     "words": "爱好 喜欢 爱 唱歌 唱 歌 好听 跑",
+     "g": [
+      "喜欢 / 爱 + động từ",
+      "喜欢 + danh từ / động từ = thích: 喜欢唱歌. 爱 mạnh hơn (yêu, rất thích): 我爱唱歌. 有什么爱好？ = có sở thích gì? Trả lời: 我喜欢… / 我的爱好是….",
+      [
+       [
+        "我的爱好是唱歌。",
+        "Sở thích của tôi là ca hát."
+       ],
+       [
+        "我爱我的家。",
+        "Tôi yêu gia đình tôi."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你有什么爱好？",
+       "Bạn có sở thích gì?"
+      ],
+      [
+       "Lan",
+       "我喜欢唱歌。你呢？",
+       "Mình thích hát. Còn bạn?"
+      ],
+      [
+       "Minh",
+       "我不喜欢唱歌，我喜欢跑。我早上常常跑。",
+       "Mình không thích hát, mình thích chạy. Buổi sáng mình hay chạy."
+      ],
+      [
+       "Lan",
+       "你唱一个中国歌吧！",
+       "Bạn hát một bài hát Trung Quốc đi!"
+      ],
+      [
+       "Minh",
+       "不，我唱歌不好听。你唱吧！",
+       "Thôi, mình hát không hay đâu. Bạn hát đi!"
+      ],
+      [
+       "Lan",
+       "好！这个歌我最爱唱。",
+       "Được! Bài này mình thích hát nhất."
+      ]
+     ],
+     "w": "爱"
+    },
+    {
+     "id": "h1-34",
+     "title": "Chơi thể thao",
+     "words": "打球 球 玩儿 好玩儿 动 动作 一块儿 高",
+     "g": [
+      "Lặp động từ · 一块儿",
+      "Lặp động từ một âm tiết, giữa có 一, để nói “làm thử, làm một chút”: 动一动, 看一看. 一块儿 = 一起 (cùng nhau), hay dùng trong khẩu ngữ phía Bắc. 玩儿 = chơi; 好玩儿 = vui.",
+      [
+       [
+        "这个动作很好看。",
+        "Động tác này đẹp lắm."
+       ],
+       [
+        "他很高。",
+        "Anh ấy rất cao."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "星期天你想去哪儿玩儿？",
+       "Chủ nhật bạn muốn đi đâu chơi?"
+      ],
+      [
+       "Minh",
+       "我想去打球。你要一块儿去吗？",
+       "Mình muốn đi chơi bóng. Bạn có muốn đi cùng không?"
+      ],
+      [
+       "Lan",
+       "好玩儿吗？",
+       "Có vui không?"
+      ],
+      [
+       "Minh",
+       "很好玩儿！我朋友们都爱打球。",
+       "Vui lắm! Bạn bè mình đều thích chơi bóng."
+      ],
+      [
+       "Lan",
+       "好，我也去。我要多动一动。",
+       "Được, mình cũng đi. Mình cần vận động nhiều hơn."
+      ],
+      [
+       "Minh",
+       "太好了！",
+       "Tuyệt quá!"
+      ]
+     ],
+     "w": "动"
+    },
+    {
+     "id": "h1-35",
+     "title": "Đi xem phim",
+     "words": "电影 电影院 看到 看见 门票 有名 听到 听见",
+     "g": [
+      "看见 / 听见: động từ + kết quả",
+      "看 (nhìn) + 见 (thấy) = 看见: nhìn thấy. Tương tự 听见 (nghe thấy), 看到, 听到. Hỏi: 你看见了吗？ Trả lời: 看见了.",
+      [
+       [
+        "我听到电话了。",
+        "Tôi nghe thấy điện thoại rồi."
+       ],
+       [
+        "你听见了吗？",
+        "Bạn nghe thấy chưa?"
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "明天晚上我们去看电影，好吗？",
+       "Tối mai mình đi xem phim nhé?"
+      ],
+      [
+       "Lan",
+       "好！什么电影？",
+       "Được! Phim gì?"
+      ],
+      [
+       "Minh",
+       "一个中国电影，很有名。",
+       "Một bộ phim Trung Quốc, rất nổi tiếng."
+      ],
+      [
+       "Lan",
+       "电影院在哪儿？",
+       "Rạp chiếu phim ở đâu?"
+      ],
+      [
+       "Minh",
+       "在那儿，你看见了吗？",
+       "Ở đằng kia, bạn thấy chưa?"
+      ],
+      [
+       "Lan",
+       "看见了！门票多少钱？",
+       "Thấy rồi! Vé vào cửa bao nhiêu tiền?"
+      ],
+      [
+       "Minh",
+       "五十块。",
+       "Năm mươi đồng."
+      ]
+     ],
+     "w": "门"
+    },
+    {
+     "id": "h1-36",
+     "title": "Bạn trên mạng",
+     "words": "上网 网上 网友 男朋友 女朋友 小朋友 见面 送",
+     "g": [
+      "送 + người + vật · Bạn trai, bạn gái",
+      "送 + người + vật = tặng ai cái gì: 送她一个包. 男朋友 / 女朋友 = bạn trai / bạn gái (người yêu); bạn bè bình thường chỉ là 朋友. 小朋友 dùng để gọi trẻ em thân mật.",
+      [
+       [
+        "我在网上买东西。",
+        "Tôi mua đồ trên mạng."
+       ],
+       [
+        "小朋友，你几岁了？",
+        "Bé ơi, cháu mấy tuổi rồi?"
+       ],
+       [
+        "她有男朋友吗？",
+        "Cô ấy có bạn trai chưa?"
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "你常常上网吗？",
+       "Bạn có hay lên mạng không?"
+      ],
+      [
+       "Minh",
+       "常常上网。我有一个网友，她是中国人。",
+       "Hay lắm. Mình có một người bạn trên mạng, cô ấy là người Trung Quốc."
+      ],
+      [
+       "Lan",
+       "她是你的女朋友吗？",
+       "Cô ấy là bạn gái bạn à?"
+      ],
+      [
+       "Minh",
+       "不是！我们是朋友。明天我们见面。",
+       "Không phải! Bọn mình là bạn. Mai bọn mình gặp mặt."
+      ],
+      [
+       "Lan",
+       "你要送她什么？",
+       "Bạn định tặng cô ấy gì?"
+      ],
+      [
+       "Minh",
+       "我想送她一个越南的包。",
+       "Mình muốn tặng cô ấy một cái túi của Việt Nam."
+      ]
+     ],
+     "w": "网"
+    }
+   ]
+  },
+  {
+   "id": "h1u9",
+   "title": "Phương hướng và đi lại",
+   "goal": "Nói vị trí, hỏi đường, chọn phương tiện, mua vé.",
+   "lessons": [
+    {
+     "id": "h1-37",
+     "title": "Bên trái, bên phải",
+     "words": "左 右 左边 右边 前边 后边 旁边 中间",
+     "g": [
+      "Vị trí: mốc + phương hướng",
+      "Nói vị trí: 商店的旁边 (bên cạnh cửa hàng) — có thể bỏ 的: 商店旁边. A 在 B 和 C 中间 = A ở giữa B và C. Khác tiếng Việt: chỗ làm mốc đứng TRƯỚC từ chỉ phương hướng.",
+      [
+       [
+        "饭店在学校旁边。",
+        "Nhà hàng ở bên cạnh trường học."
+       ],
+       [
+        "我家前边有一个商店。",
+        "Phía trước nhà tôi có một cửa hàng."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "请问，洗手间在哪儿？",
+       "Xin hỏi, nhà vệ sinh ở đâu?"
+      ],
+      [
+       "Người bán",
+       "在前边，商店的旁边。",
+       "Ở phía trước, bên cạnh cửa hàng."
+      ],
+      [
+       "Lan",
+       "左边还是右边？",
+       "Bên trái hay bên phải?"
+      ],
+      [
+       "Người bán",
+       "右边。左边是书店。",
+       "Bên phải. Bên trái là hiệu sách."
+      ],
+      [
+       "Lan",
+       "书店后边是图书馆吗？",
+       "Sau hiệu sách là thư viện à?"
+      ],
+      [
+       "Người bán",
+       "不是，图书馆在商店和书店中间。",
+       "Không, thư viện ở giữa cửa hàng và hiệu sách."
+      ]
+     ],
+     "w": "左右"
+    },
+    {
+     "id": "h1-38",
+     "title": "Trên, dưới, trong, ngoài",
+     "words": "上 下 里 外 上边 下边 里边 外边",
+     "g": [
+      "上 / 下 / 里 / 外 sau danh từ",
+      "Danh từ + 上 / 下 / 里 / 外 chỉ vị trí: 包里 (trong túi), 车上 (trên xe), 门外 (ngoài cửa). Dạng đầy đủ: 上边, 下边, 里边, 外边 — có thể đứng một mình: 里边人很多.",
+      [
+       [
+        "上边有什么？",
+        "Ở trên có gì?"
+       ],
+       [
+        "外边有人。",
+        "Bên ngoài có người."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "我的手机在哪儿？",
+       "Điện thoại của mình đâu rồi?"
+      ],
+      [
+       "Lan",
+       "在包里吗？",
+       "Có ở trong túi không?"
+      ],
+      [
+       "Minh",
+       "包里没有。",
+       "Trong túi không có."
+      ],
+      [
+       "Lan",
+       "你看，在那个包下边！",
+       "Bạn xem, ở dưới cái túi kia kìa!"
+      ],
+      [
+       "Minh",
+       "对！谢谢你。我们去外边吧。",
+       "Đúng rồi! Cảm ơn bạn. Mình ra ngoài đi."
+      ],
+      [
+       "Lan",
+       "好，里边人太多了。",
+       "Được, trong này đông người quá."
+      ]
+     ],
+     "w": "上下"
+    },
+    {
+     "id": "h1-39",
+     "title": "Bạn đi bằng gì?",
+     "words": "坐 车 汽车 火车 飞机 开车 打车 飞",
+     "g": [
+      "坐 + phương tiện",
+      "Đi bằng phương tiện: 坐 + xe / tàu / máy bay: 坐火车, 坐飞机 (nghĩa đen là “ngồi”). Tự lái: 开车. Đi taxi: 打车. Câu đầy đủ: 我坐飞机回家.",
+      [
+       [
+        "飞机飞走了。",
+        "Máy bay bay đi rồi."
+       ],
+       [
+        "我坐汽车去学校。",
+        "Tôi đi ô tô đến trường."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "明天我回家。",
+       "Mai mình về nhà."
+      ],
+      [
+       "Lan",
+       "你坐火车还是坐飞机？",
+       "Bạn đi tàu hay đi máy bay?"
+      ],
+      [
+       "Minh",
+       "坐飞机。飞机很快，火车太慢了。",
+       "Đi máy bay. Máy bay nhanh, tàu chậm quá."
+      ],
+      [
+       "Lan",
+       "你家有车吗？",
+       "Nhà bạn có xe không?"
+      ],
+      [
+       "Minh",
+       "有，我爸爸开车。你呢？",
+       "Có, bố mình lái xe. Còn bạn?"
+      ],
+      [
+       "Lan",
+       "我家没有汽车。我常常打车。",
+       "Nhà mình không có ô tô. Mình hay đi taxi."
+      ]
+     ],
+     "w": "车"
+    },
+    {
+     "id": "h1-40",
+     "title": "Ở nhà ga, sân bay",
+     "words": "车站 站 机场 票 车票 机票 上车 下车 车上",
+     "g": [
+      "先 … 再 … · Lên xe, xuống xe",
+      "上车 = lên xe, 下车 = xuống xe; 在 + bến + 下车 = xuống ở bến nào. 先 … 再 … = trước … rồi …: 先买票，再上车.",
+      [
+       [
+        "我在下一站下车。",
+        "Tôi xuống ở bến sau."
+       ],
+       [
+        "车站人很多。",
+        "Ở bến xe rất đông người."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "请问，火车站在哪儿？",
+       "Xin hỏi, ga tàu ở đâu?"
+      ],
+      [
+       "Người đi đường",
+       "在前边。你去哪儿？",
+       "Ở phía trước. Bạn đi đâu?"
+      ],
+      [
+       "Lan",
+       "我去机场。我有机票，没有车票。",
+       "Tôi đi sân bay. Tôi có vé máy bay, chưa có vé xe."
+      ],
+      [
+       "Người đi đường",
+       "你先买票，再上车。",
+       "Bạn mua vé trước, rồi lên xe."
+      ],
+      [
+       "Lan",
+       "车上人多吗？",
+       "Trên xe có đông người không?"
+      ],
+      [
+       "Người đi đường",
+       "不多。你在机场站下车。",
+       "Không đông. Bạn xuống ở ga sân bay."
+      ]
+     ],
+     "w": "站"
+    },
+    {
+     "id": "h1-41",
+     "title": "Hỏi đường",
+     "words": "路 路口 马路 路上 远 从 到 怎么 走路",
+     "g": [
+      "从 … 到 … · 怎么走？",
+      "从 A 到 B = từ A đến B: 从这儿到学校. Hỏi đường: 去 + nơi + 怎么走？ 怎么 + động từ = làm thế nào: 怎么走, 怎么写.",
+      [
+       [
+        "从我家到学校不远。",
+        "Từ nhà tôi đến trường không xa."
+       ],
+       [
+        "这个怎么吃？",
+        "Cái này ăn thế nào?"
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "请问，去图书馆怎么走？",
+       "Xin hỏi, đến thư viện đi thế nào?"
+      ],
+      [
+       "Người đi đường",
+       "从这儿走，到前边的路口，在左边。",
+       "Từ đây đi, đến ngã tư phía trước, ở bên trái."
+      ],
+      [
+       "Lan",
+       "远吗？",
+       "Có xa không?"
+      ],
+      [
+       "Người đi đường",
+       "不远，走路很快。",
+       "Không xa, đi bộ nhanh thôi."
+      ],
+      [
+       "Lan",
+       "图书馆在马路那边吗？",
+       "Thư viện ở bên kia đường à?"
+      ],
+      [
+       "Người đi đường",
+       "对，在马路那边。路上|车很多，你慢一点儿。",
+       "Đúng, ở bên kia đường. Trên đường nhiều xe, bạn đi chậm thôi."
+      ]
+     ],
+     "w": "从"
+    },
+    {
+     "id": "h1-42",
+     "title": "Đông, tây, nam, bắc",
+     "words": "东 南 西 北 东边 南边 西边 北边 北京",
+     "extra": "河内",
+     "g": [
+      "Bốn phương",
+      "东 (đông), 南 (nam), 西 (tây), 北 (bắc); thêm 边 thành “phía …”: 东边, 北边. Người Trung nói 东南西北 (đông–nam–tây–bắc). A 在 B 的北边 = A ở phía bắc B.",
+      [
+       [
+        "东南西北",
+        "Đông, nam, tây, bắc"
+       ],
+       [
+        "北京在北边。",
+        "Bắc Kinh ở phía bắc."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你想去北京吗？",
+       "Bạn có muốn đi Bắc Kinh không?"
+      ],
+      [
+       "Lan",
+       "想去！北京在中国的北边，对吗？",
+       "Muốn chứ! Bắc Kinh ở phía bắc Trung Quốc, đúng không?"
+      ],
+      [
+       "Minh",
+       "对。越南在中国的南边。",
+       "Đúng. Việt Nam ở phía nam Trung Quốc."
+      ],
+      [
+       "Lan",
+       "河内在越南的北边。",
+       "Hà Nội ở phía bắc Việt Nam."
+      ],
+      [
+       "Minh",
+       "我们学校的东边有一个商场，西边有一个饭店。",
+       "Phía đông trường mình có một trung tâm thương mại, phía tây có một nhà hàng."
+      ],
+      [
+       "Lan",
+       "我们去西边的饭店吃饭吧！",
+       "Mình đi ăn ở nhà hàng phía tây đi!"
+      ]
+     ],
+     "w": "北东"
+    },
+    {
+     "id": "h1-43",
+     "title": "Vào và ra",
+     "words": "进 进来 进去 出 出来 出去 回来 回去 回到",
+     "g": [
+      "来 / 去 chỉ hướng",
+      "Động từ + 来 = hướng về phía người nói, + 去 = hướng ra xa: 进来 (vào đây), 进去 (vào đó), 出来 (ra đây), 出去 (ra ngoài), 回来 (về đây), 回去 (về đó). 回到 + nơi = trở về đến: 回到家.",
+      [
+       [
+        "我七点回到家。",
+        "Tôi về đến nhà lúc bảy giờ."
+       ],
+       [
+        "你出来吧！",
+        "Bạn ra đây đi!"
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "老师在里边吗？我们进去吧。",
+       "Cô giáo có ở trong không? Mình vào đi."
+      ],
+      [
+       "Minh",
+       "老师出去了。",
+       "Cô giáo ra ngoài rồi."
+      ],
+      [
+       "Lan",
+       "她什么时候回来？",
+       "Khi nào cô quay lại?"
+      ],
+      [
+       "Minh",
+       "她一会儿回来。",
+       "Lát nữa cô về."
+      ],
+      [
+       "Lan",
+       "那我们先回去吧。",
+       "Vậy mình về trước đi."
+      ],
+      [
+       "Minh",
+       "老师，您回来了！",
+       "Cô ơi, cô về rồi ạ!"
+      ],
+      [
+       "Cô giáo",
+       "请进来吧！",
+       "Mời các em vào!"
+      ]
+     ],
+     "w": "出进"
+    }
+   ]
+  },
+  {
+   "id": "h1u10",
+   "title": "Trường học",
+   "goal": "Nói về lớp học, môn học, bài thi và trường lớp.",
+   "lessons": [
+    {
+     "id": "h1-44",
+     "title": "Lên lớp",
+     "words": "学 学习 上课 下课 课 班 汉语 中文",
+     "g": [
+      "学 / 学习 · 汉语 / 中文",
+      "学 + môn = học gì: 学汉语. 学习 trang trọng hơn và hay đứng một mình: 我在学习. 汉语 và 中文 đều là “tiếng Trung”; 中文 hay dùng cho chữ viết, sách báo.",
+      [
+       [
+        "我在学习。",
+        "Tôi đang học."
+       ],
+       [
+        "这个课很有用。",
+        "Bài học này rất có ích."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你学习什么？",
+       "Bạn học gì?"
+      ],
+      [
+       "Lan",
+       "我学汉语。",
+       "Mình học tiếng Trung."
+      ],
+      [
+       "Minh",
+       "你们班有多少学生？",
+       "Lớp bạn có bao nhiêu học viên?"
+      ],
+      [
+       "Lan",
+       "我们班有十五个学生。我们早上八点上课，十一点下课。",
+       "Lớp mình có mười lăm người. Bọn mình vào học lúc tám giờ sáng, mười một giờ tan."
+      ],
+      [
+       "Minh",
+       "你喜欢中文课吗？",
+       "Bạn có thích giờ học tiếng Trung không?"
+      ],
+      [
+       "Lan",
+       "很喜欢！我们的老师非常好。",
+       "Rất thích! Cô giáo bọn mình tốt lắm."
+      ]
+     ],
+     "w": "学"
+    },
+    {
+     "id": "h1-45",
+     "title": "Học chữ Hán",
+     "words": "字 汉字 写 读 听 说 课本 课文",
+     "g": [
+      "听 说 读 写",
+      "Bốn kỹ năng: 听 (nghe), 说 (nói), 读 (đọc), 写 (viết). Hỏi cách đọc / cách viết: 这个字怎么读？ / 怎么写？ 说 + ngôn ngữ: 说汉语.",
+      [
+       [
+        "这个字怎么写？",
+        "Chữ này viết thế nào?"
+       ],
+       [
+        "我说汉语。",
+        "Tôi nói tiếng Trung."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "这个字怎么读？",
+       "Chữ này đọc thế nào?"
+      ],
+      [
+       "Minh",
+       "这个字读 hǎo，是“好”。",
+       "Chữ này đọc là hǎo, là chữ “好”."
+      ],
+      [
+       "Lan",
+       "我喜欢写汉字。",
+       "Mình thích viết chữ Hán."
+      ],
+      [
+       "Minh",
+       "我们读一下儿课文吧。",
+       "Mình đọc bài khoá một chút đi."
+      ],
+      [
+       "Lan",
+       "好。你说，我听。",
+       "Được. Bạn nói, mình nghe."
+      ],
+      [
+       "Minh",
+       "课本在哪儿？",
+       "Sách giáo khoa đâu?"
+      ]
+     ],
+     "w": "字写"
+    },
+    {
+     "id": "h1-46",
+     "title": "Bài thi",
+     "words": "考 考试 难 问 回答 知道 明白 听写",
+     "g": [
+      "Động từ + kết quả: 回答对了",
+      "Sau động từ có thể thêm từ chỉ kết quả: 回答对了 (trả lời đúng rồi), 写错了 (viết sai rồi), 听明白了 (nghe hiểu rồi). 知道 = biết (thông tin), 明白 = hiểu.",
+      [
+       [
+        "我写错了。",
+        "Tôi viết sai rồi."
+       ],
+       [
+        "你听明白了吗？",
+        "Bạn nghe hiểu chưa?"
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "明天有考试，你知道吗？",
+       "Mai có bài thi, bạn biết không?"
+      ],
+      [
+       "Minh",
+       "知道。考什么？",
+       "Biết. Thi cái gì?"
+      ],
+      [
+       "Lan",
+       "考听写和课文。难吗？",
+       "Thi nghe viết và bài khoá. Có khó không?"
+      ],
+      [
+       "Minh",
+       "不难。我问你：这个字你明白吗？",
+       "Không khó. Mình hỏi bạn: chữ này bạn hiểu không?"
+      ],
+      [
+       "Lan",
+       "明白，这是“学”。",
+       "Hiểu, đây là chữ “学”."
+      ],
+      [
+       "Minh",
+       "对！你回答对了。",
+       "Đúng! Bạn trả lời đúng rồi."
+      ]
+     ],
+     "w": "问"
+    },
+    {
+     "id": "h1-47",
+     "title": "Trường của tôi",
+     "words": "大学 大学生 中学 中学生 小学 小学生 学院 教学楼",
+     "g": [
+      "在 + nơi + động từ",
+      "Nói nơi học / làm: 我在大学学习, 他在中学工作. Các cấp: 小学 (tiểu học), 中学 (trung học), 大学 (đại học); người học: 小学生, 中学生, 大学生.",
+      [
+       [
+        "我妹妹在小学。",
+        "Em gái tôi học tiểu học."
+       ],
+       [
+        "他在中学工作。",
+        "Anh ấy làm việc ở trường trung học."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你是大学生吗？",
+       "Bạn là sinh viên à?"
+      ],
+      [
+       "Lan",
+       "是，我在河内的一个大学学习。你呢？",
+       "Ừ, mình học ở một trường đại học ở Hà Nội. Còn bạn?"
+      ],
+      [
+       "Minh",
+       "我是中学生。我弟弟是小学生。",
+       "Mình là học sinh trung học. Em trai mình là học sinh tiểu học."
+      ],
+      [
+       "Lan",
+       "你们学校大吗？",
+       "Trường bạn có to không?"
+      ],
+      [
+       "Minh",
+       "很大，有三个教学楼。",
+       "Rất to, có ba toà giảng đường."
+      ],
+      [
+       "Lan",
+       "我们大学有很多学院。",
+       "Đại học mình có nhiều học viện."
+      ]
+     ],
+     "w": "中"
+    },
+    {
+     "id": "h1-48",
+     "title": "Sách vở",
+     "words": "书 书包 本子 本 页 第 桌子 子",
+     "g": [
+      "Lượng từ 本 · 第 + số",
+      "本 dùng cho sách vở: 两本书. 第 + số = số thứ tự: 第八课 (bài thứ tám), 第二十页 (trang 20). Hỏi: 第几课？",
+      [
+       [
+        "我有三本书。",
+        "Tôi có ba quyển sách."
+       ],
+       [
+        "这是第一页。",
+        "Đây là trang đầu tiên."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "你的书包里有什么？",
+       "Trong cặp bạn có gì?"
+      ],
+      [
+       "Minh",
+       "有两本书和三个本子。",
+       "Có hai quyển sách và ba quyển vở."
+      ],
+      [
+       "Lan",
+       "今天我们学第几课？",
+       "Hôm nay chúng ta học bài thứ mấy?"
+      ],
+      [
+       "Minh",
+       "第八课。请看课本第二十页。",
+       "Bài tám. Mời xem trang hai mươi trong sách giáo khoa."
+      ],
+      [
+       "Lan",
+       "我的课本在桌子上。",
+       "Sách giáo khoa của mình ở trên bàn."
+      ]
+     ],
+     "w": "书本"
+    },
+    {
+     "id": "h1-49",
+     "title": "Đi học, nghỉ học",
+     "words": "上学 放学 放假 请假 读书 认真 教 外语",
+     "g": [
+      "教 + người + môn",
+      "教 + người + môn = dạy ai môn gì: 他教我们汉语. 上学 / 放学 = đi học / tan học; 放假 = được nghỉ (lễ); 请假 = xin nghỉ. 下个月 = tháng sau, 上个月 = tháng trước.",
+      [
+       [
+        "她教我们汉语。",
+        "Cô ấy dạy chúng tôi tiếng Trung."
+       ],
+       [
+        "他学习很认真。",
+        "Anh ấy học rất chăm chỉ."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你几点放学？",
+       "Mấy giờ bạn tan học?"
+      ],
+      [
+       "Lan",
+       "下午四点。明天我不上学，我请假了。",
+       "Bốn giờ chiều. Mai mình không đi học, mình xin nghỉ rồi."
+      ],
+      [
+       "Minh",
+       "你明天去哪儿？",
+       "Mai bạn đi đâu?"
+      ],
+      [
+       "Lan",
+       "我回家。下个月我们放假。",
+       "Mình về nhà. Tháng sau bọn mình được nghỉ."
+      ],
+      [
+       "Minh",
+       "你的老师教什么？",
+       "Thầy giáo bạn dạy gì?"
+      ],
+      [
+       "Lan",
+       "他教外语。他很认真，我们都很喜欢读书。",
+       "Thầy dạy ngoại ngữ. Thầy rất tận tâm, bọn mình đều rất thích học."
+      ]
+     ],
+     "w": "外"
+    },
+    {
+     "id": "h1-50",
+     "title": "Bạn biết … không?",
+     "words": "会 能 行 是不是 说话 话 知识",
+     "g": [
+      "会 / 能 · 是不是",
+      "会 + động từ = biết làm (do học mà có): 我会说汉语. 能 + động từ = có thể (có khả năng, điều kiện cho phép): 你能说慢一点儿吗？ 是不是 = có phải … không: 你是不是越南人？ 行 = được, ổn.",
+      [
+       [
+        "我会写汉字。",
+        "Tôi biết viết chữ Hán."
+       ],
+       [
+        "明天你能来吗？",
+        "Mai bạn đến được không?"
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你会说汉语吗？",
+       "Bạn biết nói tiếng Trung không?"
+      ],
+      [
+       "Lan",
+       "会一点儿。你能说慢一点儿吗？",
+       "Biết một chút. Bạn có thể nói chậm một chút không?"
+      ],
+      [
+       "Minh",
+       "行！你是不是越南人？",
+       "Được! Bạn có phải người Việt Nam không?"
+      ],
+      [
+       "Lan",
+       "是。你的话我都明白！",
+       "Phải. Lời bạn nói mình hiểu hết!"
+      ],
+      [
+       "Minh",
+       "你很会说话！",
+       "Bạn khéo nói quá!"
+      ],
+      [
+       "Lan",
+       "谢谢！我们的汉语老师很有知识。",
+       "Cảm ơn! Thầy dạy tiếng Trung của bọn mình rất uyên bác."
+      ]
+     ],
+     "w": "会能"
+    }
+   ]
+  },
+  {
+   "id": "h1u11",
+   "title": "Công việc và nhà cửa",
+   "goal": "Kể về công việc, nhà ở, việc nhà và việc đang làm.",
+   "lessons": [
+    {
+     "id": "h1-51",
+     "title": "Đi làm",
+     "words": "上班 下班 开会 忙 累 工人 事 在家",
+     "g": [
+      "上班 / 下班 · 有事",
+      "上班 = đi làm, 下班 = tan làm. 有事 = có việc (bận): 我明天有事. 在家 = ở nhà. 太 + tính từ + 了 = … quá: 太累了.",
+      [
+       [
+        "我爸爸是工人。",
+        "Bố tôi là công nhân."
+       ],
+       [
+        "我明天有事。",
+        "Mai tôi có việc."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "你今天忙吗？",
+       "Hôm nay bạn bận không?"
+      ],
+      [
+       "Minh",
+       "很忙。上午开会，下午有很多事。",
+       "Bận lắm. Buổi sáng họp, buổi chiều nhiều việc."
+      ],
+      [
+       "Lan",
+       "你几点下班？",
+       "Mấy giờ bạn tan làm?"
+      ],
+      [
+       "Minh",
+       "六点。我太累了！",
+       "Sáu giờ. Mình mệt quá!"
+      ],
+      [
+       "Lan",
+       "明天你上班吗？",
+       "Mai bạn có đi làm không?"
+      ],
+      [
+       "Minh",
+       "明天星期天，我在家。",
+       "Mai chủ nhật, mình ở nhà."
+      ]
+     ],
+     "w": "忙"
+    },
+    {
+     "id": "h1-52",
+     "title": "Nhà tôi",
+     "words": "房子 房间 楼 楼上 楼下 门 门口 床",
+     "g": [
+      "Tầng nhà · 有 chỉ sự tồn tại",
+      "Tầng: số + 楼: 五楼 (tầng năm). Nơi chốn + 有 + vật = ở đâu có gì: 门口有一个商店, 房间里有床. 楼上 / 楼下 = tầng trên / tầng dưới.",
+      [
+       [
+        "楼上有人吗？",
+        "Trên lầu có ai không?"
+       ],
+       [
+        "门在那儿。",
+        "Cửa ở đằng kia."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你的房子大吗？",
+       "Nhà bạn có to không?"
+      ],
+      [
+       "Lan",
+       "不大，有两个房间。我住在五楼。",
+       "Không to, có hai phòng. Mình ở tầng năm."
+      ],
+      [
+       "Minh",
+       "楼下有商店吗？",
+       "Dưới nhà có cửa hàng không?"
+      ],
+      [
+       "Lan",
+       "有，门口有一个小商店。",
+       "Có, ở cửa có một cửa hàng nhỏ."
+      ],
+      [
+       "Minh",
+       "你的房间里有什么？",
+       "Trong phòng bạn có gì?"
+      ],
+      [
+       "Lan",
+       "有床，有桌子。",
+       "Có giường, có bàn."
+      ]
+     ],
+     "w": "床"
+    },
+    {
+     "id": "h1-53",
+     "title": "Việc nhà",
+     "words": "洗 干净 干 干~gan2 干什么 帮 帮忙 放",
+     "g": [
+      "在 + động từ: đang làm · 放在",
+      "在 + động từ = đang làm: 我在洗衣服. Hỏi: 你在干什么？ 放在 + nơi = đặt ở đâu: 放在床上. Chữ 干 có hai âm: gān (khô: 干净, 衣服干了) và gàn (làm: 干什么).",
+      [
+       [
+        "我们一起干{gàn}吧！",
+        "Chúng ta cùng làm đi!"
+       ],
+       [
+        "你帮我一下儿，好吗？",
+        "Bạn giúp tôi một chút được không?"
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "你在干什么？",
+       "Bạn đang làm gì đấy?"
+      ],
+      [
+       "Minh",
+       "我在洗衣服。",
+       "Mình đang giặt quần áo."
+      ],
+      [
+       "Lan",
+       "我帮你吧！",
+       "Để mình giúp bạn!"
+      ],
+      [
+       "Minh",
+       "谢谢！衣服干{gān}了吗？",
+       "Cảm ơn! Quần áo khô chưa?"
+      ],
+      [
+       "Lan",
+       "这些干{gān}了，很干净。放在哪儿？",
+       "Mấy cái này khô rồi, sạch lắm. Để ở đâu?"
+      ],
+      [
+       "Minh",
+       "放在床上吧。谢谢你帮忙！",
+       "Để lên giường đi. Cảm ơn bạn đã giúp!"
+      ]
+     ],
+     "w": "洗"
+    },
+    {
+     "id": "h1-54",
+     "title": "Bật và tắt",
+     "words": "开 关 关上 打开 电视 电视机 电脑 间",
+     "g": [
+      "开 / 关 · 打开 / 关上",
+      "开 = mở, bật; 关 = đóng, tắt: 开门, 关电视. Thêm kết quả: 打开 (mở ra), 关上 (đóng lại). 间 là lượng từ cho phòng: 这间房间.",
+      [
+       [
+        "请开门。",
+        "Mời mở cửa."
+       ],
+       [
+        "这间房间很大。",
+        "Căn phòng này rất to."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "请打开电视，我想看一下儿。",
+       "Bạn bật ti vi lên giúp mình, mình muốn xem chút."
+      ],
+      [
+       "Lan",
+       "好。你想看什么？",
+       "Được. Bạn muốn xem gì?"
+      ],
+      [
+       "Minh",
+       "我想看电影。",
+       "Mình muốn xem phim."
+      ],
+      [
+       "Lan",
+       "电视里没有电影，你用电脑看吧。",
+       "Trên ti vi không có phim đâu, bạn xem bằng máy tính đi."
+      ],
+      [
+       "Minh",
+       "好。那你关上电视吧。",
+       "Được. Vậy bạn tắt ti vi đi."
+      ],
+      [
+       "Lan",
+       "门也关上吗？",
+       "Cửa cũng đóng lại à?"
+      ]
+     ],
+     "w": "开关"
+    },
+    {
+     "id": "h1-55",
+     "title": "Bạn đang làm gì thế?",
+     "words": "正在 正 着 跟 一边 睡 坐下 起",
+     "g": [
+      "正在 · 着 · 一边 … 一边 …",
+      "正在 / 正 / 在 + động từ = đang làm; cuối câu có thể thêm 呢: 她在睡呢. 一边 A 一边 B = vừa A vừa B. Động từ + 着 = đang ở trạng thái: 门开着 (cửa đang mở). 跟 + người + 一起 = cùng với ai.",
+      [
+       [
+        "门开着。",
+        "Cửa đang mở."
+       ],
+       [
+        "请坐下。",
+        "Mời ngồi xuống."
+       ],
+       [
+        "他起了吗？",
+        "Anh ấy dậy chưa?"
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "你在家吗？你正在干什么？",
+       "Bạn ở nhà à? Bạn đang làm gì đấy?"
+      ],
+      [
+       "Minh",
+       "我正在吃饭，一边吃一边看电视。",
+       "Mình đang ăn cơm, vừa ăn vừa xem ti vi."
+      ],
+      [
+       "Lan",
+       "你妹妹呢？",
+       "Còn em gái bạn?"
+      ],
+      [
+       "Minh",
+       "她在床上睡呢。",
+       "Nó đang ngủ trên giường."
+      ],
+      [
+       "Lan",
+       "我想跟你一起去商场，你能来吗？",
+       "Mình muốn đi trung tâm thương mại cùng bạn, bạn tới được không?"
+      ],
+      [
+       "Minh",
+       "能，我正要出去。",
+       "Được, mình cũng đang định ra ngoài."
+      ]
+     ],
+     "w": "正"
+    },
+    {
+     "id": "h1-56",
+     "title": "Nhớ và quên",
+     "words": "记 记得 记住 忘 忘记 告诉 上次 下次 次",
+     "g": [
+      "告诉 + người + việc · 次",
+      "告诉 + người + điều = nói cho ai biết: 我告诉你. 记得 = còn nhớ; 记住 = nhớ kỹ; 忘 / 忘记 = quên. Số + 次 = số lần: 两次; 上次 / 下次 = lần trước / lần sau.",
+      [
+       [
+        "我去了两次。",
+        "Tôi đã đi hai lần."
+       ],
+       [
+        "请告诉我你的名字。",
+        "Xin hãy cho tôi biết tên bạn."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你记得他的名字吗？",
+       "Bạn còn nhớ tên anh ấy không?"
+      ],
+      [
+       "Lan",
+       "我忘了。他叫什么？",
+       "Mình quên rồi. Anh ấy tên gì?"
+      ],
+      [
+       "Minh",
+       "我告诉你，他叫 Hùng。上次我们一起吃饭了。",
+       "Mình nói cho bạn nhé, anh ấy tên Hùng. Lần trước bọn mình ăn cơm cùng nhau."
+      ],
+      [
+       "Lan",
+       "对，我记住了！",
+       "Đúng rồi, mình nhớ rồi!"
+      ],
+      [
+       "Minh",
+       "下次别忘记！",
+       "Lần sau đừng quên nhé!"
+      ],
+      [
+       "Lan",
+       "好，我记一下儿他的电话。",
+       "Được, mình ghi lại số điện thoại của anh ấy."
+      ]
+     ],
+     "w": "记"
+    }
+   ]
+  },
+  {
+   "id": "h1u12",
+   "title": "Sức khoẻ, thời tiết, cảm xúc",
+   "goal": "Nói mình bị ốm, nói về thời tiết, bày tỏ cảm xúc.",
+   "lessons": [
+    {
+     "id": "h1-57",
+     "title": "Bị ốm",
+     "words": "病 生病 病人 看病 身体 身上 休息 手",
+     "g": [
+      "你怎么了？ · Bị ốm",
+      "Hỏi thăm khi ai đó có vẻ không ổn: 你怎么了？ 生病了 = bị ốm rồi; 看病 = đi khám bệnh (người bệnh) hoặc khám bệnh (bác sĩ). 好好 + động từ = làm cho tốt: 好好休息.",
+      [
+       [
+        "他的病好了。",
+        "Anh ấy khỏi bệnh rồi."
+       ],
+       [
+        "你身上有钱吗？",
+        "Bạn có mang tiền theo không?"
+       ],
+       [
+        "请洗手。",
+        "Mời rửa tay."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "你怎么了？",
+       "Bạn sao thế?"
+      ],
+      [
+       "Minh",
+       "我生病了。",
+       "Mình bị ốm rồi."
+      ],
+      [
+       "Lan",
+       "你去医院看病了吗？",
+       "Bạn đi bệnh viện khám chưa?"
+      ],
+      [
+       "Minh",
+       "去了。医生说我要多休息。",
+       "Đi rồi. Bác sĩ bảo mình phải nghỉ ngơi nhiều."
+      ],
+      [
+       "Lan",
+       "医院里病人多吗？",
+       "Trong bệnh viện có đông bệnh nhân không?"
+      ],
+      [
+       "Minh",
+       "很多。你身体好吗？",
+       "Đông lắm. Sức khoẻ bạn tốt chứ?"
+      ],
+      [
+       "Lan",
+       "很好。你好好休息吧！",
+       "Tốt. Bạn nghỉ ngơi cho tốt nhé!"
+      ]
+     ],
+     "w": "手"
+    },
+    {
+     "id": "h1-58",
+     "title": "Thời tiết hôm nay",
+     "words": "天 天气 冷 热 下雨 雨 风",
+     "g": [
+      "Nói về thời tiết",
+      "天气 + tính từ: 天气很好 / 很热. 下雨了 = trời mưa rồi — 了 báo một tình huống mới. 风很大 = gió to; 雨很大 = mưa to. 天 = ngày / trời: 冷天 (ngày lạnh).",
+      [
+       [
+        "雨很大。",
+        "Mưa rất to."
+       ],
+       [
+        "今天天气很好。",
+        "Hôm nay thời tiết rất đẹp."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "今天天气好吗？",
+       "Hôm nay thời tiết đẹp không?"
+      ],
+      [
+       "Lan",
+       "不太好，下雨了。",
+       "Không đẹp lắm, mưa rồi."
+      ],
+      [
+       "Minh",
+       "冷吗？",
+       "Có lạnh không?"
+      ],
+      [
+       "Lan",
+       "不冷，风很大。河内的天气很热。",
+       "Không lạnh, gió to lắm. Thời tiết Hà Nội nóng lắm."
+      ],
+      [
+       "Minh",
+       "北京十二月非常冷。",
+       "Bắc Kinh tháng mười hai lạnh cực kỳ."
+      ],
+      [
+       "Lan",
+       "我不喜欢冷天，我喜欢热天。",
+       "Mình không thích trời lạnh, mình thích trời nóng."
+      ]
+     ],
+     "w": "天雨"
+    },
+    {
+     "id": "h1-59",
+     "title": "Vui và buồn",
+     "words": "笑 生气 真 真的 觉得 坏 重要 重",
+     "g": [
+      "觉得 · 真 + tính từ",
+      "觉得 + nhận xét = thấy rằng: 我觉得这个电影很好. 真 + tính từ = thật là …: 真好玩儿 (dùng để cảm thán, không thêm 很). 真的吗？ = Thật à?",
+      [
+       [
+        "这个包很重。",
+        "Cái túi này rất nặng."
+       ],
+       [
+        "学汉语很重要。",
+        "Học tiếng Trung rất quan trọng."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "你笑什么？",
+       "Bạn cười gì thế?"
+      ],
+      [
+       "Minh",
+       "我觉得这个电影真好玩儿！",
+       "Mình thấy bộ phim này vui thật!"
+      ],
+      [
+       "Lan",
+       "我妈妈生气了。",
+       "Mẹ mình giận rồi."
+      ],
+      [
+       "Minh",
+       "真的吗？你做了什么？",
+       "Thật à? Bạn đã làm gì?"
+      ],
+      [
+       "Lan",
+       "我的手机坏了，这个手机很贵。",
+       "Điện thoại mình hỏng rồi, cái này đắt lắm."
+      ],
+      [
+       "Minh",
+       "手机不重要，你别想了。",
+       "Điện thoại không quan trọng, bạn đừng nghĩ nữa."
+      ]
+     ],
+     "w": "真"
+    },
+    {
+     "id": "h1-60",
+     "title": "Chỉ đùa thôi",
+     "words": "开玩笑 就 没 起来 一半 还~huan2 得到 老",
+     "g": [
+      "就: ngay · 没 + động từ · 还 (huán)",
+      "就 nhấn mạnh “ngay, chính”: 就在这儿 (ở ngay đây), 现在就去 (đi ngay bây giờ). 没 + động từ = chưa / đã không: 我没去. 没了 = hết rồi, mất rồi. Chữ 还 có hai âm: hái (vẫn, còn) và huán (trả lại): 还你钱.",
+      [
+       [
+        "他得到了一个新手机。",
+        "Anh ấy có được một chiếc điện thoại mới."
+       ],
+       [
+        "我的电脑很老了。",
+        "Máy tính của tôi cũ lắm rồi."
+       ],
+       [
+        "我没去。",
+        "Tôi đã không đi."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "我的钱包没了！",
+       "Ví của mình mất rồi!"
+      ],
+      [
+       "Lan",
+       "真的吗？",
+       "Thật à?"
+      ],
+      [
+       "Minh",
+       "我开玩笑呢！钱包就在这儿。",
+       "Mình đùa đấy! Ví ở ngay đây."
+      ],
+      [
+       "Lan",
+       "你真坏！我昨天给你的钱呢？你还{huán}我一半吧。",
+       "Bạn hư thật! Tiền hôm qua mình đưa bạn đâu? Trả mình một nửa đi."
+      ],
+      [
+       "Minh",
+       "好，我现在就还{huán}你。",
+       "Được, mình trả bạn ngay bây giờ."
+      ],
+      [
+       "Lan",
+       "起来吧，我们去吃饭！",
+       "Đứng dậy đi, mình đi ăn thôi!"
+      ]
+     ],
+     "w": "老"
+    }
+   ]
+  },
+  {
+   "id": "h1u13",
+   "title": "Đi chơi và lễ Tết",
+   "goal": "Đi chơi xa, nói về nước ngoài, đón năm mới.",
+   "lessons": [
+    {
+     "id": "h1-61",
+     "title": "Đi chơi núi",
+     "words": "山 树 花 地方 地点 地图 地~di2 地上",
+     "g": [
+      "Nơi + 上 + 有 + vật",
+      "Miêu tả cảnh: 山上有很多树 (trên núi có nhiều cây), 地上有一个钱包. 地方 = nơi, chỗ; 地点 = địa điểm (trang trọng); 地 (dì) = đất, mặt đất.",
+      [
+       [
+        "地{dì}很干净。",
+        "Mặt đất rất sạch."
+       ],
+       [
+        "这里的花很好看。",
+        "Hoa ở đây rất đẹp."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "这个地方真好看！",
+       "Chỗ này đẹp thật!"
+      ],
+      [
+       "Minh",
+       "对，山上有很多树和花。",
+       "Ừ, trên núi có nhiều cây và hoa."
+      ],
+      [
+       "Lan",
+       "我们去哪儿？你有地图吗？",
+       "Mình đi đâu? Bạn có bản đồ không?"
+      ],
+      [
+       "Minh",
+       "有。我们的地点在这儿，山的北边。",
+       "Có. Điểm hẹn của mình ở đây, phía bắc ngọn núi."
+      ],
+      [
+       "Lan",
+       "你看，地上有一个钱包！",
+       "Bạn xem, dưới đất có một cái ví!"
+      ],
+      [
+       "Minh",
+       "我们找一下儿，是谁的？",
+       "Mình tìm xem của ai."
+      ]
+     ],
+     "w": "山花"
+    },
+    {
+     "id": "h1-62",
+     "title": "Đi nước ngoài",
+     "words": "国家 国外 外国 中 后 前 最后 最好",
+     "g": [
+      "前 / 后 + số lượng · 最好",
+      "前三个月 = ba tháng đầu, 后三个月 = ba tháng sau. 最好 + động từ = tốt nhất là. 最后 = cuối cùng. 中 = trong số: 三个人中，他最高.",
+      [
+       [
+        "三个人中，他最高。",
+        "Trong ba người, anh ấy cao nhất."
+       ],
+       [
+        "你最好早一点儿来。",
+        "Tốt nhất bạn nên đến sớm một chút."
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Minh",
+       "你想去哪个国家？",
+       "Bạn muốn đi nước nào?"
+      ],
+      [
+       "Lan",
+       "我最想去中国。你呢？",
+       "Mình muốn đi Trung Quốc nhất. Còn bạn?"
+      ],
+      [
+       "Minh",
+       "我想去国外工作，最好在北京。",
+       "Mình muốn ra nước ngoài làm việc, tốt nhất là ở Bắc Kinh."
+      ],
+      [
+       "Lan",
+       "在外国工作很难吗？",
+       "Làm việc ở nước ngoài có khó không?"
+      ],
+      [
+       "Minh",
+       "前三个月很难，后三个月就好了。",
+       "Ba tháng đầu khó, ba tháng sau là ổn rồi."
+      ],
+      [
+       "Lan",
+       "最后，我们都要回越南！",
+       "Cuối cùng, chúng mình đều phải về Việt Nam!"
+      ]
+     ],
+     "w": "前后"
+    },
+    {
+     "id": "h1-63",
+     "title": "Chúc mừng năm mới",
+     "words": "新年 过 准备 地",
+     "g": [
+      "地: làm một cách … · 过新年",
+      "Tính từ + 地 + động từ = làm một cách …: 高兴地过新年 (vui vẻ đón năm mới), 慢慢地走. 地 ở đây đọc là de. 过 + ngày lễ = đón: 过新年. Chúc Tết: 新年好！",
+      [
+       [
+        "我们慢慢地{de}走。",
+        "Chúng ta đi từ từ."
+       ],
+       [
+        "你们怎么过{guò}新年？",
+        "Các bạn đón năm mới thế nào?"
+       ]
+      ]
+     ],
+     "d": [
+      [
+       "Lan",
+       "新年好！",
+       "Chúc mừng năm mới!"
+      ],
+      [
+       "Minh",
+       "新年好！你们怎么过{guò}新年？",
+       "Chúc mừng năm mới! Nhà bạn đón năm mới thế nào?"
+      ],
+      [
+       "Lan",
+       "我们一家人在一起吃饭，送家人东西。",
+       "Cả nhà mình cùng nhau ăn cơm, tặng quà cho người nhà."
+      ],
+      [
+       "Minh",
+       "你准备了什么？",
+       "Bạn đã chuẩn bị những gì?"
+      ],
+      [
+       "Lan",
+       "我准备了很多水果和菜。",
+       "Mình chuẩn bị nhiều hoa quả và món ăn."
+      ],
+      [
+       "Minh",
+       "我们一家人也高兴地{de}过{guò}新年！",
+       "Cả nhà mình cũng vui vẻ đón năm mới!"
+      ]
+     ],
+     "w": "过"
+    }
+   ]
+  }
+ ]
+}

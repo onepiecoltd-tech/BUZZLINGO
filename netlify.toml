@@ -1,0 +1,7 @@
+# Netlify: thư mục web tĩnh + hàm trợ lý AI. Deploy: npx netlify-cli deploy --prod
+[build]
+  publish = "dist"
+  functions = "netlify/functions"
+
+[functions]
+  node_bundler = "esbuild"

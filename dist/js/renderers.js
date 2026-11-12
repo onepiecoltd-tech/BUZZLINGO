@@ -214,7 +214,7 @@
     const renderAi = (box, res) => {
       box.hidden = false;
       box.innerHTML = res.ok
-        ? `<div class="ai-tag">${coachName} (AI) · do AI viết, có thể sai · không ảnh hưởng điểm</div>${res.heard ? `<p class="hint">AI nghe được: <b lang="zh-Hans">${esc(res.heard)}</b></p>` : ''}<p>${esc(res.reply)}</p>${res.zh ? `<div class="ai-zh"><b lang="zh-Hans" class="zh-say" role="button" tabindex="0" data-zh="${esc(res.zh.hanzi)}">${esc(res.zh.hanzi)} 🔊</b> <span>${esc(res.zh.pinyin || '')}</span></div>` : ''}<small class="hint">Còn ${B.Coach.remaining()} lượt AI hôm nay</small>`
+        ? `<div class="ai-tag">${coachName} (AI) · do AI viết, có thể sai · không ảnh hưởng điểm</div>${res.heard ? `<p class="hint">AI nghe được: <b lang="zh-Hans">${esc(res.heard)}</b></p>` : ''}<p>${esc(res.reply)}</p>${res.zh ? `<div class="ai-zh"><b lang="zh-Hans" class="zh-say" role="button" tabindex="0" data-zh="${esc(res.zh.hanzi)}">${esc(res.zh.hanzi)} 🔊</b> <span>${esc(res.zh.pinyin || '')}</span></div>` : ''}`
         : `<p class="ai-err">${esc(res.error)}</p>`;
     };
     const hearBtn = $('#aiHear', ui.stage);

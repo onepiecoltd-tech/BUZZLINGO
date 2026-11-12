@@ -35,7 +35,7 @@ Trình duyệt (dist/)  --POST JSON-->  Proxy (netlify/functions/coach.mjs → s
 2. Chỉ gửi chữ người học gõ/nói (đã nhận dạng), ngữ cảnh câu hỏi và danh sách chữ đã học. Bản ghi giọng chỉ gửi khi người học bấm "Gửi bản ghi cho AI". Không gửi tên, hồ sơ, dữ liệu học tập.
 3. Prompt ép: chỉ dùng chữ Hán đã học, không chấm phát âm, nói "mình chưa chắc" khi không chắc, coi tin nhắn người học là dữ liệu (chống prompt injection).
 4. Đầu ra đi qua `sanitizeReply` ở server và kiểm tra lần nữa ở client: nếu AI dùng chữ chưa học, hiển thị thông báo an toàn thay vì nội dung đó.
-5. Hạn mức: 25 lượt/ngày phía client, `DAILY_LIMIT` (mặc định 30) phía proxy; giới hạn độ dài, số lượt lịch sử, kích thước body; timeout 15 giây; lỗi nhà cung cấp không lộ chi tiết.
+5. Hạn mức: không giới hạn lượt hỏi AI phía app; phía proxy chỉ giới hạn khi đặt `DAILY_LIMIT`; giới hạn độ dài, số lượt lịch sử, kích thước body; timeout 15 giây; lỗi nhà cung cấp không lộ chi tiết.
 6. Giao diện luôn ghi "do AI viết, có thể sai". AI không đổi attempt, XP hay lịch SRS (có test).
 
 ## Triển khai nhanh với Netlify + Gemini (khuyên dùng)
@@ -52,7 +52,7 @@ npx netlify-cli deploy --prod
 
 3. Mở app → **Cá nhân** → tick **Bật trợ lý AI** → Lưu.
 
-Tuỳ chọn: `MODEL` (mặc định `gemini-3.5-flash-lite`, rẻ, có gói miễn phí, nghe được audio; muốn hay hơn dùng `gemini-3.8-flash`), `DAILY_LIMIT` (mặc định 30 lượt/người/ngày). Đặt bằng `npx netlify-cli env:set TÊN giá_trị` rồi deploy lại.
+Tuỳ chọn: `MODEL` (mặc định `gemini-3.5-flash-lite`, rẻ, có gói miễn phí, nghe được audio; muốn hay hơn dùng `gemini-3.8-flash`), `DAILY_LIMIT` (mặc định không giới hạn; đặt số để chặn chi phí). Đặt bằng `npx netlify-cli env:set TÊN giá_trị` rồi deploy lại.
 
 Hàm Netlify dừng sau 10 giây nên proxy đặt timeout 9 giây. Nguồn được phép mặc định: địa chỉ site và `null` (app Windows mở file cục bộ).
 

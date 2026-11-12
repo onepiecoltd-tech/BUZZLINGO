@@ -99,11 +99,7 @@ const wrongFirst = async (page) => { await page.click('#heroCta'); await skipSto
     await page.fill('#aiQ', 'hỏi tiếp'); await page.click('.ai-form button');
     await page.waitForSelector('.ai-err');
     ok(/hết lượt/.test(await page.textContent('.ai-err')), 'Hiện lỗi 429 thân thiện');
-    await page.evaluate(() => localStorage.setItem('buzzlingo.coach.v1', JSON.stringify({ day: new Date().toISOString().slice(0, 10), n: 25, uid: 'x' })));
-    const n0 = calls.length;
-    await page.click('#lessonBtn'); await page.click('.answer[data-i="0"]'); await page.click('#lessonBtn');
-    await page.click('#aiAsk'); await page.waitForSelector('#aiBox .ai-err');
-    eq(calls.length, n0, 'Hết hạn mức phía client thì không gọi mạng'); await browser.close(); }
+    await browser.close(); }
 
   console.log('5. Phòng trò chuyện với Blu');
   { const { browser, page, calls, errors } = await launch({ reply: () => ({ status: 200, json: { reply: 'Blu chào bạn! Bạn nói rất tự nhiên.', zh: { hanzi: '你好', pinyin: 'nǐ hǎo', vi: 'xin chào' }, flags: [] } }) });

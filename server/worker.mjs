@@ -34,8 +34,8 @@ export async function handle(request, env, { fetchImpl = fetch, now = Date.now()
   const ip = request.headers.get('cf-connecting-ip') || request.headers.get('x-nf-client-connection-ip') || 'unknown';
   const key = `${req.uid || ip}:${dayKey(now)}`;
   const used = (counters.get(key) || 0) + 1;
-  const limit = Number(env.DAILY_LIMIT) || 30;
-  if (used > limit) return json({ error: 'Bạn đã dùng hết lượt hỏi AI hôm nay. Mai quay lại nhé!' }, 429, h);
+  const limit = Number(env.DAILY_LIMIT) || 0; // 0 = không giới hạn (chỉ giới hạn khi đặt DAILY_LIMIT)
+  if (limit && used > limit) return json({ error: 'Bạn đã dùng hết lượt hỏi AI hôm nay. Mai quay lại nhé!' }, 429, h);
   counters.set(key, used);
   if (counters.size > 5000) for (const k of counters.keys()) { if (!k.endsWith(dayKey(now))) counters.delete(k); }
 
@@ -54,7 +54,7 @@ export async function handle(request, env, { fetchImpl = fetch, now = Date.now()
   const allowed = req.mode === 'speak' ? [...req.known.hanzi, ...(`${(req.step && req.step.correct) || ''}${req.message}`.match(/[㐀-鿿]/g) || [])] : req.known.hanzi;
   const out = sanitizeReply(parseModelJson(extractText(env.PROVIDER, data)), allowed);
   if (!out) return json({ error: 'Trợ lý trả lời không đúng định dạng.' }, 502, h);
-  return json({ ...out, remaining: Math.max(0, limit - used) }, 200, h);
+  return json({ ...out, remaining: limit ? Math.max(0, limit - used) : null }, 200, h);
 }
 
 export default { fetch: (request, env) => handle(request, env) };

@@ -5,7 +5,7 @@
   'use strict';
   const B = (window.Buzz = window.Buzz || {});
   const C = B.Content, { esc, $ } = B.U;
-  const QUOTA_KEY = 'buzzlingo.coach.v1', CLIENT_LIMIT = 25;
+  const QUOTA_KEY = 'buzzlingo.coach.v1', CLIENT_LIMIT = 0; // 0 = không giới hạn lượt hỏi AI phía app
   const CJK = /[㐀-鿿]/g;
 
   const endpoint = () => (window.BuzzConfig && window.BuzzConfig.coachEndpoint) || '';
@@ -21,7 +21,7 @@
     return q;
   }
   const saveQuota = (q) => { try { localStorage.setItem(QUOTA_KEY, JSON.stringify(q)); } catch (e) { /* bỏ qua */ } };
-  const remaining = () => Math.max(0, CLIENT_LIMIT - quota().n);
+  const remaining = () => (CLIENT_LIMIT ? Math.max(0, CLIENT_LIMIT - quota().n) : Infinity);
 
   /** Chữ đã học (gửi dạng chuỗi gọn), cấp HSK cao nhất đã gặp, và tối đa 40 từ gần đây nhất. */
   function known() {
@@ -36,7 +36,7 @@
   async function request(payload) {
     if (!enabled()) return { ok: false, error: 'Trợ lý AI chưa được bật.' };
     const q = quota();
-    if (q.n >= CLIENT_LIMIT) return { ok: false, error: 'Bạn đã dùng hết lượt hỏi AI hôm nay. Mai quay lại nhé!' };
+    if (CLIENT_LIMIT && q.n >= CLIENT_LIMIT) return { ok: false, error: 'Bạn đã dùng hết lượt hỏi AI hôm nay. Mai quay lại nhé!' };
     q.n++; saveQuota(q);
     const k = known();
     const ctl = new AbortController(); const t = setTimeout(() => ctl.abort(), 20000);
@@ -77,8 +77,7 @@
       if (!res.ok) return show(`<p class="ai-err">${esc(res.error)}</p>`);
       history.push({ role: 'assistant', text: res.reply });
       show(`<div class="ai-tag">${name} (AI) · do AI viết, có thể sai — hãy đối chiếu phần giải thích ở trên</div><p>${esc(res.reply)}</p>${zhBlock(res.zh)}
-        <form class="ai-form"><label class="sr-only" for="aiQ">Hỏi thêm</label><input id="aiQ" type="text" maxlength="300" placeholder="Hỏi thêm bằng tiếng Việt…"><button class="secondary" type="submit">Gửi</button></form>
-        <small class="hint">Còn ${remaining()} lượt hôm nay</small>`);
+        <form class="ai-form"><label class="sr-only" for="aiQ">Hỏi thêm</label><input id="aiQ" type="text" maxlength="300" placeholder="Hỏi thêm bằng tiếng Việt…"><button class="secondary" type="submit">Gửi</button></form>`);
       $('.ai-form', box).onsubmit = async (e) => {
         e.preventDefault();
         const input = $('#aiQ', box), msg = input.value.trim();
@@ -112,7 +111,7 @@
       const res = await request({ mode: 'critique', persona: step.coach, message: text, step: { title: step.title, prompt: step.task, correct: step.model.hanzi, userAnswer: text, explain: `Bộ kiểm tra tự động: ${result.pass ? 'đạt' : 'chưa đạt'}. ${summary}` } });
       btn.hidden = true;
       box.innerHTML = res.ok
-        ? `<div class="ai-tag">${name} (AI) · do AI viết, có thể sai · không ảnh hưởng điểm</div><p>${esc(res.reply)}</p>${zhBlock(res.zh)}<small class="hint">Còn ${remaining()} lượt hôm nay</small>`
+        ? `<div class="ai-tag">${name} (AI) · do AI viết, có thể sai · không ảnh hưởng điểm</div><p>${esc(res.reply)}</p>${zhBlock(res.zh)}`
         : `<p class="ai-err">${esc(res.error)}</p>`;
     };
   }
@@ -134,7 +133,7 @@
     const o = step.opening;
     bubble('ai', `<b lang="zh-Hans">${esc(o.zh)}</b> <span class="pinyin">${esc(o.pinyin)}</span><br><small>${esc(o.vi)}</small>`);
     history.push({ role: 'assistant', text: `${o.zh} (${o.pinyin})` });
-    const left = () => { $('#chatLeft', ui.stage).textContent = `Còn ${MAX_TURNS - turns} lượt trong cuộc này · ${remaining()} lượt AI hôm nay`; };
+    const left = () => { $('#chatLeft', ui.stage).textContent = `Còn ${MAX_TURNS - turns} lượt trong cuộc này`; };
     left();
     form.onsubmit = async (e) => {
       e.preventDefault();
